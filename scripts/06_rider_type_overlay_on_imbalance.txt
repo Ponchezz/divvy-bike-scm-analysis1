@@ -1,0 +1,42 @@
+# ============================================================
+# SECTION F — RIDER TYPE OVERLAY ON IMBALANCE
+# ============================================================
+
+starts_user <- combined_data %>%
+  mutate(hour_ts = floor_date(started_at, "hour")) %>%
+  count(year, hour_ts, member_casual,
+        station_id = start_station_id, station_name = start_station_name,
+        name = "departures")
+
+ends_user <- combined_data %>%
+  mutate(hour_ts = floor_date(started_at, "hour")) %>%
+  count(year, hour_ts, member_casual,
+        station_id = end_station_id, station_name = end_station_name,
+        name = "arrivals")
+
+flow_user <- full_join(
+  starts_user, ends_user,
+  by = c("year", "hour_ts", "member_casual", "station_id", "station_name")
+) %>%
+  mutate(
+    departures = replace_na(departures, 0),
+    arrivals   = replace_na(arrivals, 0),
+    net_flow   = arrivals - departures
+  )
+
+imbalance_user_hour <- flow_user %>%
+  mutate(hour = hour(hour_ts)) %>%
+  group_by(year, member_casual, hour) %>%
+  summarise(imbalance = sum(abs(net_flow)), .groups = "drop")
+
+p_imbalance_user <- ggplot(imbalance_user_hour, aes(x = hour, y = imbalance, color = member_casual)) +
+  geom_line() +
+  geom_point() +
+  facet_wrap(~year) +
+  scale_x_continuous(breaks = 0:23) +
+  labs(title = "System-wide Imbalance by Hour and Rider Type",
+       x = "Hour", y = "Sum(|net_flow|)", color = "Rider Type") +
+  theme_minimal()
+
+p_imbalance_user
+ggsave("outputs/figures/imbalance_by_hour_rider_type.png", p_imbalance_user, width = 11, height = 6, dpi = 300)

@@ -1,0 +1,1192 @@
+year,station_id,station_name,missed_trips
+2019,2,Buckingham Fountain (Temp),198
+2019,3,Shedd Aquarium,889
+2019,4,Burnham Harbor,169
+2019,5,State St & Harrison St,381
+2019,6,Dusable Harbor,321
+2019,7,Field Blvd & South Water St,548
+2019,9,Leavitt St & Archer Ave,61
+2019,11,Jeffery Blvd & 71st St,12
+2019,12,South Shore Dr & 71st St,12
+2019,13,Wilton Ave & Diversey Pkwy,797
+2019,14,Morgan St & 18th St,347
+2019,15,Racine Ave & 18th St,393
+2019,16,Paulina Ave & North Ave,442
+2019,17,Honore St & Division St,556
+2019,18,Wacker Dr & Washington St,1200
+2019,19,Loomis St & Taylor St (*),337
+2019,20,Sheffield Ave & Kingsbury St,502
+2019,21,Aberdeen St & Jackson Blvd,703
+2019,22,May St & Taylor St,449
+2019,23,Orleans St & Elm St (*),433
+2019,24,Fairbanks Ct & Grand Ave,755
+2019,25,Michigan Ave & Pearson St,441
+2019,26,McClurg Ct & Illinois St,1030
+2019,27,Larrabee St & North Ave,275
+2019,28,Larrabee St & Menomonee St,336
+2019,29,Noble St & Milwaukee Ave,604
+2019,30,Ashland Ave & Augusta Blvd,322
+2019,31,Franklin St & Chicago Ave,786
+2019,32,Racine Ave & Congress Pkwy,398
+2019,33,State St & Van Buren St,726
+2019,34,Cannon Dr & Fullerton Ave,151
+2019,35,Streeter Dr & Grand Ave,690
+2019,36,Franklin St & Jackson Blvd,1317
+2019,37,Dearborn St & Adams St,986
+2019,38,Clark St & Lake St,1124
+2019,39,Wabash Ave & Adams St,1101
+2019,40,LaSalle St & Adams St,777
+2019,41,Federal St & Polk St,839
+2019,42,Wabash Ave & Cermak Rd,182
+2019,43,Michigan Ave & Washington St,1803
+2019,44,State St & Randolph St,968
+2019,45,Michigan Ave & Ida B Wells Dr,495
+2019,46,Wells St & Walton St,445
+2019,47,State St & Kinzie St,1380
+2019,48,Larrabee St & Kingsbury St,1964
+2019,49,Dearborn St & Monroe St,2183
+2019,50,Clark St & Ida B Wells Dr,886
+2019,51,Clark St & Randolph St,1164
+2019,52,Michigan Ave & Lake St,1955
+2019,53,Wells St & Huron St,945
+2019,54,Ogden Ave & Chicago Ave,535
+2019,55,Halsted St & Roosevelt Rd,511
+2019,56,Desplaines St & Kinzie St,1246
+2019,57,Clinton St & Roosevelt Rd,323
+2019,58,Marshfield Ave & Cortland St,908
+2019,59,Wabash Ave & Roosevelt Rd,875
+2019,60,Dayton St & North Ave,542
+2019,61,Wood St & Milwaukee Ave,552
+2019,62,McCormick Place,229
+2019,66,Clinton St & Lake St,918
+2019,67,Sheffield Ave & Fullerton Ave,1256
+2019,68,Clinton St & Tilden St,376
+2019,69,Damen Ave & Pierce Ave,784
+2019,71,Morgan St & Lake St,942
+2019,72,Wabash Ave & 16th St,545
+2019,73,Jefferson St & Monroe St,518
+2019,74,Kingsbury St & Erie St,1112
+2019,75,Canal St & Jackson Blvd,543
+2019,76,Lake Shore Dr & Monroe St,696
+2019,77,Clinton St & Madison St,2114
+2019,80,Aberdeen St & Monroe St,634
+2019,81,Daley Center Plaza,1523
+2019,84,Milwaukee Ave & Grand Ave,784
+2019,85,Michigan Ave & Oak St,562
+2019,86,Eckhart Park,511
+2019,87,Racine Ave & Fullerton Ave,428
+2019,88,Racine Ave & Randolph St,337
+2019,89,Financial Pl & Ida B Wells Dr (Temp),745
+2019,90,Millennium Park,912
+2019,91,Clinton St & Washington Blvd,3478
+2019,92,Carpenter St & Huron St,428
+2019,93,Sheffield Ave & Willow St,480
+2019,94,Clark St & Armitage Ave,882
+2019,95,Stony Island Ave & 64th St,8
+2019,96,Desplaines St & Randolph St,662
+2019,97,Field Museum,473
+2019,98,LaSalle St & Washington St,1159
+2019,99,Lake Shore Dr & Ohio St,432
+2019,100,Orleans St & Merchandise Mart Plaza,1673
+2019,101,63rd St Beach,59
+2019,102,Stony Island Ave & 67th St,11
+2019,103,Clinton St & Polk St (*),195
+2019,106,State St & Pearson St,646
+2019,107,Desplaines St & Jackson Blvd,694
+2019,108,Halsted St & Polk St,582
+2019,109,900 W Harrison St,578
+2019,110,Dearborn St & Erie St,950
+2019,111,Sedgwick St & Huron St,824
+2019,112,Green St & Randolph St,577
+2019,113,Bissell St & Armitage Ave,536
+2019,114,Sheffield Ave & Waveland Ave,457
+2019,115,Sheffield Ave & Wellington Ave,596
+2019,116,Western Ave & Winnebago Ave,487
+2019,117,Wilton Ave & Belmont Ave,1039
+2019,118,Sedgwick St & North Ave,622
+2019,119,Ashland Ave & Lake St (Temp),407
+2019,120,Wentworth Ave & Cermak Rd (Temp),184
+2019,121,Blackstone Ave & Hyde Park Blvd,253
+2019,122,Ogden Ave & Congress Pkwy,156
+2019,123,California Ave & Milwaukee Ave,558
+2019,124,Damen Ave & Cullerton St,91
+2019,125,Rush St & Hubbard St,929
+2019,126,Clark St & North Ave,369
+2019,127,Lincoln Ave & Fullerton Ave,573
+2019,128,Damen Ave & Chicago Ave,443
+2019,129,Blue Island Ave & 18th St,506
+2019,130,Damen Ave & Division St,519
+2019,131,Lincoln Ave & Belmont Ave,418
+2019,132,Wentworth Ave & 24th St,79
+2019,133,Kingsbury St & Kinzie St,1468
+2019,134,Peoria St & Jackson Blvd,772
+2019,135,Halsted St & 21st St,107
+2019,136,Racine Ave & 13th St,123
+2019,137,Morgan Ave & 14th Pl,526
+2019,138,Clybourn Ave & Division St,547
+2019,140,Dearborn Pkwy & Delaware Pl,660
+2019,141,Clark St & Lincoln Ave,633
+2019,142,McClurg Ct & Erie St,1032
+2019,143,Sedgwick St & Webster Ave,695
+2019,144,Larrabee St & Webster Ave,515
+2019,145,Mies van der Rohe Way & Chestnut St,617
+2019,146,Loomis St & Jackson Blvd,351
+2019,147,Indiana Ave & 26th St,99
+2019,148,State St & 33rd St,451
+2019,149,Calumet Ave & 33rd St,182
+2019,150,Fort Dearborn Dr & 31st St,89
+2019,152,Lincoln Ave & Diversey Pkwy,498
+2019,153,Southport Ave & Wellington Ave,612
+2019,154,Southport Ave & Belmont Ave,265
+2019,156,Clark St & Wellington Ave,567
+2019,157,Lake Shore Dr & Wellington Ave,301
+2019,158,Milwaukee Ave & Wabansia Ave,534
+2019,159,Claremont Ave & Hirsch St,317
+2019,160,Campbell Ave & North Ave,292
+2019,161,Rush St & Superior St,724
+2019,162,Damen Ave & Wellington Ave,166
+2019,163,Damen Ave & Clybourn Ave,272
+2019,164,Franklin St & Lake St,1365
+2019,165,Clark St & Grace St,391
+2019,166,Ashland Ave & Wrightwood Ave,334
+2019,167,Damen Ave & Coulter St,10
+2019,168,Michigan Ave & 14th St,771
+2019,169,Canal St & Harrison St,322
+2019,170,Clinton St & 18th St,216
+2019,171,May St & Cullerton St,182
+2019,172,Rush St & Cedar St,555
+2019,173,Mies van der Rohe Way & Chicago Ave,847
+2019,174,Canal St & Madison St,1880
+2019,175,Wells St & Polk St,815
+2019,176,Clark St & Elm St,1036
+2019,177,Theater on the Lake,325
+2019,178,State St & 19th St,167
+2019,179,MLK Jr Dr & Pershing Rd,48
+2019,180,Ritchie Ct & Banks St,558
+2019,181,LaSalle St & Illinois St,1037
+2019,182,Wells St & Elm St,919
+2019,183,Damen Ave & Thomas St (Augusta Blvd),539
+2019,184,State St & 35th St,158
+2019,185,Stave St & Armitage Ave,171
+2019,186,Ogden Ave & Race Ave,418
+2019,188,Greenview Ave & Fullerton Ave,384
+2019,190,Southport Ave & Wrightwood Ave,397
+2019,191,Canal St & Monroe St (*),918
+2019,192,Canal St & Adams St,3041
+2019,193,State St & 29th St,87
+2019,194,Wabash Ave & Wacker Pl,786
+2019,195,Columbus Dr & Randolph St,2846
+2019,196,Cityfront Plaza Dr & Pioneer Ct,874
+2019,197,Michigan Ave & Madison St,742
+2019,198,Green St & Madison St,773
+2019,199,Wabash Ave & Grand Ave,1225
+2019,200,MLK Jr Dr & 47th St,19
+2019,201,Indiana Ave & 40th St,19
+2019,202,Halsted St & 18th St,140
+2019,203,Western Ave & 21st St,122
+2019,204,Prairie Ave & Garfield Blvd,133
+2019,205,Paulina St & 18th St,267
+2019,206,Halsted St & Archer Ave,160
+2019,207,Emerald Ave & 28th St,142
+2019,208,Ashland Ave & 21st St,122
+2019,209,Normal Ave & Archer Ave,101
+2019,210,Ashland Ave & Division St,890
+2019,211,St. Clair St & Erie St,1432
+2019,212,Wells St & Hubbard St,1077
+2019,213,Leavitt St & North Ave,344
+2019,214,Damen Ave & Grand Ave,332
+2019,215,Damen Ave & Madison St,211
+2019,216,California Ave & Division St,122
+2019,217,Racine Ave (May St) & Fulton St,548
+2019,218,Wells St & 19th St,117
+2019,219,Damen Ave & Cortland St,474
+2019,220,Clark St & Drummond Pl,470
+2019,222,Milwaukee Ave & Rockwell St,153
+2019,223,Clifton Ave & Armitage Ave,384
+2019,224,Halsted St & Willow St,438
+2019,225,Halsted St & Dickens Ave,423
+2019,226,Racine Ave & Belmont Ave,399
+2019,227,Southport Ave & Waveland Ave,627
+2019,228,Damen Ave & Melrose Ave,166
+2019,229,Southport Ave & Roscoe St,600
+2019,230,Lincoln Ave & Roscoe St,421
+2019,231,Sheridan Rd & Montrose Ave,325
+2019,232,Pine Grove Ave & Waveland Ave,618
+2019,233,Sangamon St & Washington Blvd (*),551
+2019,234,Clark St & Montrose Ave,352
+2019,236,Sedgwick St & Schiller St,238
+2019,237,MLK Jr Dr & 29th St,424
+2019,238,Wolcott (Ravenswood) Ave & Montrose Ave (*),235
+2019,239,Western Ave & Leland Ave,349
+2019,240,Sheridan Rd & Irving Park Rd,932
+2019,241,Morgan St & Polk St,851
+2019,242,Damen Ave & Leland Ave,497
+2019,243,Lincoln Ave & Sunnyside Ave,271
+2019,244,Ravenswood Ave & Irving Park Rd,294
+2019,245,Clarendon Ave & Junior Ter,195
+2019,246,Ashland Ave & Belle Plaine Ave,191
+2019,247,Shore Dr & 55th St,364
+2019,248,Woodlawn Ave & 55th St,329
+2019,249,Montrose Harbor,130
+2019,250,Ashland Ave & Wellington Ave,182
+2019,251,Clarendon Ave & Leland Ave,246
+2019,252,Greenwood Ave & 47th St,149
+2019,253,Winthrop Ave & Lawrence Ave,256
+2019,254,Pine Grove Ave & Irving Park Rd,620
+2019,255,Indiana Ave & Roosevelt Rd,1090
+2019,256,Broadway & Sheridan Rd,438
+2019,257,Lincoln Ave & Waveland Ave,271
+2019,258,Logan Blvd & Elston Ave,220
+2019,259,California Ave & Francis Pl,249
+2019,260,Kedzie Ave & Milwaukee Ave,474
+2019,261,Hermitage Ave & Polk St,454
+2019,262,Halsted St & 37th St,53
+2019,263,Rhodes Ave & 32nd St,82
+2019,264,Stetson Ave & South Water St,1286
+2019,265,Cottage Grove Ave & Oakwood Blvd,16
+2019,267,Lake Park Ave & 47th St,72
+2019,268,Lake Shore Dr & North Blvd,335
+2019,270,Stony Island Ave & 75th St,9
+2019,271,Cottage Grove Ave & 43rd St,36
+2019,272,Indiana Ave & 31st St,236
+2019,273,Michigan Ave & 18th St,589
+2019,274,Racine Ave & 15th St,258
+2019,275,Ashland Ave & 13th St,156
+2019,276,California Ave & North Ave,184
+2019,277,Ashland Ave & Grand Ave,331
+2019,278,Wallace St & 35th St,75
+2019,279,Halsted St & 35th St (*),50
+2019,280,Morgan St & 31st St,133
+2019,281,Western Ave & 24th St,94
+2019,282,Halsted St & Maxwell St,289
+2019,283,LaSalle St & Jackson Blvd,1523
+2019,284,Michigan Ave & Jackson Blvd,608
+2019,285,Wood St & Hubbard St,267
+2019,286,Franklin St & Quincy St,1247
+2019,287,Franklin St & Monroe St,2618
+2019,288,Larrabee St & Armitage Ave,408
+2019,289,Wells St & Concord Ln,998
+2019,290,Kedzie Ave & Palmer Ct,327
+2019,291,Wells St & Evergreen Ave,732
+2019,292,Southport Ave & Clark St,279
+2019,293,Broadway & Wilson Ave,535
+2019,294,Broadway & Berwyn Ave,345
+2019,295,Broadway & Argyle St,336
+2019,296,Broadway & Belmont Ave,496
+2019,297,Paulina St & Montrose Ave,202
+2019,298,Lincoln Ave & Belle Plaine Ave,252
+2019,299,Halsted St & Roscoe St,642
+2019,300,Broadway & Barry Ave,701
+2019,301,Clark St & Schiller St,796
+2019,302,Sheffield Ave & Wrightwood Ave,373
+2019,303,Broadway & Cornelia Ave,660
+2019,304,Broadway & Waveland Ave,557
+2019,305,Western Ave & Division St,388
+2019,306,Sheridan Rd & Buena Ave,312
+2019,307,Southport Ave & Clybourn Ave,469
+2019,308,Seeley Ave & Roscoe St,282
+2019,309,Leavitt St & Armitage Ave,252
+2019,310,Damen Ave & Charleston St,281
+2019,311,Leavitt St & Lawrence Ave,209
+2019,312,Clarendon Ave & Gordon Ter,454
+2019,313,Lakeview Ave & Fullerton Pkwy,544
+2019,314,Ravenswood Ave & Berteau Ave,281
+2019,315,Elston Ave & Wabansia Ave,174
+2019,316,Damen Ave & Sunnyside Ave,146
+2019,317,Wood St & Taylor St,680
+2019,318,Southport Ave & Irving Park Rd,353
+2019,319,Greenview Ave & Diversey Pkwy,236
+2019,320,Loomis St & Lexington St,693
+2019,321,Wabash Ave & 9th St,736
+2019,322,Kimbark Ave & 53rd St,558
+2019,323,Sheridan Rd & Lawrence Ave,235
+2019,324,Stockton Dr & Wrightwood Ave,438
+2019,325,Clark St & Winnemac Ave,494
+2019,326,Clark St & Leland Ave,303
+2019,327,Sheffield Ave & Webster Ave,640
+2019,328,Ellis Ave & 58th St,593
+2019,329,Lake Shore Dr & Diversey Pkwy,352
+2019,330,Lincoln Ave & Addison St,147
+2019,331,Halsted St & Clybourn Ave (*),592
+2019,332,Burling St (Halsted) & Diversey Pkwy (Temp),475
+2019,333,Ashland Ave & Blackhawk St,405
+2019,334,Lake Shore Dr & Belmont Ave,372
+2019,335,Calumet Ave & 35th St,52
+2019,336,Cottage Grove Ave & 47th St,54
+2019,337,Clark St & Chicago Ave,649
+2019,338,Calumet Ave & 18th St,456
+2019,339,Emerald Ave & 31st St,194
+2019,340,Clark St & Wrightwood Ave,726
+2019,341,Adler Planetarium,500
+2019,342,Wolcott Ave & Polk St,913
+2019,343,Racine Ave & Wrightwood Ave,469
+2019,344,Ravenswood Ave & Lawrence Ave,1334
+2019,345,Lake Park Ave & 56th St,511
+2019,346,Ada St & Washington Blvd,524
+2019,347,Ashland Ave & Grace St,307
+2019,348,California Ave & 21st St,57
+2019,349,Halsted St & Wrightwood Ave,500
+2019,350,Ashland Ave & Chicago Ave,415
+2019,351,Cottage Grove Ave & 51st St,65
+2019,352,Jeffery Blvd & 67th St,7
+2019,353,Clark St & Touhy Ave,33
+2019,354,Sheridan Rd & Greenleaf Ave,86
+2019,355,South Shore Dr & 67th St,58
+2019,356,Stony Island Ave & 71st St,5
+2019,359,Larrabee St & Division St,659
+2019,360,DIVVY Map Frame B/C Station,5
+2019,364,Larrabee St & Oak St,611
+2019,365,Halsted St & North Branch St,166
+2019,366,Loomis St & Archer Ave,74
+2019,367,Racine Ave & 35th St,39
+2019,368,Ashland Ave & Archer Ave,50
+2019,369,Wood St & 35th St,22
+2019,370,Calumet Ave & 21st St,159
+2019,373,Kedzie Ave & Chicago Ave,55
+2019,374,Western Ave & Walton St,527
+2019,375,Sacramento Blvd & Franklin Blvd,49
+2019,376,Artesian Ave & Hubbard St,468
+2019,377,Kedzie Ave & Lake St,101
+2019,378,California Ave & Lake St,62
+2019,381,Western Ave & Monroe St,60
+2019,382,Western Ave & Congress Pkwy,109
+2019,383,Paulina St & Flournoy St,454
+2019,384,Halsted St & 51st St,1
+2019,385,Princeton Ave & Garfield Blvd,29
+2019,388,Halsted St & 63rd St,12
+2019,390,Wentworth Ave & 63rd St,13
+2019,391,Halsted St & 69th St,1
+2019,392,Perry Ave & 69th St,11
+2019,393,Calumet Ave & 71st St,4
+2019,394,Clark St & 9th St (AMLI),407
+2019,395,Jeffery Blvd & 76th St,1
+2019,396,Yates Blvd & 75th St,3
+2019,398,Rainbow Beach,1
+2019,399,South Shore Dr & 74th St,3
+2019,400,Cottage Grove Ave & 71st St,3
+2019,401,Shields Ave & 28th Pl,65
+2019,402,Shields Ave & 31st St,149
+2019,403,Wentworth Ave & 33rd St,137
+2019,405,Wentworth Ave & 35th St,86
+2019,406,Lake Park Ave & 35th St,63
+2019,407,State St & Pershing Rd,9
+2019,408,Union Ave & Root St,69
+2019,409,Shields Ave & 43rd St,35
+2019,410,Prairie Ave & 43rd St,46
+2019,411,Halsted St & 47th Pl,35
+2019,412,Princeton Ave & 47th St,63
+2019,413,Woodlawn Ave & Lake Park Ave,117
+2019,414,Canal St & Taylor St,481
+2019,415,Calumet Ave & 51st St,53
+2019,416,Dorchester Ave & 49th St,78
+2019,417,Cornell Ave & Hyde Park Blvd,267
+2019,418,Ellis Ave & 53rd St,518
+2019,419,Lake Park Ave & 53rd St,232
+2019,420,Ellis Ave & 55th St,731
+2019,421,MLK Jr Dr & 56th St (*),25
+2019,422,DuSable Museum,32
+2019,423,University Ave & 57th St,1096
+2019,424,Museum of Science and Industry,134
+2019,425,Harper Ave & 59th St,295
+2019,426,Ellis Ave & 60th St,574
+2019,427,Cottage Grove Ave & 63rd St,37
+2019,428,Dorchester Ave & 63rd St,13
+2019,429,Cottage Grove Ave & 67th St,33
+2019,430,MLK Jr Dr & 63rd St,13
+2019,431,Eberhart Ave & 61st St,23
+2019,432,Clark St & Lunt Ave,385
+2019,433,Kedzie Ave & Harrison St,2
+2019,434,Ogden Ave & Roosevelt Rd,93
+2019,435,Kedzie Ave & Roosevelt Rd,1
+2019,436,Fairfield Ave & Roosevelt Rd,13
+2019,437,Washtenaw Ave & Ogden Ave (*),105
+2019,438,Central Park Ave & Ogden Ave,13
+2019,439,Kedzie Ave & 21st St,51
+2019,440,Central Park Ave & 24th St,2
+2019,441,Kedzie Ave & 24th St,8
+2019,442,California Ave & 23rd Pl,101
+2019,443,Millard Ave & 26th St,4
+2019,444,Albany Ave & 26th St,11
+2019,445,California Ave & 26th St,18
+2019,446,Western Ave & 28th St,36
+2019,447,Glenwood Ave & Morse Ave,242
+2019,448,Warren Park East,124
+2019,449,Clark St & Columbia Ave,186
+2019,450,Warren Park West,32
+2019,451,Sheridan Rd & Loyola Ave,222
+2019,452,Western Ave & Granville Ave,25
+2019,453,Clark St & Schreiber Ave,97
+2019,454,Broadway & Granville Ave,263
+2019,455,Maplewood Ave & Peterson Ave,9
+2019,456,2112 W Peterson Ave,42
+2019,457,Clark St & Elmdale Ave,245
+2019,458,Broadway & Thorndale Ave,275
+2019,459,Lakefront Trail & Bryn Mawr Ave,169
+2019,460,Clark St & Bryn Mawr Ave,299
+2019,461,Broadway & Ridge Ave,262
+2019,462,Winchester (Ravenswood) Ave & Balmoral Ave,128
+2019,463,Clark St & Berwyn Ave,454
+2019,464,Damen Ave & Foster Ave,264
+2019,465,Marine Dr & Ainslie St,187
+2019,466,Ridge Blvd & Touhy Ave,90
+2019,467,Western Ave & Lunt Ave,142
+2019,468,Budlong Woods Library,48
+2019,469,St. Louis Ave & Balmoral Ave,53
+2019,470,Kedzie Ave & Foster Ave,95
+2019,471,Francisco Ave & Foster Ave,119
+2019,472,Lincoln Ave & Winona St,114
+2019,474,Christiana Ave & Lawrence Ave,120
+2019,475,Washtenaw Ave & Lawrence Ave,148
+2019,476,Kedzie Ave & Leland Ave,95
+2019,477,Manor Ave & Leland Ave,89
+2019,478,Rockwell St & Eastwood Ave,153
+2019,479,Drake Ave & Montrose Ave,115
+2019,480,Albany Ave & Montrose Ave,46
+2019,481,California Ave & Montrose Ave,63
+2019,482,Campbell Ave & Montrose Ave,253
+2019,483,Avondale Ave & Irving Park Rd,117
+2019,484,Monticello Ave & Irving Park Rd,134
+2019,485,Sawyer Ave & Irving Park Rd,57
+2019,486,Oakley Ave & Irving Park Rd,190
+2019,487,California Ave & Byron St,65
+2019,488,Pulaski Rd & Eddy St (Temp),37
+2019,489,Drake Ave & Addison St,214
+2019,490,Troy St & Elston Ave,158
+2019,491,Talman Ave & Addison St,169
+2019,492,Leavitt St & Addison St,129
+2019,493,Western Ave & Roscoe St,225
+2019,494,Kedzie Ave & Bryn Mawr Ave,20
+2019,495,Keystone Ave & Montrose Ave,38
+2019,496,Avers Ave & Belmont Ave,45
+2019,497,Kimball Ave & Belmont Ave,100
+2019,498,California Ave & Fletcher St,114
+2019,499,Kosciuszko Park,146
+2019,500,Central Park Ave & Elbridge Ave,130
+2019,501,Richmond St & Diversey Ave,156
+2019,502,California Ave & Altgeld St,188
+2019,503,Drake Ave & Fullerton Ave,107
+2019,504,Campbell Ave & Fullerton Ave,155
+2019,505,Winchester Ave & Elston Ave,197
+2019,506,Spaulding Ave & Armitage Ave,290
+2019,507,Humboldt Blvd & Armitage Ave,253
+2019,508,Central Park Ave & North Ave,52
+2019,509,Troy St & North Ave,82
+2019,510,Spaulding Ave & Division St,98
+2019,511,Albany Ave & Bloomingdale Ave,266
+2019,514,Ridge Blvd & Howard St,73
+2019,515,Paulina St & Howard St,156
+2019,517,Clark St & Jarvis Ave,65
+2019,518,Conservatory Dr & Lake St,20
+2019,519,Wolcott Ave & Fargo Ave,25
+2019,520,Greenview Ave & Jarvis Ave,156
+2019,522,Bosworth Ave & Howard St,80
+2019,523,Eastlake Ter & Rogers Ave,182
+2019,524,Austin Blvd & Chicago Ave,6
+2019,525,Glenwood Ave & Touhy Ave,83
+2019,526,Oakley Ave & Touhy Ave,31
+2019,527,Western Ave & Howard St,56
+2019,528,Pulaski Rd & Lake St,7
+2019,529,Cicero Ave & Lake St,1
+2019,531,Central Ave & Lake St,2
+2019,532,Austin Blvd & Lake St,33
+2019,533,Central Park Blvd & 5th Ave,10
+2019,534,Karlov Ave & Madison St,10
+2019,535,Pulaski Rd & Congress Pkwy,9
+2019,536,Kostner Ave & Lake St,1
+2019,537,Kenton Ave & Madison St,7
+2019,538,Cicero Ave & Flournoy St,2
+2019,539,Cicero Ave & Quincy St,11
+2019,540,Laramie Ave & Madison St,4
+2019,543,Laramie Ave & Gladys Ave,7
+2019,544,Austin Blvd & Madison St,8
+2019,545,Kostner Ave & Adams St,6
+2019,546,Damen Ave & Pershing Rd,6
+2019,547,Ashland Ave & Pershing Rd,18
+2019,548,Morgan St & Pershing Rd,7
+2019,549,Marshfield Ave & 44th St,7
+2019,550,Central Ave & Chicago Ave,1
+2019,551,Hoyne Ave & 47th St,35
+2019,552,Ashland Ave & McDowell Ave,81
+2019,553,Elizabeth St & 47th St,8
+2019,554,Damen Ave & 51st St,3
+2019,555,Ashland Ave & 50th St,1
+2019,556,Throop St & 52nd St,4
+2019,558,Ashland Ave & Garfield Blvd,1
+2019,559,Racine Ave & Garfield Blvd,1
+2019,561,Damen Ave & 59th St,3
+2019,562,Racine Ave & 61st St,1
+2019,563,Ashland Ave & 63rd St,8
+2019,565,Ashland Ave & 66th St,4
+2019,566,Ashland Ave & 69th St,12
+2019,567,May St & 69th St,9
+2019,570,Evans Ave & 75th St,1
+2019,571,Vernon Ave & 75th St,3
+2019,572,State St & 76th St,1
+2019,573,State St & 79th St,6
+2019,574,Vernon Ave & 79th St,1
+2019,576,Greenwood Ave & 79th St,3
+2019,578,Bennett Ave & 79th St,5
+2019,579,Phillips Ave & 79th St,7
+2019,580,Exchange Ave & 79th St,2
+2019,582,Phillips Ave & 83rd St,3
+2019,583,Stony Island Ave & 82nd St,4
+2019,585,Cottage Grove Ave & 83rd St,4
+2019,586,MLK Jr Dr & 83rd St,3
+2019,587,Wabash Ave & 83rd St,1
+2019,588,South Chicago Ave & 83rd St,1
+2019,589,Milwaukee Ave & Cuyler Ave,47
+2019,590,Kilbourn Ave & Irving Park Rd,72
+2019,591,Kilbourn Ave & Milwaukee Ave,47
+2019,592,Knox Ave & Montrose Ave,62
+2019,594,Western Blvd & 48th Pl,14
+2019,595,Wabash Ave & 87th St,5
+2019,596,Benson Ave & Church St,396
+2019,597,Chicago Ave & Washington St,255
+2019,598,Elmwood Ave & Austin St,100
+2019,599,Valli Produce - Evanston Plaza,16
+2019,600,Dodge Ave & Church St,75
+2019,601,Central St Metra,146
+2019,602,Central St & Girard Ave,70
+2019,603,Chicago Ave & Sheridan Rd,158
+2019,604,Sheridan Rd & Noyes St (NU),289
+2019,605,University Library (NU),260
+2019,619,Keystone Ave & Fullerton Ave,32
+2019,620,Orleans St & Chestnut St (NEXT Apts),536
+2019,621,Aberdeen St & Randolph St,527
+2019,622,California Ave & Cortez St,297
+2019,623,Michigan Ave & 8th St,461
+2019,624,Dearborn St & Van Buren St (*),466
+2019,625,Chicago Ave & Dempster St,154
+2019,626,Delano Ct & Roosevelt Rd,474
+2019,627,LaSalle Dr & Huron St (*),494
+2019,628,Walsh Park,166
+2019,630,Kildare Ave & Montrose Ave,8
+2019,631,Malcolm X College,134
+2019,632,Clark St & Newport St,252
+2019,635,Fairbanks St & Superior St (*),666
+2019,636,Orleans St & Hubbard St (*),523
+2019,637,Wood St & Chicago Ave (*),305
+2019,638,Clinton St & Jackson Blvd (*),995
+2019,639,Lakefront Trail & Wilson Ave,93
+2019,640,Bernard St & Elston Ave,77
+2019,641,Central Park Ave & Bloomingdale Ave,91
+2019,643,Smith Park (*),54
+2019,644,Western Ave & Fillmore St (*),62
+2019,645,Archer (Damen) Ave & 37th St (*),36
+2019,646,State St & 54th St,4
+2019,647,Elizabeth St & 59th St,1
+2019,649,Stewart Ave & 63rd St (*),2
+2019,650,Eggleston Ave & 69th St (*),11
+2019,653,Cornell Dr & Hayes Dr,3
+2019,654,Racine Ave & Washington Blvd (*),309
+2019,655,Hoyne Ave & Balmoral Ave,87
+2019,656,Damen Ave & Walnut (Lake) St (*),85
+2019,657,Wood St & Augusta Blvd,440
+2019,658,Leavitt St & Division St (*),119
+2019,659,Leavitt St & Chicago Ave,253
+2019,660,Sheridan Rd & Columbia Ave,178
+2019,661,Evanston Civic Center,35
+2019,662,Dodge Ave & Mulford St,60
+2019,663,Lincolnwood Dr & Central St,86
+2019,664,Leavitt St & Belmont Ave (*),86
+2020,2,Buckingham Fountain,229
+2020,3,Shedd Aquarium,908
+2020,4,Burnham Harbor,344
+2020,5,State St & Harrison St,399
+2020,6,Dusable Harbor,452
+2020,7,Field Blvd & South Water St,607
+2020,9,Leavitt St & Archer Ave,41
+2020,11,Jeffery Blvd & 71st St,25
+2020,12,South Shore Dr & 71st St,48
+2020,13,Wilton Ave & Diversey Pkwy,820
+2020,14,Morgan St & 18th St,465
+2020,15,Racine Ave & 18th St,487
+2020,16,Paulina Ave & North Ave,407
+2020,17,Honore St & Division St,563
+2020,18,Wacker Dr & Washington St,993
+2020,19,Throop (Loomis) St & Taylor St,496
+2020,20,Sheffield Ave & Kingsbury St,613
+2020,21,Aberdeen St & Jackson Blvd,672
+2020,22,May St & Taylor St,480
+2020,23,Orleans St & Elm St,418
+2020,24,Fairbanks Ct & Grand Ave,868
+2020,25,Michigan Ave & Pearson St,492
+2020,26,McClurg Ct & Illinois St,1191
+2020,27,Larrabee St & North Ave,289
+2020,28,Larrabee St & Menomonee St,433
+2020,29,Noble St & Milwaukee Ave,524
+2020,30,Ashland Ave & Augusta Blvd,474
+2020,31,Franklin St & Chicago Ave,836
+2020,32,Racine Ave & Congress Pkwy,454
+2020,33,State St & Van Buren St,750
+2020,34,Cannon Dr & Fullerton Ave,170
+2020,35,Streeter Dr & Grand Ave,855
+2020,36,Franklin St & Jackson Blvd,1755
+2020,37,Dearborn St & Adams St,1036
+2020,38,Clark St & Lake St,1046
+2020,39,Wabash Ave & Adams St,1055
+2020,40,LaSalle St & Adams St,801
+2020,41,Federal St & Polk St,984
+2020,42,Wabash Ave & Cermak Rd,212
+2020,43,Michigan Ave & Washington St,1649
+2020,44,State St & Randolph St,973
+2020,45,Michigan Ave & Ida B Wells Dr,449
+2020,46,Wells St & Walton St,447
+2020,47,State St & Kinzie St,1292
+2020,48,Larrabee St & Kingsbury St,2052
+2020,49,Dearborn St & Monroe St,2038
+2020,50,Clark St & Ida B Wells Dr,788
+2020,51,Clark St & Randolph St,1395
+2020,52,Michigan Ave & Lake St,1880
+2020,53,Wells St & Huron St,1121
+2020,54,Ogden Ave & Chicago Ave,538
+2020,55,Halsted St & Roosevelt Rd,580
+2020,56,Desplaines St & Kinzie St,1283
+2020,57,Clinton St & Roosevelt Rd,347
+2020,58,Marshfield Ave & Cortland St,867
+2020,59,Wabash Ave & Roosevelt Rd,1137
+2020,60,Dayton St & North Ave,491
+2020,61,Wood St & Milwaukee Ave,671
+2020,62,McCormick Place,219
+2020,66,Clinton St & Lake St,1025
+2020,67,Sheffield Ave & Fullerton Ave,1212
+2020,68,Clinton St & Tilden St,447
+2020,69,Damen Ave & Pierce Ave,915
+2020,71,Morgan St & Lake St,1276
+2020,72,Wabash Ave & 16th St,767
+2020,73,Jefferson St & Monroe St,654
+2020,74,Kingsbury St & Erie St,1312
+2020,75,Canal St & Jackson Blvd,611
+2020,76,Lake Shore Dr & Monroe St,811
+2020,77,Clinton St & Madison St,2352
+2020,80,Aberdeen St & Monroe St,867
+2020,81,Daley Center Plaza,1772
+2020,84,Milwaukee Ave & Grand Ave,868
+2020,85,Michigan Ave & Oak St,674
+2020,86,Eckhart Park,422
+2020,87,Racine Ave & Fullerton Ave,553
+2020,88,Racine Ave & Randolph St,381
+2020,89,Financial Pl & Ida B Wells Dr,886
+2020,90,Millennium Park,1116
+2020,91,Clinton St & Washington Blvd,1677
+2020,92,Carpenter St & Huron St,557
+2020,93,Sheffield Ave & Willow St,606
+2020,94,Clark St & Armitage Ave,1021
+2020,95,Stony Island Ave & 64th St,10
+2020,96,Desplaines St & Randolph St,699
+2020,97,Field Museum,419
+2020,98,LaSalle St & Washington St,1045
+2020,99,Lake Shore Dr & Ohio St,588
+2020,100,Orleans St & Merchandise Mart Plaza,1792
+2020,101,63rd St Beach,33
+2020,102,Stony Island Ave & 67th St,13
+2020,103,Clinton St & Polk St,129
+2020,106,State St & Pearson St,604
+2020,107,Desplaines St & Jackson Blvd,931
+2020,108,Halsted St & Polk St,655
+2020,109,900 W Harrison St,698
+2020,110,Dearborn St & Erie St,1103
+2020,111,Sedgwick St & Huron St,830
+2020,112,Green St & Randolph St,666
+2020,113,Bissell St & Armitage Ave,699
+2020,114,Sheffield Ave & Waveland Ave,578
+2020,115,Sheffield Ave & Wellington Ave,786
+2020,116,Western Ave & Winnebago Ave,595
+2020,117,Wilton Ave & Belmont Ave,955
+2020,118,Sedgwick St & North Ave,797
+2020,119,Ashland Ave & Lake St,509
+2020,120,Wentworth Ave & Cermak Rd (Temp),264
+2020,121,Blackstone Ave & Hyde Park Blvd,302
+2020,122,Ogden Ave & Congress Pkwy,131
+2020,123,California Ave & Milwaukee Ave,565
+2020,124,Damen Ave & Cullerton St,174
+2020,125,Rush St & Hubbard St,982
+2020,126,Clark St & North Ave,370
+2020,127,Lincoln Ave & Fullerton Ave,733
+2020,128,Damen Ave & Chicago Ave,631
+2020,129,Blue Island Ave & 18th St,530
+2020,130,Damen Ave & Division St,742
+2020,131,Lincoln Ave & Belmont Ave,459
+2020,132,Wentworth Ave & 24th St (Temp),106
+2020,133,Kingsbury St & Kinzie St,1460
+2020,134,Peoria St & Jackson Blvd,758
+2020,135,Halsted St & 21st St,106
+2020,136,Racine Ave & 13th St,148
+2020,137,Morgan Ave & 14th Pl,374
+2020,138,Clybourn Ave & Division St,561
+2020,140,Dearborn Pkwy & Delaware Pl,770
+2020,141,Clark St & Lincoln Ave,731
+2020,142,McClurg Ct & Erie St,1140
+2020,143,Sedgwick St & Webster Ave,707
+2020,144,Larrabee St & Webster Ave,734
+2020,145,Mies van der Rohe Way & Chestnut St,670
+2020,146,Loomis St & Jackson Blvd,356
+2020,147,Indiana Ave & 26th St,247
+2020,148,State St & 33rd St,359
+2020,149,Calumet Ave & 33rd St,238
+2020,150,Fort Dearborn Dr & 31st St,159
+2020,152,Lincoln Ave & Diversey Pkwy,506
+2020,153,Southport Ave & Wellington Ave,662
+2020,154,Southport Ave & Belmont Ave,382
+2020,156,Clark St & Wellington Ave,640
+2020,157,Lake Shore Dr & Wellington Ave,557
+2020,158,Milwaukee Ave & Wabansia Ave,562
+2020,159,Claremont Ave & Hirsch St,391
+2020,160,Campbell Ave & North Ave,369
+2020,161,Rush St & Superior St,848
+2020,162,Damen Ave & Wellington Ave,241
+2020,163,Damen Ave & Clybourn Ave,274
+2020,164,Franklin St & Lake St,1372
+2020,165,Clark St & Grace St,526
+2020,166,Ashland Ave & Wrightwood Ave,453
+2020,167,Damen Ave & Coulter St,35
+2020,168,Michigan Ave & 14th St,831
+2020,169,Canal St & Harrison St,355
+2020,170,Clinton St & 18th St,232
+2020,171,May St & Cullerton St,142
+2020,172,Rush St & Cedar St,637
+2020,173,Mies van der Rohe Way & Chicago Ave,857
+2020,174,Canal St & Madison St,1619
+2020,175,Wells St & Polk St,967
+2020,176,Clark St & Elm St,1348
+2020,177,Theater on the Lake,428
+2020,178,State St & 19th St,207
+2020,179,MLK Jr Dr & Pershing Rd,102
+2020,180,Ritchie Ct & Banks St,691
+2020,181,LaSalle St & Illinois St,1100
+2020,182,Wells St & Elm St,1138
+2020,183,Damen Ave & Thomas St (Augusta Blvd),497
+2020,184,State St & 35th St,221
+2020,185,Stave St & Armitage Ave,202
+2020,186,Ogden Ave & Race Ave,555
+2020,188,Greenview Ave & Fullerton Ave,436
+2020,190,Southport Ave & Wrightwood Ave,557
+2020,191,Canal St & Monroe St,1098
+2020,192,Canal St & Adams St,2947
+2020,193,State St & 29th St,77
+2020,194,Wabash Ave & Wacker Pl,832
+2020,195,Columbus Dr & Randolph St,2513
+2020,196,Cityfront Plaza Dr & Pioneer Ct,1013
+2020,197,Michigan Ave & Madison St,719
+2020,198,Green St & Madison St,666
+2020,199,Wabash Ave & Grand Ave,1148
+2020,200,MLK Jr Dr & 47th St,17
+2020,201,Indiana Ave & 40th St,28
+2020,202,Halsted St & 18th St,238
+2020,203,Western Ave & 21st St,120
+2020,204,Prairie Ave & Garfield Blvd,130
+2020,205,Paulina St & 18th St,322
+2020,206,Halsted St & Archer Ave,226
+2020,207,Emerald Ave & 28th St,247
+2020,208,Laflin St & Cullerton St,211
+2020,209,Normal Ave & Archer Ave,129
+2020,210,Ashland Ave & Division St,949
+2020,211,St. Clair St & Erie St,1854
+2020,212,Wells St & Hubbard St,1266
+2020,213,Leavitt St & North Ave,378
+2020,214,Damen Ave & Grand Ave,408
+2020,215,Damen Ave & Madison St,213
+2020,216,California Ave & Division St,129
+2020,217,Elizabeth (May) St & Fulton St,533
+2020,218,Wells St & 19th St,151
+2020,219,Damen Ave & Cortland St,595
+2020,220,Clark St & Drummond Pl,694
+2020,222,Milwaukee Ave & Rockwell St,296
+2020,223,Clifton Ave & Armitage Ave,575
+2020,224,Halsted St & Willow St,473
+2020,225,Halsted St & Dickens Ave,673
+2020,226,Racine Ave & Belmont Ave,388
+2020,227,Southport Ave & Waveland Ave,744
+2020,228,Damen Ave & Melrose Ave,199
+2020,229,Southport Ave & Roscoe St,675
+2020,230,Lincoln Ave & Roscoe St,486
+2020,231,Sheridan Rd & Montrose Ave,487
+2020,232,Pine Grove Ave & Waveland Ave,666
+2020,233,Sangamon St & Washington Blvd,510
+2020,234,Clark St & Montrose Ave,392
+2020,236,Sedgwick St & Schiller St,317
+2020,237,MLK Jr Dr & 29th St,402
+2020,238,Wolcott (Ravenswood) Ave & Montrose Ave,297
+2020,239,Western Ave & Leland Ave,417
+2020,240,Sheridan Rd & Irving Park Rd,976
+2020,241,Morgan St & Polk St,867
+2020,242,Damen Ave & Leland Ave,537
+2020,243,Lincoln Ave & Sunnyside Ave,359
+2020,244,Ravenswood Ave & Irving Park Rd,277
+2020,245,Clarendon Ave & Junior Ter,380
+2020,246,Ashland Ave & Belle Plaine Ave,221
+2020,247,Shore Dr & 55th St,344
+2020,248,Woodlawn Ave & 55th St,468
+2020,249,Montrose Harbor,189
+2020,250,Ashland Ave & Wellington Ave,253
+2020,251,Clarendon Ave & Leland Ave,248
+2020,252,Greenwood Ave & 47th St,162
+2020,253,Winthrop Ave & Lawrence Ave,273
+2020,254,Pine Grove Ave & Irving Park Rd,630
+2020,255,Indiana Ave & Roosevelt Rd,1596
+2020,256,Broadway & Sheridan Rd,578
+2020,257,Lincoln Ave & Waveland Ave,337
+2020,258,Logan Blvd & Elston Ave,245
+2020,259,California Ave & Francis Pl (Temp),220
+2020,260,Kedzie Ave & Milwaukee Ave,573
+2020,261,Hermitage Ave & Polk St,438
+2020,262,Halsted St & 37th St,37
+2020,263,Rhodes Ave & 32nd St,106
+2020,264,Stetson Ave & South Water St,966
+2020,265,Cottage Grove Ave & Oakwood Blvd,54
+2020,267,Lake Park Ave & 47th St,124
+2020,268,Lake Shore Dr & North Blvd,492
+2020,270,Stony Island Ave & 75th St,18
+2020,271,Cottage Grove Ave & 43rd St,61
+2020,272,Indiana Ave & 31st St,196
+2020,273,Michigan Ave & 18th St,794
+2020,274,Racine Ave & 15th St,120
+2020,275,Ashland Ave & 13th St,224
+2020,276,California Ave & North Ave,227
+2020,277,Ashland Ave & Grand Ave,424
+2020,278,Wallace St & 35th St,115
+2020,279,Halsted St & 35th St,95
+2020,280,Morgan St & 31st St,154
+2020,281,Western Ave & 24th St,58
+2020,282,Halsted St & Maxwell St,379
+2020,283,LaSalle St & Jackson Blvd,1487
+2020,284,Michigan Ave & Jackson Blvd,654
+2020,285,Wood St & Hubbard St,304
+2020,286,Franklin St & Adams St (Temp),909
+2020,287,Franklin St & Monroe St,3050
+2020,288,Larrabee St & Armitage Ave,510
+2020,289,Wells St & Concord Ln,1253
+2020,290,Kedzie Ave & Palmer Ct,381
+2020,291,Wells St & Evergreen Ave,956
+2020,292,Southport Ave & Clark St,322
+2020,293,Broadway & Wilson Ave,494
+2020,294,Broadway & Berwyn Ave,416
+2020,295,Broadway & Argyle St,371
+2020,296,Broadway & Belmont Ave,580
+2020,297,Paulina St & Montrose Ave,176
+2020,298,Lincoln Ave & Belle Plaine Ave,270
+2020,299,Halsted St & Roscoe St,585
+2020,300,Broadway & Barry Ave,896
+2020,301,Clark St & Schiller St,974
+2020,302,Sheffield Ave & Wrightwood Ave,522
+2020,303,Broadway & Cornelia Ave,752
+2020,304,Broadway & Waveland Ave,687
+2020,305,Western Ave & Division St,416
+2020,306,Sheridan Rd & Buena Ave,389
+2020,307,Southport Ave & Clybourn Ave,488
+2020,308,Seeley Ave & Roscoe St,340
+2020,309,Leavitt St & Armitage Ave,363
+2020,310,Damen Ave & Charleston St,315
+2020,311,Leavitt St & Lawrence Ave,248
+2020,312,Clarendon Ave & Gordon Ter,597
+2020,313,Lakeview Ave & Fullerton Pkwy,655
+2020,314,Ravenswood Ave & Berteau Ave,189
+2020,315,Elston Ave & Wabansia Ave,215
+2020,316,Damen Ave & Sunnyside Ave,197
+2020,317,Wood St & Taylor St,684
+2020,318,Southport Ave & Irving Park Rd,465
+2020,319,Greenview Ave & Diversey Pkwy,353
+2020,320,Loomis St & Lexington St,1076
+2020,321,Wabash Ave & 9th St,868
+2020,322,Kimbark Ave & 53rd St,628
+2020,323,Sheridan Rd & Lawrence Ave,250
+2020,324,Stockton Dr & Wrightwood Ave,542
+2020,325,Clark St & Winnemac Ave,700
+2020,326,Clark St & Leland Ave,363
+2020,327,Sheffield Ave & Webster Ave,499
+2020,328,Ellis Ave & 58th St,596
+2020,329,Lake Shore Dr & Diversey Pkwy,433
+2020,330,Lincoln Ave & Addison St,185
+2020,331,Halsted St & Clybourn Ave,872
+2020,332,Burling St (Halsted) & Diversey Pkwy (Temp),679
+2020,333,Ashland Ave & Blackhawk St,520
+2020,334,Lake Shore Dr & Belmont Ave,517
+2020,335,Calumet Ave & 35th St,71
+2020,336,Cottage Grove Ave & 47th St,79
+2020,337,Clark St & Chicago Ave,780
+2020,338,Calumet Ave & 18th St,512
+2020,339,Emerald Ave & 31st St,268
+2020,340,Clark St & Wrightwood Ave,848
+2020,341,Adler Planetarium,555
+2020,342,Wolcott Ave & Polk St,1126
+2020,343,Racine Ave & Wrightwood Ave,449
+2020,344,Ravenswood Ave & Lawrence Ave,1455
+2020,345,Lake Park Ave & 56th St,577
+2020,346,Ada St & Washington Blvd,541
+2020,347,Ashland Ave & Grace St,364
+2020,348,California Ave & 21st St,88
+2020,349,Halsted St & Wrightwood Ave,611
+2020,350,Ashland Ave & Chicago Ave,398
+2020,351,Cottage Grove Ave & 51st St,105
+2020,352,Jeffery Blvd & 67th St,14
+2020,353,Clark St & Touhy Ave,50
+2020,354,Sheridan Rd & Greenleaf Ave,154
+2020,355,South Shore Dr & 67th St,48
+2020,356,Stony Island Ave & 71st St,59
+2020,359,Larrabee St & Division St,728
+2020,364,Larrabee St & Oak St,543
+2020,365,Halsted St & North Branch St,202
+2020,366,Loomis St & Archer Ave,168
+2020,367,Racine Ave & 35th St,56
+2020,368,Ashland Ave & Archer Ave,76
+2020,369,Wood St & 35th St,33
+2020,370,Calumet Ave & 21st St,163
+2020,373,Kedzie Ave & Chicago Ave,76
+2020,374,Western Ave & Walton St,569
+2020,375,Sacramento Blvd & Franklin Blvd,47
+2020,376,Artesian Ave & Hubbard St,571
+2020,377,Kedzie Ave & Lake St,102
+2020,378,California Ave & Lake St,74
+2020,381,Western Ave & Monroe St,127
+2020,382,Western Ave & Congress Pkwy,145
+2020,383,Paulina St & Flournoy St,445
+2020,384,Halsted St & 51st St,4
+2020,385,Princeton Ave & Garfield Blvd,81
+2020,386,Halsted St & 56th St,3
+2020,388,Halsted St & 63rd St,8
+2020,390,Wentworth Ave & 63rd St,22
+2020,392,Perry Ave & 69th St,4
+2020,393,Calumet Ave & 71st St,5
+2020,394,Clark St & 9th St (AMLI),512
+2020,395,Jeffery Blvd & 76th St,1
+2020,396,Yates Blvd & 75th St,4
+2020,398,Rainbow Beach,3
+2020,399,South Shore Dr & 74th St,18
+2020,400,Cottage Grove Ave & 71st St,3
+2020,401,Shields Ave & 28th Pl,92
+2020,402,Shields Ave & 31st St,141
+2020,403,Wentworth Ave & 33rd St,83
+2020,405,Wentworth Ave & 35th St,139
+2020,406,Lake Park Ave & 35th St,205
+2020,407,State St & Pershing Rd,20
+2020,408,Union Ave & Root St,6
+2020,409,Shields Ave & 43rd St,3
+2020,410,Prairie Ave & 43rd St,63
+2020,411,Halsted St & 47th Pl,27
+2020,412,Princeton Ave & 47th St,40
+2020,413,Woodlawn Ave & Lake Park Ave,168
+2020,414,Canal St & Taylor St,472
+2020,415,Calumet Ave & 51st St,45
+2020,416,Dorchester Ave & 49th St,72
+2020,417,Cornell Ave & Hyde Park Blvd,521
+2020,418,Ellis Ave & 53rd St,459
+2020,419,Lake Park Ave & 53rd St,328
+2020,420,Ellis Ave & 55th St,713
+2020,421,MLK Jr Dr & 56th St,15
+2020,422,DuSable Museum,41
+2020,423,University Ave & 57th St,1262
+2020,424,Museum of Science and Industry,121
+2020,425,Harper Ave & 59th St,386
+2020,426,Ellis Ave & 60th St,822
+2020,427,Cottage Grove Ave & 63rd St,38
+2020,428,Dorchester Ave & 63rd St,23
+2020,429,Cottage Grove Ave & 67th St,11
+2020,430,MLK Jr Dr & 63rd St,12
+2020,431,Eberhart Ave & 61st St,10
+2020,432,Clark St & Lunt Ave,252
+2020,433,Kedzie Ave & Harrison St,10
+2020,434,Ogden Ave & Roosevelt Rd,89
+2020,435,Kedzie Ave & Roosevelt Rd,8
+2020,436,Fairfield Ave & Roosevelt Rd,18
+2020,437,Washtenaw Ave & Ogden Ave,124
+2020,438,Central Park Ave & Ogden Ave,13
+2020,439,Kedzie Ave & 21st St,41
+2020,440,Central Park Ave & 24th St,6
+2020,441,Kedzie Ave & 24th St,6
+2020,442,California Ave & 23rd Pl,94
+2020,443,Millard Ave & 26th St,10
+2020,444,Albany Ave & 26th St,7
+2020,445,California Ave & 26th St,17
+2020,446,Western Ave & 28th St,16
+2020,447,Glenwood Ave & Morse Ave,202
+2020,448,Warren Park East,71
+2020,449,Clark St & Columbia Ave,140
+2020,450,Warren Park West,48
+2020,451,Sheridan Rd & Loyola Ave,234
+2020,452,Western Ave & Granville Ave,81
+2020,453,Clark St & Schreiber Ave,167
+2020,454,Broadway & Granville Ave,305
+2020,455,Maplewood Ave & Peterson Ave,11
+2020,456,2112 W Peterson Ave,33
+2020,457,Clark St & Elmdale Ave,188
+2020,458,Broadway & Thorndale Ave,234
+2020,459,Lakefront Trail & Bryn Mawr Ave,199
+2020,460,Clark St & Bryn Mawr Ave,338
+2020,461,Broadway & Ridge Ave,380
+2020,462,Winchester (Ravenswood) Ave & Balmoral Ave,233
+2020,463,Clark St & Berwyn Ave,463
+2020,464,Damen Ave & Foster Ave,383
+2020,465,Marine Dr & Ainslie St,231
+2020,466,Ridge Blvd & Touhy Ave,43
+2020,467,Western Ave & Lunt Ave,149
+2020,468,Budlong Woods Library,22
+2020,469,St. Louis Ave & Balmoral Ave,83
+2020,470,Kedzie Ave & Foster Ave,93
+2020,471,Francisco Ave & Foster Ave,93
+2020,472,Lincoln Ave & Winona St,156
+2020,474,Christiana Ave & Lawrence Ave,99
+2020,475,Washtenaw Ave & Lawrence Ave,175
+2020,476,Kedzie Ave & Leland Ave,107
+2020,477,Manor Ave & Leland Ave,91
+2020,478,Rockwell St & Eastwood Ave,204
+2020,479,Drake Ave & Montrose Ave,83
+2020,480,Albany Ave & Montrose Ave,68
+2020,481,California Ave & Montrose Ave,110
+2020,482,Campbell Ave & Montrose Ave,228
+2020,483,Avondale Ave & Irving Park Rd,167
+2020,484,Monticello Ave & Irving Park Rd,123
+2020,485,Sawyer Ave & Irving Park Rd,48
+2020,486,Oakley Ave & Irving Park Rd,141
+2020,487,California Ave & Byron St,64
+2020,488,Pulaski Rd & Eddy St (Temp),98
+2020,489,Drake Ave & Addison St,226
+2020,490,Troy St & Elston Ave,173
+2020,491,Talman Ave & Addison St,197
+2020,492,Leavitt St & Addison St,83
+2020,493,Western Ave & Roscoe St,259
+2020,494,Kedzie Ave & Bryn Mawr Ave,37
+2020,495,Keystone Ave & Montrose Ave,45
+2020,496,Avers Ave & Belmont Ave,104
+2020,497,Kimball Ave & Belmont Ave,111
+2020,498,California Ave & Fletcher St,112
+2020,499,Kosciuszko Park,239
+2020,500,Central Park Ave & Elbridge Ave,124
+2020,501,Richmond St & Diversey Ave,184
+2020,502,California Ave & Altgeld St,218
+2020,503,Drake Ave & Fullerton Ave,210
+2020,504,Campbell Ave & Fullerton Ave,184
+2020,505,Winchester Ave & Elston Ave,205
+2020,506,Spaulding Ave & Armitage Ave,309
+2020,507,Humboldt Blvd & Armitage Ave,311
+2020,508,Central Park Ave & North Ave,113
+2020,509,Troy St & North Ave,158
+2020,510,Spaulding Ave & Division St,91
+2020,511,Albany Ave & Bloomingdale Ave,334
+2020,514,Ridge Blvd & Howard St,53
+2020,515,Paulina St & Howard St,255
+2020,517,Clark St & Jarvis Ave,90
+2020,518,Conservatory Dr & Lake St,53
+2020,519,Wolcott Ave & Fargo Ave,40
+2020,520,Greenview Ave & Jarvis Ave,226
+2020,522,Bosworth Ave & Howard St,50
+2020,523,Eastlake Ter & Rogers Ave,247
+2020,524,Austin Blvd & Chicago Ave,9
+2020,525,Glenwood Ave & Touhy Ave,107
+2020,526,Oakley Ave & Touhy Ave,44
+2020,527,Western Ave & Howard St,110
+2020,528,Pulaski Rd & Lake St,5
+2020,529,Cicero Ave & Lake St,1
+2020,530,Laramie Ave & Kinzie St,2
+2020,531,Central Ave & Lake St,4
+2020,532,Austin Blvd & Lake St,15
+2020,533,Central Park Blvd & 5th Ave,2
+2020,534,Karlov Ave & Madison St,2
+2020,535,Pulaski Rd & Congress Pkwy,6
+2020,538,Cicero Ave & Flournoy St,3
+2020,539,Cicero Ave & Quincy St,5
+2020,540,Laramie Ave & Madison St,6
+2020,541,Central Ave & Harrison St,1
+2020,542,Central Ave & Madison St,10
+2020,543,Laramie Ave & Gladys Ave,2
+2020,544,Austin Blvd & Madison St,10
+2020,545,Kostner Ave & Adams St,3
+2020,546,Damen Ave & Pershing Rd,2
+2020,547,Ashland Ave & Pershing Rd,23
+2020,548,Morgan St & Pershing Rd,11
+2020,549,Marshfield Ave & 44th St,6
+2020,550,Central Ave & Chicago Ave,5
+2020,551,Hoyne Ave & 47th St,7
+2020,552,Ashland Ave & McDowell Ave,70
+2020,553,Elizabeth St & 47th St,7
+2020,554,Damen Ave & 51st St,5
+2020,555,Ashland Ave & 50th St,2
+2020,556,Throop St & 52nd St,6
+2020,557,Seeley Ave & Garfield Blvd,4
+2020,558,Ashland Ave & Garfield Blvd,31
+2020,559,Racine Ave & Garfield Blvd,16
+2020,560,Marshfield Ave & 59th St,3
+2020,562,Racine Ave & 61st St,2
+2020,563,Ashland Ave & 63rd St,4
+2020,567,May St & 69th St,1
+2020,569,Woodlawn Ave & 75th St,5
+2020,570,Evans Ave & 75th St,13
+2020,571,Vernon Ave & 75th St,16
+2020,572,State St & 76th St,7
+2020,573,State St & 79th St,33
+2020,574,Vernon Ave & 79th St,9
+2020,575,Cottage Grove Ave & 78th St,12
+2020,576,Greenwood Ave & 79th St,5
+2020,577,Stony Island Ave & South Chicago Ave,2
+2020,578,Bennett Ave & 79th St,1
+2020,579,Phillips Ave & 79th St,2
+2020,580,Exchange Ave & 79th St,3
+2020,581,Commercial Ave & 83rd St,7
+2020,583,Stony Island Ave & 82nd St,3
+2020,584,Ellis Ave & 83rd St,3
+2020,585,Cottage Grove Ave & 83rd St,4
+2020,586,MLK Jr Dr & 83rd St,13
+2020,587,Wabash Ave & 83rd St,4
+2020,588,South Chicago Ave & 83rd St,2
+2020,589,Milwaukee Ave & Cuyler Ave,43
+2020,590,Kilbourn Ave & Irving Park Rd,49
+2020,591,Kilbourn Ave & Milwaukee Ave,54
+2020,592,Knox Ave & Montrose Ave,70
+2020,593,Halsted St & 59th St,2
+2020,594,Western Blvd & 48th Pl,20
+2020,595,Wabash Ave & 87th St,10
+2020,596,Benson Ave & Church St,362
+2020,597,Chicago Ave & Washington St,212
+2020,598,Elmwood Ave & Austin St,113
+2020,599,Valli Produce - Evanston Plaza,29
+2020,600,Dodge Ave & Church St,65
+2020,601,Central St Metra,121
+2020,602,Central St & Girard Ave,112
+2020,603,Chicago Ave & Sheridan Rd,145
+2020,604,Sheridan Rd & Noyes St (NU),312
+2020,605,University Library (NU),244
+2020,619,Keystone Ave & Fullerton Ave,60
+2020,620,Orleans St & Chestnut St (NEXT Apts),498
+2020,621,Aberdeen St & Randolph St,578
+2020,622,California Ave & Cortez St,409
+2020,623,Michigan Ave & 8th St,568
+2020,624,Dearborn St & Van Buren St,469
+2020,625,Chicago Ave & Dempster St,209
+2020,626,Delano Ct & Roosevelt Rd,507
+2020,627,LaSalle Dr & Huron St,658
+2020,628,Walsh Park,198
+2020,630,Kildare Ave & Montrose Ave,47
+2020,631,Malcolm X College,101
+2020,632,Clark St & Newport St,450
+2020,635,Fairbanks St & Superior St,657
+2020,636,Orleans St & Hubbard St,568
+2020,637,Wood St & Chicago Ave (*),413
+2020,638,Clinton St & Jackson Blvd,929
+2020,639,Lakefront Trail & Wilson Ave,187
+2020,640,Bernard St & Elston Ave,98
+2020,641,Central Park Ave & Bloomingdale Ave,116
+2020,642,Latrobe Ave & Chicago Ave,2
+2020,643,Smith Park (*),67
+2020,644,Western Ave & Fillmore St (*),227
+2020,645,Archer (Damen) Ave & 37th St,86
+2020,646,State St & 54th St,10
+2020,647,Elizabeth St & 59th St,3
+2020,648,Carpenter St & 63rd St,1
+2020,649,Stewart Ave & 63rd St (*),2
+2020,650,Eggleston Ave & 69th St (*),2
+2020,651,Michigan Ave & 71st St,2
+2020,653,Cornell Dr & Hayes Dr,8
+2020,654,Racine Ave & Washington Blvd (*),336
+2020,655,Hoyne Ave & Balmoral Ave,208
+2020,656,Damen Ave & Walnut (Lake) St (*),134
+2020,657,Wood St & Augusta Blvd,558
+2020,658,Leavitt St & Division St (*),242
+2020,659,Leavitt St & Chicago Ave,359
+2020,660,Sheridan Rd & Columbia Ave,175
+2020,661,Evanston Civic Center,47
+2020,662,Dodge Ave & Mulford St,26
+2020,663,Lincolnwood Dr & Central St,93
+2020,664,Leavitt St & Belmont Ave (*),185
+2020,666,Cherry Ave & Blackhawk St,174
+2020,671,HUBBARD ST BIKE CHECKING (LBS-WH-TEST),4
+2020,672,Franklin St & Illinois St,684
+2020,673,Lincoln Park Conservatory,385

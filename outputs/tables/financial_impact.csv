@@ -1,0 +1,1212 @@
+year,station_id,station_name,understock_pct,overstock_pct,scm_category,missed_trips,excess_bike_hours,financial_risk
+2019,2,Buckingham Fountain (Temp),0.4723618090452261,0.36683417085427134,Highly Volatile,198,151,Low Financial Impact
+2019,3,Shedd Aquarium,0.4627831715210356,0.45792880258899676,Highly Volatile,889,684,High Lost Revenue
+2019,4,Burnham Harbor,0.3730407523510972,0.36990595611285265,Highly Volatile,169,188,Low Financial Impact
+2019,5,State St & Harrison St,0.3870967741935484,0.4941935483870968,Highly Volatile,381,479,Low Financial Impact
+2019,6,Dusable Harbor,0.5165165165165165,0.37537537537537535,Highly Volatile,321,196,Low Financial Impact
+2019,7,Field Blvd & South Water St,0.4718397997496871,0.41551939924906134,Highly Volatile,548,482,High Lost Revenue
+2019,9,Leavitt St & Archer Ave,0.5648148148148148,0.37962962962962965,Highly Volatile,61,50,Low Financial Impact
+2019,11,Jeffery Blvd & 71st St,0.47619047619047616,0.38095238095238093,Highly Volatile,12,8,Low Financial Impact
+2019,12,South Shore Dr & 71st St,0.4444444444444444,0.3333333333333333,Highly Volatile,12,10,Low Financial Impact
+2019,13,Wilton Ave & Diversey Pkwy,0.43100358422939067,0.42383512544802865,Highly Volatile,797,769,High Lost Revenue
+2019,14,Morgan St & 18th St,0.4188976377952756,0.47874015748031495,Highly Volatile,347,380,Low Financial Impact
+2019,15,Racine Ave & 18th St,0.4681181959564541,0.432348367029549,Highly Volatile,393,357,Low Financial Impact
+2019,16,Paulina Ave & North Ave,0.46635367762128327,0.4225352112676056,Highly Volatile,442,387,Low Financial Impact
+2019,17,Honore St & Division St,0.502092050209205,0.3905160390516039,Highly Volatile,556,437,High Lost Revenue
+2019,18,Wacker Dr & Washington St,0.5049115913555993,0.3713163064833006,Highly Volatile,1200,924,High Lost Revenue
+2019,19,Loomis St & Taylor St (*),0.44200626959247646,0.46394984326018807,Highly Volatile,337,365,Low Financial Impact
+2019,20,Sheffield Ave & Kingsbury St,0.40224719101123596,0.4460674157303371,Highly Volatile,502,616,High Capital Tie-Up
+2019,21,Aberdeen St & Jackson Blvd,0.41868823000898475,0.39802336028751123,Highly Volatile,703,719,High Lost Revenue
+2019,22,May St & Taylor St,0.42783505154639173,0.44458762886597936,Highly Volatile,449,491,Low Financial Impact
+2019,23,Orleans St & Elm St (*),0.4560810810810811,0.44932432432432434,Highly Volatile,433,377,Low Financial Impact
+2019,24,Fairbanks Ct & Grand Ave,0.3745847176079734,0.44601328903654486,Highly Volatile,755,901,High Lost Revenue
+2019,25,Michigan Ave & Pearson St,0.3772609819121447,0.5012919896640827,Highly Volatile,441,623,High Capital Tie-Up
+2019,26,McClurg Ct & Illinois St,0.43366951124903025,0.4352211016291699,Highly Volatile,1030,961,High Lost Revenue
+2019,27,Larrabee St & North Ave,0.46122448979591835,0.45102040816326533,Highly Volatile,275,270,Low Financial Impact
+2019,28,Larrabee St & Menomonee St,0.46210720887245843,0.4343807763401109,Highly Volatile,336,319,Low Financial Impact
+2019,29,Noble St & Milwaukee Ave,0.4384105960264901,0.44900662251655626,Highly Volatile,604,506,High Lost Revenue
+2019,30,Ashland Ave & Augusta Blvd,0.4552238805970149,0.457089552238806,Highly Volatile,322,378,Low Financial Impact
+2019,31,Franklin St & Chicago Ave,0.4343891402714932,0.4081447963800905,Highly Volatile,786,724,High Lost Revenue
+2019,32,Racine Ave & Congress Pkwy,0.42047026279391425,0.42738589211618255,Highly Volatile,398,399,Low Financial Impact
+2019,33,State St & Van Buren St,0.44248704663212435,0.40310880829015544,Highly Volatile,726,597,High Lost Revenue
+2019,34,Cannon Dr & Fullerton Ave,0.43231441048034935,0.4279475982532751,Highly Volatile,151,154,Low Financial Impact
+2019,35,Streeter Dr & Grand Ave,0.42717391304347824,0.46630434782608693,Highly Volatile,690,1279,High Lost Revenue
+2019,36,Franklin St & Jackson Blvd,0.44190140845070425,0.4295774647887324,Highly Volatile,1317,1175,High Lost Revenue
+2019,37,Dearborn St & Adams St,0.46514047866805414,0.41519250780437045,Highly Volatile,986,972,High Lost Revenue
+2019,38,Clark St & Lake St,0.42058562555456963,0.42058562555456963,Highly Volatile,1124,897,High Lost Revenue
+2019,39,Wabash Ave & Adams St,0.46360153256704983,0.42624521072796934,Highly Volatile,1101,954,High Lost Revenue
+2019,40,LaSalle St & Adams St,0.4815756035578145,0.4307496823379924,Highly Volatile,777,803,High Lost Revenue
+2019,41,Federal St & Polk St,0.44965104685942175,0.4187437686939183,Highly Volatile,839,818,High Lost Revenue
+2019,42,Wabash Ave & Cermak Rd,0.4365079365079365,0.4444444444444444,Highly Volatile,182,202,Low Financial Impact
+2019,43,Michigan Ave & Washington St,0.4234388366124893,0.4644995722840034,Highly Volatile,1803,2226,High Lost Revenue
+2019,44,State St & Randolph St,0.3998390989541432,0.4328238133547868,Highly Volatile,968,1021,High Lost Revenue
+2019,45,Michigan Ave & Ida B Wells Dr,0.49019607843137253,0.36134453781512604,Highly Volatile,495,335,Low Financial Impact
+2019,46,Wells St & Walton St,0.5014245014245015,0.358974358974359,Highly Volatile,445,306,Low Financial Impact
+2019,47,State St & Kinzie St,0.43463780183180684,0.45961698584512906,Highly Volatile,1380,1610,High Lost Revenue
+2019,48,Larrabee St & Kingsbury St,0.4367816091954023,0.4385499557913351,Highly Volatile,1964,1733,High Lost Revenue
+2019,49,Dearborn St & Monroe St,0.46196957566052843,0.4347477982385909,Highly Volatile,2183,2074,High Lost Revenue
+2019,50,Clark St & Ida B Wells Dr,0.45980707395498394,0.3879957127545552,Highly Volatile,886,904,High Lost Revenue
+2019,51,Clark St & Randolph St,0.4188034188034188,0.4482431149097816,Highly Volatile,1164,1211,High Lost Revenue
+2019,52,Michigan Ave & Lake St,0.4100596760443308,0.4799658994032396,Highly Volatile,1955,2003,High Lost Revenue
+2019,53,Wells St & Huron St,0.417946645109135,0.412287793047696,Highly Volatile,945,870,High Lost Revenue
+2019,54,Ogden Ave & Chicago Ave,0.39798206278026904,0.4641255605381166,Highly Volatile,535,595,High Capital Tie-Up
+2019,55,Halsted St & Roosevelt Rd,0.45872641509433965,0.44575471698113206,Highly Volatile,511,540,Low Financial Impact
+2019,56,Desplaines St & Kinzie St,0.4572127139364303,0.38875305623471884,Highly Volatile,1246,919,High Lost Revenue
+2019,57,Clinton St & Roosevelt Rd,0.36908077994428967,0.47493036211699163,Highly Volatile,323,432,Low Financial Impact
+2019,58,Marshfield Ave & Cortland St,0.4582010582010582,0.43386243386243384,Highly Volatile,908,870,High Lost Revenue
+2019,59,Wabash Ave & Roosevelt Rd,0.3882443928847641,0.4408352668213457,Highly Volatile,875,1170,High Lost Revenue
+2019,60,Dayton St & North Ave,0.40923076923076923,0.4317948717948718,Highly Volatile,542,583,High Capital Tie-Up
+2019,61,Wood St & Milwaukee Ave,0.4220489977728285,0.4420935412026726,Highly Volatile,552,654,High Lost Revenue
+2019,62,McCormick Place,0.4586894586894587,0.39886039886039887,Highly Volatile,229,187,Low Financial Impact
+2019,66,Clinton St & Lake St,0.4132029339853301,0.4262428687856561,Highly Volatile,918,1121,High Lost Revenue
+2019,67,Sheffield Ave & Fullerton Ave,0.4584717607973422,0.41362126245847175,Highly Volatile,1256,1169,High Lost Revenue
+2019,68,Clinton St & Tilden St,0.3648124191461837,0.47347994825355755,Highly Volatile,376,543,Low Financial Impact
+2019,69,Damen Ave & Pierce Ave,0.4110929853181077,0.42495921696574224,Highly Volatile,784,896,High Lost Revenue
+2019,71,Morgan St & Lake St,0.39759036144578314,0.4578313253012048,Highly Volatile,942,1157,High Lost Revenue
+2019,72,Wabash Ave & 16th St,0.4143835616438356,0.4794520547945205,Highly Volatile,545,722,High Capital Tie-Up
+2019,73,Jefferson St & Monroe St,0.3647932131495228,0.45705196182396607,Highly Volatile,518,606,High Capital Tie-Up
+2019,74,Kingsbury St & Erie St,0.4178628389154705,0.4090909090909091,Highly Volatile,1112,927,High Lost Revenue
+2019,75,Canal St & Jackson Blvd,0.3861920172599784,0.4368932038834951,Highly Volatile,543,751,High Capital Tie-Up
+2019,76,Lake Shore Dr & Monroe St,0.5018656716417911,0.35074626865671643,Highly Volatile,696,430,High Lost Revenue
+2019,77,Clinton St & Madison St,0.4432505036937542,0.41907320349227667,Highly Volatile,2114,2408,High Lost Revenue
+2019,80,Aberdeen St & Monroe St,0.4165844027640671,0.4155972359328727,Highly Volatile,634,655,High Lost Revenue
+2019,81,Daley Center Plaza,0.42697525937749403,0.4349561053471668,Highly Volatile,1523,1630,High Lost Revenue
+2019,84,Milwaukee Ave & Grand Ave,0.4215600350569676,0.42418930762489043,Highly Volatile,784,772,High Lost Revenue
+2019,85,Michigan Ave & Oak St,0.38666666666666666,0.5018181818181818,Highly Volatile,562,759,High Lost Revenue
+2019,86,Eckhart Park,0.4831038798498123,0.4030037546933667,Highly Volatile,511,470,Low Financial Impact
+2019,87,Racine Ave & Fullerton Ave,0.39974937343358397,0.4398496240601504,Highly Volatile,428,473,Low Financial Impact
+2019,88,Racine Ave & Randolph St,0.42673107890499196,0.42673107890499196,Highly Volatile,337,365,Low Financial Impact
+2019,89,Financial Pl & Ida B Wells Dr (Temp),0.4317673378076063,0.4429530201342282,Highly Volatile,745,725,High Lost Revenue
+2019,90,Millennium Park,0.41529525653436594,0.505324298160697,Highly Volatile,912,1202,High Lost Revenue
+2019,91,Clinton St & Washington Blvd,0.4157493649449619,0.48687552921253174,Highly Volatile,3478,3478,High Lost Revenue
+2019,92,Carpenter St & Huron St,0.4467741935483871,0.43870967741935485,Highly Volatile,428,385,Low Financial Impact
+2019,93,Sheffield Ave & Willow St,0.4287425149700599,0.4119760479041916,Highly Volatile,480,531,Low Financial Impact
+2019,94,Clark St & Armitage Ave,0.4385447394296952,0.43461160275319566,Highly Volatile,882,928,High Lost Revenue
+2019,95,Stony Island Ave & 64th St,0.42857142857142855,0.5,Highly Volatile,8,8,Low Financial Impact
+2019,96,Desplaines St & Randolph St,0.46038114343029085,0.3781344032096289,Highly Volatile,662,597,High Lost Revenue
+2019,97,Field Museum,0.5219399538106235,0.4295612009237875,Highly Volatile,473,362,Low Financial Impact
+2019,98,LaSalle St & Washington St,0.4530493707647628,0.4220716360116166,Highly Volatile,1159,1164,High Lost Revenue
+2019,99,Lake Shore Dr & Ohio St,0.4369627507163324,0.4383954154727794,Highly Volatile,432,453,Low Financial Impact
+2019,100,Orleans St & Merchandise Mart Plaza,0.5237613751263903,0.37613751263902934,Highly Volatile,1673,1211,High Lost Revenue
+2019,101,63rd St Beach,0.415929203539823,0.30973451327433627,Highly Volatile,59,38,Low Financial Impact
+2019,102,Stony Island Ave & 67th St,0.5263157894736842,0.42105263157894735,Highly Volatile,11,8,Low Financial Impact
+2019,103,Clinton St & Polk St (*),0.4225,0.4525,Highly Volatile,195,216,Low Financial Impact
+2019,106,State St & Pearson St,0.42136498516320475,0.4332344213649852,Highly Volatile,646,626,High Lost Revenue
+2019,107,Desplaines St & Jackson Blvd,0.39300937766410915,0.4279624893435635,Highly Volatile,694,753,High Lost Revenue
+2019,108,Halsted St & Polk St,0.4371523915461624,0.42491657397107896,Highly Volatile,582,508,High Lost Revenue
+2019,109,900 W Harrison St,0.476123595505618,0.39325842696629215,Highly Volatile,578,430,High Lost Revenue
+2019,110,Dearborn St & Erie St,0.36726998491704377,0.46304675716440424,Highly Volatile,950,1074,High Lost Revenue
+2019,111,Sedgwick St & Huron St,0.46016869728209936,0.3701968134957826,Highly Volatile,824,670,High Lost Revenue
+2019,112,Green St & Randolph St,0.3695652173913043,0.4659735349716446,Highly Volatile,577,806,High Lost Revenue
+2019,113,Bissell St & Armitage Ave,0.40303358613217766,0.409534127843987,Highly Volatile,536,536,Low Financial Impact
+2019,114,Sheffield Ave & Waveland Ave,0.4101326899879373,0.451145958986731,Highly Volatile,457,547,Low Financial Impact
+2019,115,Sheffield Ave & Wellington Ave,0.4330708661417323,0.45894263217097864,Highly Volatile,596,702,High Lost Revenue
+2019,116,Western Ave & Winnebago Ave,0.4176334106728538,0.4025522041763341,Highly Volatile,487,480,Low Financial Impact
+2019,117,Wilton Ave & Belmont Ave,0.4414802065404475,0.43201376936316693,Highly Volatile,1039,929,High Lost Revenue
+2019,118,Sedgwick St & North Ave,0.4726477024070022,0.3741794310722101,Highly Volatile,622,482,High Lost Revenue
+2019,119,Ashland Ave & Lake St (Temp),0.4839797639123103,0.38785834738617203,Highly Volatile,407,300,Low Financial Impact
+2019,120,Wentworth Ave & Cermak Rd (Temp),0.3870967741935484,0.5161290322580645,Highly Volatile,184,262,Low Financial Impact
+2019,121,Blackstone Ave & Hyde Park Blvd,0.459958932238193,0.44147843942505133,Highly Volatile,253,244,Low Financial Impact
+2019,122,Ogden Ave & Congress Pkwy,0.5151515151515151,0.38636363636363635,Highly Volatile,156,116,Low Financial Impact
+2019,123,California Ave & Milwaukee Ave,0.4552058111380145,0.4225181598062954,Highly Volatile,558,486,High Lost Revenue
+2019,124,Damen Ave & Cullerton St,0.3771186440677966,0.5211864406779662,Highly Volatile,91,138,Low Financial Impact
+2019,125,Rush St & Hubbard St,0.46017699115044247,0.4413716814159292,Highly Volatile,929,895,High Lost Revenue
+2019,126,Clark St & North Ave,0.4617996604414261,0.4142614601018676,Highly Volatile,369,365,Low Financial Impact
+2019,127,Lincoln Ave & Fullerton Ave,0.4006276150627615,0.45188284518828453,Highly Volatile,573,615,High Lost Revenue
+2019,128,Damen Ave & Chicago Ave,0.37828162291169454,0.5071599045346062,Highly Volatile,443,627,High Capital Tie-Up
+2019,129,Blue Island Ave & 18th St,0.41008018327605955,0.47308132875143183,Highly Volatile,506,579,High Capital Tie-Up
+2019,130,Damen Ave & Division St,0.4326923076923077,0.44591346153846156,Highly Volatile,519,602,High Capital Tie-Up
+2019,131,Lincoln Ave & Belmont Ave,0.4422809457579972,0.4325452016689847,Highly Volatile,418,408,Low Financial Impact
+2019,132,Wentworth Ave & 24th St,0.3444976076555024,0.5406698564593302,Highly Volatile,79,122,Low Financial Impact
+2019,133,Kingsbury St & Kinzie St,0.41946538725154214,0.43248800548320765,Highly Volatile,1468,1448,High Lost Revenue
+2019,134,Peoria St & Jackson Blvd,0.4498594189315839,0.37488284910965325,Highly Volatile,772,601,High Lost Revenue
+2019,135,Halsted St & 21st St,0.4811320754716981,0.45754716981132076,Highly Volatile,107,106,Low Financial Impact
+2019,136,Racine Ave & 13th St,0.47257383966244726,0.4767932489451477,Highly Volatile,123,117,Low Financial Impact
+2019,137,Morgan Ave & 14th Pl,0.46568627450980393,0.4820261437908497,Highly Volatile,526,545,Low Financial Impact
+2019,138,Clybourn Ave & Division St,0.42907385697538103,0.44314185228604924,Highly Volatile,547,610,High Capital Tie-Up
+2019,140,Dearborn Pkwy & Delaware Pl,0.4017621145374449,0.4105726872246696,Highly Volatile,660,840,High Lost Revenue
+2019,141,Clark St & Lincoln Ave,0.4619750283768445,0.41316685584562995,Highly Volatile,633,643,High Lost Revenue
+2019,142,McClurg Ct & Erie St,0.4375,0.4291044776119403,Highly Volatile,1032,988,High Lost Revenue
+2019,143,Sedgwick St & Webster Ave,0.4429735234215886,0.4164969450101833,Highly Volatile,695,633,High Lost Revenue
+2019,144,Larrabee St & Webster Ave,0.4523809523809524,0.39880952380952384,Highly Volatile,515,518,Low Financial Impact
+2019,145,Mies van der Rohe Way & Chestnut St,0.43657142857142855,0.4057142857142857,Highly Volatile,617,533,High Lost Revenue
+2019,146,Loomis St & Jackson Blvd,0.4700996677740864,0.40365448504983387,Highly Volatile,351,343,Low Financial Impact
+2019,147,Indiana Ave & 26th St,0.44711538461538464,0.4567307692307692,Highly Volatile,99,104,Low Financial Impact
+2019,148,State St & 33rd St,0.44929577464788734,0.44366197183098594,Highly Volatile,451,470,Low Financial Impact
+2019,149,Calumet Ave & 33rd St,0.5047318611987381,0.45110410094637227,Highly Volatile,182,163,Low Financial Impact
+2019,150,Fort Dearborn Dr & 31st St,0.350253807106599,0.3350253807106599,Highly Volatile,89,88,Low Financial Impact
+2019,152,Lincoln Ave & Diversey Pkwy,0.49056603773584906,0.38005390835579517,Highly Volatile,498,398,Low Financial Impact
+2019,153,Southport Ave & Wellington Ave,0.43630573248407645,0.40870488322717624,Highly Volatile,612,580,High Lost Revenue
+2019,154,Southport Ave & Belmont Ave,0.45180722891566266,0.4357429718875502,Highly Volatile,265,261,Low Financial Impact
+2019,156,Clark St & Wellington Ave,0.43009605122732125,0.4429028815368196,Highly Volatile,567,571,High Lost Revenue
+2019,157,Lake Shore Dr & Wellington Ave,0.3810344827586207,0.496551724137931,Highly Volatile,301,428,Low Financial Impact
+2019,158,Milwaukee Ave & Wabansia Ave,0.4322508398656215,0.4400895856662934,Highly Volatile,534,558,High Capital Tie-Up
+2019,159,Claremont Ave & Hirsch St,0.44921875,0.45703125,Highly Volatile,317,302,Low Financial Impact
+2019,160,Campbell Ave & North Ave,0.49193548387096775,0.43951612903225806,Highly Volatile,292,288,Low Financial Impact
+2019,161,Rush St & Superior St,0.39846005774783444,0.4494706448508181,Highly Volatile,724,737,High Lost Revenue
+2019,162,Damen Ave & Wellington Ave,0.45569620253164556,0.4430379746835443,Highly Volatile,166,166,Low Financial Impact
+2019,163,Damen Ave & Clybourn Ave,0.4541984732824427,0.4198473282442748,Highly Volatile,272,277,Low Financial Impact
+2019,164,Franklin St & Lake St,0.4305923961096375,0.4358974358974359,Highly Volatile,1365,1212,High Lost Revenue
+2019,165,Clark St & Grace St,0.4906303236797274,0.40545144804088584,Highly Volatile,391,319,Low Financial Impact
+2019,166,Ashland Ave & Wrightwood Ave,0.44540727902946275,0.4679376083188908,Highly Volatile,334,356,Low Financial Impact
+2019,167,Damen Ave & Coulter St,0.3125,0.5,Highly Volatile,10,16,Low Financial Impact
+2019,168,Michigan Ave & 14th St,0.441025641025641,0.4492307692307692,Highly Volatile,771,802,High Lost Revenue
+2019,169,Canal St & Harrison St,0.4911591355599214,0.34970530451866405,Highly Volatile,322,240,Low Financial Impact
+2019,170,Clinton St & 18th St,0.4609756097560976,0.44878048780487806,Highly Volatile,216,199,Low Financial Impact
+2019,171,May St & Cullerton St,0.46264367816091956,0.4511494252873563,Highly Volatile,182,169,Low Financial Impact
+2019,172,Rush St & Cedar St,0.40522875816993464,0.43028322440087147,Highly Volatile,555,617,High Lost Revenue
+2019,173,Mies van der Rohe Way & Chicago Ave,0.43532560214094557,0.4495985727029438,Highly Volatile,847,796,High Lost Revenue
+2019,174,Canal St & Madison St,0.43208895949166004,0.44082605242255757,Highly Volatile,1880,2184,High Lost Revenue
+2019,175,Wells St & Polk St,0.48081023454157784,0.42217484008528783,Highly Volatile,815,726,High Lost Revenue
+2019,176,Clark St & Elm St,0.4092284417549168,0.434947049924357,Highly Volatile,1036,1258,High Lost Revenue
+2019,177,Theater on the Lake,0.40467625899280574,0.37949640287769787,Highly Volatile,325,432,Low Financial Impact
+2019,178,State St & 19th St,0.46405228758169936,0.47058823529411764,Highly Volatile,167,180,Low Financial Impact
+2019,179,MLK Jr Dr & Pershing Rd,0.4205607476635514,0.42990654205607476,Highly Volatile,48,50,Low Financial Impact
+2019,180,Ritchie Ct & Banks St,0.46875,0.43323863636363635,Highly Volatile,558,469,High Lost Revenue
+2019,181,LaSalle St & Illinois St,0.4173693086003373,0.4317032040472175,Highly Volatile,1037,1118,High Lost Revenue
+2019,182,Wells St & Elm St,0.4659400544959128,0.4150772025431426,Highly Volatile,919,968,High Lost Revenue
+2019,183,Damen Ave & Thomas St (Augusta Blvd),0.4763271162123386,0.44763271162123386,Highly Volatile,539,464,Low Financial Impact
+2019,184,State St & 35th St,0.415625,0.471875,Highly Volatile,158,168,Low Financial Impact
+2019,185,Stave St & Armitage Ave,0.4653179190751445,0.4653179190751445,Highly Volatile,171,184,Low Financial Impact
+2019,186,Ogden Ave & Race Ave,0.3896595208070618,0.47540983606557374,Highly Volatile,418,594,High Capital Tie-Up
+2019,188,Greenview Ave & Fullerton Ave,0.4523449319213313,0.4372163388804841,Highly Volatile,384,443,Low Financial Impact
+2019,190,Southport Ave & Wrightwood Ave,0.423785594639866,0.48408710217755446,Highly Volatile,397,421,Low Financial Impact
+2019,191,Canal St & Monroe St (*),0.517162471395881,0.3501144164759725,Highly Volatile,918,661,High Lost Revenue
+2019,192,Canal St & Adams St,0.4781512605042017,0.40588235294117647,Highly Volatile,3041,3446,High Lost Revenue
+2019,193,State St & 29th St,0.5985915492957746,0.352112676056338,Highly Volatile,87,50,Low Financial Impact
+2019,194,Wabash Ave & Wacker Pl,0.4267734553775744,0.448512585812357,Highly Volatile,786,778,High Lost Revenue
+2019,195,Columbus Dr & Randolph St,0.6097366320830008,0.2593774940143655,Chronic Sink,2846,731,High Lost Revenue
+2019,196,Cityfront Plaza Dr & Pioneer Ct,0.4733606557377049,0.3862704918032787,Highly Volatile,874,642,High Lost Revenue
+2019,197,Michigan Ave & Madison St,0.4122211445198836,0.4539282250242483,Highly Volatile,742,804,High Lost Revenue
+2019,198,Green St & Madison St,0.4199029126213592,0.4110032362459547,Highly Volatile,773,828,High Lost Revenue
+2019,199,Wabash Ave & Grand Ave,0.39956331877729256,0.4315866084425036,Highly Volatile,1225,1254,High Lost Revenue
+2019,200,MLK Jr Dr & 47th St,0.5588235294117647,0.35294117647058826,Highly Volatile,19,12,Low Financial Impact
+2019,201,Indiana Ave & 40th St,0.5,0.39473684210526316,Highly Volatile,19,16,Low Financial Impact
+2019,202,Halsted St & 18th St,0.40705128205128205,0.4935897435897436,Highly Volatile,140,183,Low Financial Impact
+2019,203,Western Ave & 21st St,0.5198237885462555,0.3700440528634361,Highly Volatile,122,89,Low Financial Impact
+2019,204,Prairie Ave & Garfield Blvd,0.5720930232558139,0.3953488372093023,Highly Volatile,133,93,Low Financial Impact
+2019,205,Paulina St & 18th St,0.4105263157894737,0.44035087719298244,Highly Volatile,267,298,Low Financial Impact
+2019,206,Halsted St & Archer Ave,0.4411764705882353,0.47058823529411764,Highly Volatile,160,160,Low Financial Impact
+2019,207,Emerald Ave & 28th St,0.37575757575757573,0.34545454545454546,Highly Volatile,142,122,Low Financial Impact
+2019,208,Ashland Ave & 21st St,0.4588235294117647,0.4745098039215686,Highly Volatile,122,132,Low Financial Impact
+2019,209,Normal Ave & Archer Ave,0.455,0.5,Highly Volatile,101,111,Low Financial Impact
+2019,210,Ashland Ave & Division St,0.41916167664670656,0.42771599657827203,Highly Volatile,890,865,High Lost Revenue
+2019,211,St. Clair St & Erie St,0.4094551282051282,0.4671474358974359,Highly Volatile,1432,1599,High Lost Revenue
+2019,212,Wells St & Hubbard St,0.41300813008130083,0.4292682926829268,Highly Volatile,1077,1141,High Lost Revenue
+2019,213,Leavitt St & North Ave,0.492831541218638,0.3888888888888889,Highly Volatile,344,270,Low Financial Impact
+2019,214,Damen Ave & Grand Ave,0.4395229982964225,0.4599659284497445,Highly Volatile,332,385,Low Financial Impact
+2019,215,Damen Ave & Madison St,0.44193548387096776,0.5161290322580645,Highly Volatile,211,225,Low Financial Impact
+2019,216,California Ave & Division St,0.44274809160305345,0.5229007633587787,Highly Volatile,122,161,Low Financial Impact
+2019,217,Racine Ave (May St) & Fulton St,0.4351851851851852,0.44841269841269843,Highly Volatile,548,595,High Lost Revenue
+2019,218,Wells St & 19th St,0.4351464435146444,0.38493723849372385,Highly Volatile,117,106,Low Financial Impact
+2019,219,Damen Ave & Cortland St,0.4369063772048847,0.4260515603799186,Highly Volatile,474,480,Low Financial Impact
+2019,220,Clark St & Drummond Pl,0.4179278230500582,0.4062863795110594,Highly Volatile,470,561,High Capital Tie-Up
+2019,222,Milwaukee Ave & Rockwell St,0.38227146814404434,0.4903047091412742,Highly Volatile,153,214,Low Financial Impact
+2019,223,Clifton Ave & Armitage Ave,0.4116809116809117,0.4230769230769231,Highly Volatile,384,430,Low Financial Impact
+2019,224,Halsted St & Willow St,0.4620991253644315,0.4329446064139942,Highly Volatile,438,408,Low Financial Impact
+2019,225,Halsted St & Dickens Ave,0.40852130325814534,0.4699248120300752,Highly Volatile,423,547,Low Financial Impact
+2019,226,Racine Ave & Belmont Ave,0.4256480218281037,0.4392905866302865,Highly Volatile,399,422,Low Financial Impact
+2019,227,Southport Ave & Waveland Ave,0.4503239740820734,0.4190064794816415,Highly Volatile,627,595,High Lost Revenue
+2019,228,Damen Ave & Melrose Ave,0.46178343949044587,0.46496815286624205,Highly Volatile,166,187,Low Financial Impact
+2019,229,Southport Ave & Roscoe St,0.39101338432122373,0.4359464627151052,Highly Volatile,600,679,High Lost Revenue
+2019,230,Lincoln Ave & Roscoe St,0.3539915966386555,0.5052521008403361,Highly Volatile,421,592,High Capital Tie-Up
+2019,231,Sheridan Rd & Montrose Ave,0.37535410764872523,0.46458923512747874,Highly Volatile,325,414,Low Financial Impact
+2019,232,Pine Grove Ave & Waveland Ave,0.4582010582010582,0.42433862433862435,Highly Volatile,618,629,High Lost Revenue
+2019,233,Sangamon St & Washington Blvd (*),0.420256111757858,0.37485448195576254,Highly Volatile,551,445,High Lost Revenue
+2019,234,Clark St & Montrose Ave,0.4846029173419773,0.41166936790923825,Highly Volatile,352,298,Low Financial Impact
+2019,236,Sedgwick St & Schiller St,0.46875,0.4505208333333333,Highly Volatile,238,230,Low Financial Impact
+2019,237,MLK Jr Dr & 29th St,0.5282685512367491,0.38515901060070673,Highly Volatile,424,304,Low Financial Impact
+2019,238,Wolcott (Ravenswood) Ave & Montrose Ave (*),0.4343220338983051,0.4427966101694915,Highly Volatile,235,251,Low Financial Impact
+2019,239,Western Ave & Leland Ave,0.42749244712990936,0.43655589123867067,Highly Volatile,349,358,Low Financial Impact
+2019,240,Sheridan Rd & Irving Park Rd,0.43839285714285714,0.43214285714285716,Highly Volatile,932,885,High Lost Revenue
+2019,241,Morgan St & Polk St,0.4078834618680377,0.44044558697514996,Highly Volatile,851,818,High Lost Revenue
+2019,242,Damen Ave & Leland Ave,0.4947994056463596,0.37592867756315007,Highly Volatile,497,348,Low Financial Impact
+2019,243,Lincoln Ave & Sunnyside Ave,0.4338919925512104,0.45996275605214154,Highly Volatile,271,336,Low Financial Impact
+2019,244,Ravenswood Ave & Irving Park Rd,0.38387096774193546,0.4693548387096774,Highly Volatile,294,378,Low Financial Impact
+2019,245,Clarendon Ave & Junior Ter,0.40298507462686567,0.5099502487562189,Highly Volatile,195,273,Low Financial Impact
+2019,246,Ashland Ave & Belle Plaine Ave,0.5202492211838006,0.43302180685358255,Highly Volatile,191,166,Low Financial Impact
+2019,247,Shore Dr & 55th St,0.4,0.4223880597014925,Highly Volatile,364,378,Low Financial Impact
+2019,248,Woodlawn Ave & 55th St,0.4735945485519591,0.4190800681431005,Highly Volatile,329,276,Low Financial Impact
+2019,249,Montrose Harbor,0.4918918918918919,0.34054054054054056,Highly Volatile,130,89,Low Financial Impact
+2019,250,Ashland Ave & Wellington Ave,0.38534278959810875,0.4373522458628842,Highly Volatile,182,242,Low Financial Impact
+2019,251,Clarendon Ave & Leland Ave,0.46830265848670755,0.4335378323108384,Highly Volatile,246,228,Low Financial Impact
+2019,252,Greenwood Ave & 47th St,0.47232472324723246,0.4907749077490775,Highly Volatile,149,141,Low Financial Impact
+2019,253,Winthrop Ave & Lawrence Ave,0.4115384615384615,0.4846153846153846,Highly Volatile,256,316,Low Financial Impact
+2019,254,Pine Grove Ave & Irving Park Rd,0.44468784227820374,0.42825848849945236,Highly Volatile,620,567,High Lost Revenue
+2019,255,Indiana Ave & Roosevelt Rd,0.4421906693711968,0.4685598377281947,Highly Volatile,1090,1066,High Lost Revenue
+2019,256,Broadway & Sheridan Rd,0.44675324675324674,0.4103896103896104,Highly Volatile,438,373,Low Financial Impact
+2019,257,Lincoln Ave & Waveland Ave,0.4026186579378069,0.45662847790507366,Highly Volatile,271,331,Low Financial Impact
+2019,258,Logan Blvd & Elston Ave,0.3715953307392996,0.47470817120622566,Highly Volatile,220,291,Low Financial Impact
+2019,259,California Ave & Francis Pl,0.48775055679287305,0.44766146993318484,Highly Volatile,249,245,Low Financial Impact
+2019,260,Kedzie Ave & Milwaukee Ave,0.4156171284634761,0.4634760705289673,Highly Volatile,474,544,Low Financial Impact
+2019,261,Hermitage Ave & Polk St,0.44135802469135804,0.4398148148148148,Highly Volatile,454,401,Low Financial Impact
+2019,262,Halsted St & 37th St,0.3697478991596639,0.5462184873949579,Highly Volatile,53,68,Low Financial Impact
+2019,263,Rhodes Ave & 32nd St,0.4662576687116564,0.49693251533742333,Highly Volatile,82,86,Low Financial Impact
+2019,264,Stetson Ave & South Water St,0.5646328852119958,0.3185108583247156,Highly Volatile,1286,431,High Lost Revenue
+2019,265,Cottage Grove Ave & Oakwood Blvd,0.42105263157894735,0.5263157894736842,Highly Volatile,16,21,Low Financial Impact
+2019,267,Lake Park Ave & 47th St,0.3651685393258427,0.5674157303370787,Highly Volatile,72,105,Low Financial Impact
+2019,268,Lake Shore Dr & North Blvd,0.41846758349705304,0.45579567779960706,Highly Volatile,335,416,Low Financial Impact
+2019,270,Stony Island Ave & 75th St,0.28,0.68,Chronic Source,9,17,Low Financial Impact
+2019,271,Cottage Grove Ave & 43rd St,0.45454545454545453,0.4155844155844156,Highly Volatile,36,32,Low Financial Impact
+2019,272,Indiana Ave & 31st St,0.42323651452282157,0.46473029045643155,Highly Volatile,236,260,Low Financial Impact
+2019,273,Michigan Ave & 18th St,0.42458808618504434,0.47021546261089986,Highly Volatile,589,671,High Lost Revenue
+2019,274,Racine Ave & 15th St,0.5056947608200456,0.43735763097949887,Highly Volatile,258,227,Low Financial Impact
+2019,275,Ashland Ave & 13th St,0.3953488372093023,0.46511627906976744,Highly Volatile,156,178,Low Financial Impact
+2019,276,California Ave & North Ave,0.4087403598971722,0.4498714652956298,Highly Volatile,184,200,Low Financial Impact
+2019,277,Ashland Ave & Grand Ave,0.4501779359430605,0.4626334519572954,Highly Volatile,331,364,Low Financial Impact
+2019,278,Wallace St & 35th St,0.42196531791907516,0.5028901734104047,Highly Volatile,75,91,Low Financial Impact
+2019,279,Halsted St & 35th St (*),0.3870967741935484,0.5645161290322581,Highly Volatile,50,77,Low Financial Impact
+2019,280,Morgan St & 31st St,0.5,0.45454545454545453,Highly Volatile,133,124,Low Financial Impact
+2019,281,Western Ave & 24th St,0.44711538461538464,0.5144230769230769,Highly Volatile,94,113,Low Financial Impact
+2019,282,Halsted St & Maxwell St,0.4006677796327212,0.41235392320534225,Highly Volatile,289,330,Low Financial Impact
+2019,283,LaSalle St & Jackson Blvd,0.49056603773584906,0.4065180102915952,Highly Volatile,1523,1575,High Lost Revenue
+2019,284,Michigan Ave & Jackson Blvd,0.41871345029239765,0.4619883040935672,Highly Volatile,608,634,High Lost Revenue
+2019,285,Wood St & Hubbard St,0.4254032258064516,0.44556451612903225,Highly Volatile,267,289,Low Financial Impact
+2019,286,Franklin St & Quincy St,0.4582417582417582,0.4142857142857143,Highly Volatile,1247,1159,High Lost Revenue
+2019,287,Franklin St & Monroe St,0.4943527367506516,0.41789748045178104,Highly Volatile,2618,1873,High Lost Revenue
+2019,288,Larrabee St & Armitage Ave,0.445635528330781,0.43644716692189894,Highly Volatile,408,459,Low Financial Impact
+2019,289,Wells St & Concord Ln,0.4400630914826498,0.4140378548895899,Highly Volatile,998,1043,High Lost Revenue
+2019,290,Kedzie Ave & Palmer Ct,0.44646098003629764,0.43920145190562615,Highly Volatile,327,312,Low Financial Impact
+2019,291,Wells St & Evergreen Ave,0.4355362946912243,0.4257854821235103,Highly Volatile,732,796,High Lost Revenue
+2019,292,Southport Ave & Clark St,0.49676025917926564,0.42116630669546434,Highly Volatile,279,249,Low Financial Impact
+2019,293,Broadway & Wilson Ave,0.4578804347826087,0.4388586956521739,Highly Volatile,535,568,High Capital Tie-Up
+2019,294,Broadway & Berwyn Ave,0.4092827004219409,0.43319268635724334,Highly Volatile,345,394,Low Financial Impact
+2019,295,Broadway & Argyle St,0.4424920127795527,0.4504792332268371,Highly Volatile,336,361,Low Financial Impact
+2019,296,Broadway & Belmont Ave,0.43503480278422274,0.4593967517401392,Highly Volatile,496,562,High Capital Tie-Up
+2019,297,Paulina St & Montrose Ave,0.49441340782122906,0.4106145251396648,Highly Volatile,202,168,Low Financial Impact
+2019,298,Lincoln Ave & Belle Plaine Ave,0.41398865784499056,0.44234404536862004,Highly Volatile,252,288,Low Financial Impact
+2019,299,Halsted St & Roscoe St,0.44049904030710174,0.4165067178502879,Highly Volatile,642,707,High Lost Revenue
+2019,300,Broadway & Barry Ave,0.40034364261168387,0.45017182130584193,Highly Volatile,701,947,High Lost Revenue
+2019,301,Clark St & Schiller St,0.46265560165975106,0.3941908713692946,Highly Volatile,796,650,High Lost Revenue
+2019,302,Sheffield Ave & Wrightwood Ave,0.4474885844748858,0.4033485540334855,Highly Volatile,373,351,Low Financial Impact
+2019,303,Broadway & Cornelia Ave,0.45661157024793386,0.42458677685950413,Highly Volatile,660,627,High Lost Revenue
+2019,304,Broadway & Waveland Ave,0.4160427807486631,0.4299465240641711,Highly Volatile,557,582,High Lost Revenue
+2019,305,Western Ave & Division St,0.41122913505311076,0.511380880121396,Highly Volatile,388,516,Low Financial Impact
+2019,306,Sheridan Rd & Buena Ave,0.49063670411985016,0.43820224719101125,Highly Volatile,312,315,Low Financial Impact
+2019,307,Southport Ave & Clybourn Ave,0.41353383458646614,0.4348370927318296,Highly Volatile,469,524,Low Financial Impact
+2019,308,Seeley Ave & Roscoe St,0.4666666666666667,0.4583333333333333,Highly Volatile,282,266,Low Financial Impact
+2019,309,Leavitt St & Armitage Ave,0.4724220623501199,0.43884892086330934,Highly Volatile,252,235,Low Financial Impact
+2019,310,Damen Ave & Charleston St,0.47770700636942676,0.4543524416135881,Highly Volatile,281,250,Low Financial Impact
+2019,311,Leavitt St & Lawrence Ave,0.4873417721518987,0.4272151898734177,Highly Volatile,209,175,Low Financial Impact
+2019,312,Clarendon Ave & Gordon Ter,0.4407643312101911,0.45222929936305734,Highly Volatile,454,510,Low Financial Impact
+2019,313,Lakeview Ave & Fullerton Pkwy,0.44057623049219685,0.4237695078031212,Highly Volatile,544,603,High Capital Tie-Up
+2019,314,Ravenswood Ave & Berteau Ave,0.4251012145748988,0.4898785425101215,Highly Volatile,281,278,Low Financial Impact
+2019,315,Elston Ave & Wabansia Ave,0.38287153652392947,0.44080604534005036,Highly Volatile,174,190,Low Financial Impact
+2019,316,Damen Ave & Sunnyside Ave,0.4402730375426621,0.447098976109215,Highly Volatile,146,141,Low Financial Impact
+2019,317,Wood St & Taylor St,0.4729381443298969,0.4690721649484536,Highly Volatile,680,613,High Lost Revenue
+2019,318,Southport Ave & Irving Park Rd,0.4691151919866444,0.4040066777963272,Highly Volatile,353,323,Low Financial Impact
+2019,319,Greenview Ave & Diversey Pkwy,0.4200426439232409,0.4925373134328358,Highly Volatile,236,278,Low Financial Impact
+2019,320,Loomis St & Lexington St,0.46091370558375633,0.3949238578680203,Highly Volatile,693,611,High Lost Revenue
+2019,321,Wabash Ave & 9th St,0.4343065693430657,0.42974452554744524,Highly Volatile,736,794,High Lost Revenue
+2019,322,Kimbark Ave & 53rd St,0.40320962888665995,0.4062186559679037,Highly Volatile,558,600,High Lost Revenue
+2019,323,Sheridan Rd & Lawrence Ave,0.4279661016949153,0.4258474576271186,Highly Volatile,235,245,Low Financial Impact
+2019,324,Stockton Dr & Wrightwood Ave,0.46805349182763745,0.43536404160475484,Highly Volatile,438,482,Low Financial Impact
+2019,325,Clark St & Winnemac Ave,0.45056320400500627,0.4380475594493116,Highly Volatile,494,515,Low Financial Impact
+2019,326,Clark St & Leland Ave,0.4613935969868173,0.4538606403013183,Highly Volatile,303,299,Low Financial Impact
+2019,327,Sheffield Ave & Webster Ave,0.4255725190839695,0.42748091603053434,Highly Volatile,640,718,High Lost Revenue
+2019,328,Ellis Ave & 58th St,0.456441717791411,0.4368098159509202,Highly Volatile,593,608,High Lost Revenue
+2019,329,Lake Shore Dr & Diversey Pkwy,0.42830882352941174,0.4577205882352941,Highly Volatile,352,364,Low Financial Impact
+2019,330,Lincoln Ave & Addison St,0.43478260869565216,0.4658385093167702,Highly Volatile,147,168,Low Financial Impact
+2019,331,Halsted St & Clybourn Ave (*),0.4107883817427386,0.4149377593360996,Highly Volatile,592,671,High Lost Revenue
+2019,332,Burling St (Halsted) & Diversey Pkwy (Temp),0.4334511189634865,0.4216725559481743,Highly Volatile,475,509,Low Financial Impact
+2019,333,Ashland Ave & Blackhawk St,0.4900662251655629,0.40397350993377484,Highly Volatile,405,333,Low Financial Impact
+2019,334,Lake Shore Dr & Belmont Ave,0.45454545454545453,0.41849529780564265,Highly Volatile,372,399,Low Financial Impact
+2019,335,Calumet Ave & 35th St,0.4424778761061947,0.4778761061946903,Highly Volatile,52,59,Low Financial Impact
+2019,336,Cottage Grove Ave & 47th St,0.5247524752475248,0.40594059405940597,Highly Volatile,54,44,Low Financial Impact
+2019,337,Clark St & Chicago Ave,0.4597349643221203,0.40468909276248727,Highly Volatile,649,535,High Lost Revenue
+2019,338,Calumet Ave & 18th St,0.42877906976744184,0.46656976744186046,Highly Volatile,456,516,Low Financial Impact
+2019,339,Emerald Ave & 31st St,0.3938679245283019,0.47877358490566035,Highly Volatile,194,247,Low Financial Impact
+2019,340,Clark St & Wrightwood Ave,0.4089285714285714,0.4455357142857143,Highly Volatile,726,796,High Lost Revenue
+2019,341,Adler Planetarium,0.4669421487603306,0.48140495867768596,Highly Volatile,500,420,Low Financial Impact
+2019,342,Wolcott Ave & Polk St,0.48155737704918034,0.4108606557377049,Highly Volatile,913,821,High Lost Revenue
+2019,343,Racine Ave & Wrightwood Ave,0.48854961832061067,0.4152671755725191,Highly Volatile,469,399,Low Financial Impact
+2019,344,Ravenswood Ave & Lawrence Ave,0.44057193923145666,0.4352100089365505,Highly Volatile,1334,1090,High Lost Revenue
+2019,345,Lake Park Ave & 56th St,0.44471445929526127,0.43377885783718106,Highly Volatile,511,495,Low Financial Impact
+2019,346,Ada St & Washington Blvd,0.4380053908355795,0.4326145552560647,Highly Volatile,524,518,Low Financial Impact
+2019,347,Ashland Ave & Grace St,0.4817658349328215,0.3915547024952015,Highly Volatile,307,256,Low Financial Impact
+2019,348,California Ave & 21st St,0.3618421052631579,0.5657894736842105,Highly Volatile,57,89,Low Financial Impact
+2019,349,Halsted St & Wrightwood Ave,0.4547738693467337,0.4158291457286432,Highly Volatile,500,487,Low Financial Impact
+2019,350,Ashland Ave & Chicago Ave,0.42714285714285716,0.47,Highly Volatile,415,512,Low Financial Impact
+2019,351,Cottage Grove Ave & 51st St,0.5378151260504201,0.4117647058823529,Highly Volatile,65,50,Low Financial Impact
+2019,352,Jeffery Blvd & 67th St,0.4117647058823529,0.47058823529411764,Highly Volatile,7,11,Low Financial Impact
+2019,353,Clark St & Touhy Ave,0.5,0.453125,Highly Volatile,33,29,Low Financial Impact
+2019,354,Sheridan Rd & Greenleaf Ave,0.5033112582781457,0.39072847682119205,Highly Volatile,86,64,Low Financial Impact
+2019,355,South Shore Dr & 67th St,0.49122807017543857,0.45614035087719296,Highly Volatile,58,52,Low Financial Impact
+2019,356,Stony Island Ave & 71st St,0.38461538461538464,0.6153846153846154,Highly Volatile,5,8,Low Financial Impact
+2019,359,Larrabee St & Division St,0.4420289855072464,0.4335748792270531,Highly Volatile,659,585,High Lost Revenue
+2019,360,DIVVY Map Frame B/C Station,0.2777777777777778,0.6111111111111112,Chronic Source,5,12,Low Financial Impact
+2019,361,DIVVY CASSETTE REPAIR MOBILE STATION,0,1,Chronic Source,0,1,Low Financial Impact
+2019,364,Larrabee St & Oak St,0.42665289256198347,0.43388429752066116,Highly Volatile,611,632,High Lost Revenue
+2019,365,Halsted St & North Branch St,0.506578947368421,0.40460526315789475,Highly Volatile,166,134,Low Financial Impact
+2019,366,Loomis St & Archer Ave,0.4101123595505618,0.5393258426966292,Highly Volatile,74,106,Low Financial Impact
+2019,367,Racine Ave & 35th St,0.4470588235294118,0.5294117647058824,Highly Volatile,39,47,Low Financial Impact
+2019,368,Ashland Ave & Archer Ave,0.532608695652174,0.41304347826086957,Highly Volatile,50,40,Low Financial Impact
+2019,369,Wood St & 35th St,0.2441860465116279,0.6511627906976745,Chronic Source,22,58,Low Financial Impact
+2019,370,Calumet Ave & 21st St,0.43197278911564624,0.46938775510204084,Highly Volatile,159,163,Low Financial Impact
+2019,373,Kedzie Ave & Chicago Ave,0.4186046511627907,0.5038759689922481,Highly Volatile,55,72,Low Financial Impact
+2019,374,Western Ave & Walton St,0.4893048128342246,0.42513368983957217,Highly Volatile,527,507,Low Financial Impact
+2019,375,Sacramento Blvd & Franklin Blvd,0.44545454545454544,0.5545454545454546,Highly Volatile,49,63,Low Financial Impact
+2019,376,Artesian Ave & Hubbard St,0.5181644359464627,0.3575525812619503,Highly Volatile,468,239,Low Financial Impact
+2019,377,Kedzie Ave & Lake St,0.4846938775510204,0.4387755102040816,Highly Volatile,101,90,Low Financial Impact
+2019,378,California Ave & Lake St,0.43609022556390975,0.46616541353383456,Highly Volatile,62,65,Low Financial Impact
+2019,381,Western Ave & Monroe St,0.3959731543624161,0.46308724832214765,Highly Volatile,60,71,Low Financial Impact
+2019,382,Western Ave & Congress Pkwy,0.5941176470588235,0.34705882352941175,Highly Volatile,109,62,Low Financial Impact
+2019,383,Paulina St & Flournoy St,0.4976958525345622,0.4270353302611367,Highly Volatile,454,400,Low Financial Impact
+2019,384,Halsted St & 51st St,0.5,0.5,Highly Volatile,1,1,Low Financial Impact
+2019,385,Princeton Ave & Garfield Blvd,0.4666666666666667,0.5,Highly Volatile,29,30,Low Financial Impact
+2019,386,Halsted St & 56th St,0,1,Chronic Source,0,1,Low Financial Impact
+2019,388,Halsted St & 63rd St,0.5454545454545454,0.36363636363636365,Highly Volatile,12,8,Low Financial Impact
+2019,390,Wentworth Ave & 63rd St,0.4482758620689655,0.4827586206896552,Highly Volatile,13,14,Low Financial Impact
+2019,391,Halsted St & 69th St,0.5,0.5,Highly Volatile,1,1,Low Financial Impact
+2019,392,Perry Ave & 69th St,0.3548387096774194,0.5806451612903226,Highly Volatile,11,18,Low Financial Impact
+2019,393,Calumet Ave & 71st St,0.8,0.2,Chronic Sink,4,1,Low Financial Impact
+2019,394,Clark St & 9th St (AMLI),0.4774305555555556,0.453125,Highly Volatile,407,353,Low Financial Impact
+2019,395,Jeffery Blvd & 76th St,0.3333333333333333,0.3333333333333333,Highly Volatile,1,3,Low Financial Impact
+2019,396,Yates Blvd & 75th St,0.2727272727272727,0.6363636363636364,Chronic Source,3,8,Low Financial Impact
+2019,398,Rainbow Beach,0.25,0.25,Balanced,1,1,Low Financial Impact
+2019,399,South Shore Dr & 74th St,0.06666666666666667,0.13333333333333333,Balanced,3,2,Low Financial Impact
+2019,400,Cottage Grove Ave & 71st St,0.6,0.4,Highly Volatile,3,2,Low Financial Impact
+2019,401,Shields Ave & 28th Pl,0.3924050632911392,0.5632911392405063,Highly Volatile,65,91,Low Financial Impact
+2019,402,Shields Ave & 31st St,0.4228395061728395,0.5,Highly Volatile,149,175,Low Financial Impact
+2019,403,Wentworth Ave & 33rd St,0.44802867383512546,0.5089605734767025,Highly Volatile,137,153,Low Financial Impact
+2019,405,Wentworth Ave & 35th St,0.5578231292517006,0.40816326530612246,Highly Volatile,86,65,Low Financial Impact
+2019,406,Lake Park Ave & 35th St,0.3708609271523179,0.3973509933774834,Highly Volatile,63,67,Low Financial Impact
+2019,407,State St & Pershing Rd,0.375,0.4583333333333333,Highly Volatile,9,11,Low Financial Impact
+2019,408,Union Ave & Root St,0.5073529411764706,0.47058823529411764,Highly Volatile,69,64,Low Financial Impact
+2019,409,Shields Ave & 43rd St,0.5645161290322581,0.43548387096774194,Highly Volatile,35,28,Low Financial Impact
+2019,410,Prairie Ave & 43rd St,0.6,0.37333333333333335,Highly Volatile,46,28,Low Financial Impact
+2019,411,Halsted St & 47th Pl,0.44,0.56,Highly Volatile,35,42,Low Financial Impact
+2019,412,Princeton Ave & 47th St,0.5391304347826087,0.41739130434782606,Highly Volatile,63,48,Low Financial Impact
+2019,413,Woodlawn Ave & Lake Park Ave,0.4888888888888889,0.49333333333333335,Highly Volatile,117,119,Low Financial Impact
+2019,414,Canal St & Taylor St,0.42355605889014725,0.42129105322763305,Highly Volatile,481,546,Low Financial Impact
+2019,415,Calumet Ave & 51st St,0.54216867469879515,0.43373493975903615,Highly Volatile,53,39,Low Financial Impact
+2019,416,Dorchester Ave & 49th St,0.39690721649484534,0.5567010309278351,Highly Volatile,78,109,Low Financial Impact
+2019,417,Cornell Ave & Hyde Park Blvd,0.42940038684719534,0.4564796905222437,Highly Volatile,267,276,Low Financial Impact
+2019,418,Ellis Ave & 53rd St,0.43483412322274884,0.44786729857819907,Highly Volatile,518,487,Low Financial Impact
+2019,419,Lake Park Ave & 53rd St,0.4261954261954262,0.45114345114345117,Highly Volatile,232,251,Low Financial Impact
+2019,420,Ellis Ave & 55th St,0.4193832599118943,0.413215859030837,Highly Volatile,731,700,High Lost Revenue
+2019,421,MLK Jr Dr & 56th St (*),0.5853658536585366,0.4146341463414634,Highly Volatile,25,17,Low Financial Impact
+2019,422,DuSable Museum,0.40789473684210525,0.5657894736842105,Highly Volatile,32,44,Low Financial Impact
+2019,423,University Ave & 57th St,0.45577085088458297,0.44397641112047176,Highly Volatile,1096,1099,High Lost Revenue
+2019,424,Museum of Science and Industry,0.5657894736842105,0.39473684210526316,Highly Volatile,134,92,Low Financial Impact
+2019,425,Harper Ave & 59th St,0.42124542124542125,0.4725274725274725,Highly Volatile,295,294,Low Financial Impact
+2019,426,Ellis Ave & 60th St,0.40227703984819735,0.41840607210626185,Highly Volatile,574,595,High Lost Revenue
+2019,427,Cottage Grove Ave & 63rd St,0.45,0.5125,Highly Volatile,37,43,Low Financial Impact
+2019,428,Dorchester Ave & 63rd St,0.35135135135135137,0.5945945945945946,Highly Volatile,13,24,Low Financial Impact
+2019,429,Cottage Grove Ave & 67th St,0.5740740740740741,0.3333333333333333,Highly Volatile,33,20,Low Financial Impact
+2019,430,MLK Jr Dr & 63rd St,0.41935483870967744,0.41935483870967744,Highly Volatile,13,13,Low Financial Impact
+2019,431,Eberhart Ave & 61st St,0.4583333333333333,0.5,Highly Volatile,23,24,Low Financial Impact
+2019,432,Clark St & Lunt Ave,0.5037593984962406,0.4116541353383459,Highly Volatile,385,408,Low Financial Impact
+2019,433,Kedzie Ave & Harrison St,0.2,0.8,Chronic Source,2,8,Low Financial Impact
+2019,434,Ogden Ave & Roosevelt Rd,0.4888888888888889,0.43333333333333335,Highly Volatile,93,80,Low Financial Impact
+2019,435,Kedzie Ave & Roosevelt Rd,0.14285714285714285,0.7142857142857143,Chronic Source,1,5,Low Financial Impact
+2019,436,Fairfield Ave & Roosevelt Rd,0.52,0.4,Highly Volatile,13,11,Low Financial Impact
+2019,437,Washtenaw Ave & Ogden Ave (*),0.4567307692307692,0.5,Highly Volatile,105,115,Low Financial Impact
+2019,438,Central Park Ave & Ogden Ave,0.7222222222222222,0.2222222222222222,Chronic Sink,13,6,Low Financial Impact
+2019,439,Kedzie Ave & 21st St,0.5764705882352941,0.38823529411764707,Highly Volatile,51,34,Low Financial Impact
+2019,440,Central Park Ave & 24th St,0.4,0.6,Highly Volatile,2,4,Low Financial Impact
+2019,441,Kedzie Ave & 24th St,0.47058823529411764,0.47058823529411764,Highly Volatile,8,8,Low Financial Impact
+2019,442,California Ave & 23rd Pl,0.4439461883408072,0.45739910313901344,Highly Volatile,101,103,Low Financial Impact
+2019,443,Millard Ave & 26th St,0.23529411764705882,0.7647058823529411,Chronic Source,4,13,Low Financial Impact
+2019,444,Albany Ave & 26th St,0.3333333333333333,0.37037037037037035,Highly Volatile,11,10,Low Financial Impact
+2019,445,California Ave & 26th St,0.5454545454545454,0.3939393939393939,Highly Volatile,18,13,Low Financial Impact
+2019,446,Western Ave & 28th St,0.4268292682926829,0.5,Highly Volatile,36,45,Low Financial Impact
+2019,447,Glenwood Ave & Morse Ave,0.3942857142857143,0.45714285714285713,Highly Volatile,242,278,Low Financial Impact
+2019,448,Warren Park East,0.5029940119760479,0.4311377245508982,Highly Volatile,124,80,Low Financial Impact
+2019,449,Clark St & Columbia Ave,0.5314685314685315,0.4160839160839161,Highly Volatile,186,133,Low Financial Impact
+2019,450,Warren Park West,0.358974358974359,0.5256410256410257,Highly Volatile,32,43,Low Financial Impact
+2019,451,Sheridan Rd & Loyola Ave,0.39955357142857145,0.48660714285714285,Highly Volatile,222,276,Low Financial Impact
+2019,452,Western Ave & Granville Ave,0.3793103448275862,0.41379310344827586,Highly Volatile,25,28,Low Financial Impact
+2019,453,Clark St & Schreiber Ave,0.42152466367713004,0.47085201793721976,Highly Volatile,97,110,Low Financial Impact
+2019,454,Broadway & Granville Ave,0.3981651376146789,0.44954128440366975,Highly Volatile,263,284,Low Financial Impact
+2019,455,Maplewood Ave & Peterson Ave,0.45,0.5,Highly Volatile,9,10,Low Financial Impact
+2019,456,2112 W Peterson Ave,0.36607142857142855,0.5892857142857143,Highly Volatile,42,66,Low Financial Impact
+2019,457,Clark St & Elmdale Ave,0.49206349206349204,0.4557823129251701,Highly Volatile,245,257,Low Financial Impact
+2019,458,Broadway & Thorndale Ave,0.39829059829059826,0.4888888888888889,Highly Volatile,275,346,Low Financial Impact
+2019,459,Lakefront Trail & Bryn Mawr Ave,0.4084967320261438,0.3888888888888889,Highly Volatile,169,164,Low Financial Impact
+2019,460,Clark St & Bryn Mawr Ave,0.39622641509433965,0.4748427672955975,Highly Volatile,299,370,Low Financial Impact
+2019,461,Broadway & Ridge Ave,0.3916083916083916,0.4405594405594406,Highly Volatile,262,296,Low Financial Impact
+2019,462,Winchester (Ravenswood) Ave & Balmoral Ave,0.3767123287671233,0.5821917808219178,Highly Volatile,128,205,Low Financial Impact
+2019,463,Clark St & Berwyn Ave,0.43125,0.455,Highly Volatile,454,551,High Capital Tie-Up
+2019,464,Damen Ave & Foster Ave,0.4423076923076923,0.45726495726495725,Highly Volatile,264,265,Low Financial Impact
+2019,465,Marine Dr & Ainslie St,0.49201277955271566,0.43130990415335463,Highly Volatile,187,166,Low Financial Impact
+2019,466,Ridge Blvd & Touhy Ave,0.5220125786163522,0.4025157232704403,Highly Volatile,90,65,Low Financial Impact
+2019,467,Western Ave & Lunt Ave,0.47232472324723246,0.4575645756457565,Highly Volatile,142,134,Low Financial Impact
+2019,468,Budlong Woods Library,0.38524590163934425,0.5491803278688525,Highly Volatile,48,68,Low Financial Impact
+2019,469,St. Louis Ave & Balmoral Ave,0.41935483870967744,0.532258064516129,Highly Volatile,53,66,Low Financial Impact
+2019,470,Kedzie Ave & Foster Ave,0.5108695652173914,0.44021739130434784,Highly Volatile,95,87,Low Financial Impact
+2019,471,Francisco Ave & Foster Ave,0.46835443037974683,0.4345991561181435,Highly Volatile,119,119,Low Financial Impact
+2019,472,Lincoln Ave & Winona St,0.49765258215962443,0.4507042253521127,Highly Volatile,114,113,Low Financial Impact
+2019,474,Christiana Ave & Lawrence Ave,0.4634146341463415,0.4268292682926829,Highly Volatile,120,114,Low Financial Impact
+2019,475,Washtenaw Ave & Lawrence Ave,0.4309210526315789,0.45394736842105265,Highly Volatile,148,151,Low Financial Impact
+2019,476,Kedzie Ave & Leland Ave,0.5433526011560693,0.41040462427745666,Highly Volatile,95,76,Low Financial Impact
+2019,477,Manor Ave & Leland Ave,0.4574468085106383,0.46808510638297873,Highly Volatile,89,94,Low Financial Impact
+2019,478,Rockwell St & Eastwood Ave,0.41786743515850144,0.5043227665706052,Highly Volatile,153,203,Low Financial Impact
+2019,479,Drake Ave & Montrose Ave,0.4326923076923077,0.5240384615384616,Highly Volatile,115,139,Low Financial Impact
+2019,480,Albany Ave & Montrose Ave,0.3548387096774194,0.5967741935483871,Highly Volatile,46,86,Low Financial Impact
+2019,481,California Ave & Montrose Ave,0.3146067415730337,0.4943820224719101,Highly Volatile,63,92,Low Financial Impact
+2019,482,Campbell Ave & Montrose Ave,0.4416826003824092,0.4875717017208413,Highly Volatile,253,319,Low Financial Impact
+2019,483,Avondale Ave & Irving Park Rd,0.43636363636363634,0.5,Highly Volatile,117,131,Low Financial Impact
+2019,484,Monticello Ave & Irving Park Rd,0.5333333333333333,0.43555555555555553,Highly Volatile,134,110,Low Financial Impact
+2019,485,Sawyer Ave & Irving Park Rd,0.4108527131782946,0.5658914728682171,Highly Volatile,57,81,Low Financial Impact
+2019,486,Oakley Ave & Irving Park Rd,0.46551724137931033,0.4511494252873563,Highly Volatile,190,173,Low Financial Impact
+2019,487,California Ave & Byron St,0.40540540540540543,0.5,Highly Volatile,65,81,Low Financial Impact
+2019,488,Pulaski Rd & Eddy St (Temp),0.4,0.5333333333333333,Highly Volatile,37,40,Low Financial Impact
+2019,489,Drake Ave & Addison St,0.49828178694158076,0.47766323024054985,Highly Volatile,214,183,Low Financial Impact
+2019,490,Troy St & Elston Ave,0.47572815533980584,0.4401294498381877,Highly Volatile,158,157,Low Financial Impact
+2019,491,Talman Ave & Addison St,0.4140625,0.5208333333333334,Highly Volatile,169,232,Low Financial Impact
+2019,492,Leavitt St & Addison St,0.5265486725663717,0.4247787610619469,Highly Volatile,129,100,Low Financial Impact
+2019,493,Western Ave & Roscoe St,0.44155844155844154,0.44372294372294374,Highly Volatile,225,226,Low Financial Impact
+2019,494,Kedzie Ave & Bryn Mawr Ave,0.3508771929824561,0.6140350877192983,Highly Volatile,20,35,Low Financial Impact
+2019,495,Keystone Ave & Montrose Ave,0.4533333333333333,0.4533333333333333,Highly Volatile,38,34,Low Financial Impact
+2019,496,Avers Ave & Belmont Ave,0.3333333333333333,0.6296296296296297,Highly Volatile,45,92,Low Financial Impact
+2019,497,Kimball Ave & Belmont Ave,0.4619289340101523,0.4517766497461929,Highly Volatile,100,91,Low Financial Impact
+2019,498,California Ave & Fletcher St,0.4008097165991903,0.5222672064777328,Highly Volatile,114,164,Low Financial Impact
+2019,499,Kosciuszko Park,0.4785992217898833,0.4708171206225681,Highly Volatile,146,147,Low Financial Impact
+2019,500,Central Park Ave & Elbridge Ave,0.6555555555555556,0.3055555555555556,Highly Volatile,130,61,Low Financial Impact
+2019,501,Richmond St & Diversey Ave,0.48013245033112584,0.4503311258278146,Highly Volatile,156,164,Low Financial Impact
+2019,502,California Ave & Altgeld St,0.47191011235955055,0.4550561797752809,Highly Volatile,188,184,Low Financial Impact
+2019,503,Drake Ave & Fullerton Ave,0.3660377358490566,0.5471698113207547,Highly Volatile,107,166,Low Financial Impact
+2019,504,Campbell Ave & Fullerton Ave,0.44126984126984126,0.49523809523809526,Highly Volatile,155,175,Low Financial Impact
+2019,505,Winchester Ave & Elston Ave,0.44871794871794873,0.4512820512820513,Highly Volatile,197,211,Low Financial Impact
+2019,506,Spaulding Ave & Armitage Ave,0.44346289752650175,0.43286219081272087,Highly Volatile,290,297,Low Financial Impact
+2019,507,Humboldt Blvd & Armitage Ave,0.44142259414225943,0.4602510460251046,Highly Volatile,253,294,Low Financial Impact
+2019,508,Central Park Ave & North Ave,0.44761904761904764,0.4380952380952381,Highly Volatile,52,48,Low Financial Impact
+2019,509,Troy St & North Ave,0.5,0.37341772151898733,Highly Volatile,82,64,Low Financial Impact
+2019,510,Spaulding Ave & Division St,0.4918918918918919,0.43243243243243246,Highly Volatile,98,84,Low Financial Impact
+2019,511,Albany Ave & Bloomingdale Ave,0.4221218961625282,0.49435665914221216,Highly Volatile,266,283,Low Financial Impact
+2019,514,Ridge Blvd & Howard St,0.48951048951048953,0.44755244755244755,Highly Volatile,73,66,Low Financial Impact
+2019,515,Paulina St & Howard St,0.359375,0.5729166666666666,Highly Volatile,156,250,Low Financial Impact
+2019,517,Clark St & Jarvis Ave,0.47058823529411764,0.39705882352941174,Highly Volatile,65,59,Low Financial Impact
+2019,518,Conservatory Dr & Lake St,0.3333333333333333,0.6111111111111112,Highly Volatile,20,39,Low Financial Impact
+2019,519,Wolcott Ave & Fargo Ave,0.5681818181818182,0.4090909090909091,Highly Volatile,25,18,Low Financial Impact
+2019,520,Greenview Ave & Jarvis Ave,0.44025157232704404,0.4371069182389937,Highly Volatile,156,152,Low Financial Impact
+2019,522,Bosworth Ave & Howard St,0.4020618556701031,0.5515463917525774,Highly Volatile,80,121,Low Financial Impact
+2019,523,Eastlake Ter & Rogers Ave,0.47368421052631576,0.4515235457063712,Highly Volatile,182,183,Low Financial Impact
+2019,524,Austin Blvd & Chicago Ave,0.35294117647058826,0.6470588235294118,Highly Volatile,6,11,Low Financial Impact
+2019,525,Glenwood Ave & Touhy Ave,0.5125,0.45625,Highly Volatile,83,73,Low Financial Impact
+2019,526,Oakley Ave & Touhy Ave,0.5272727272727272,0.45454545454545453,Highly Volatile,31,27,Low Financial Impact
+2019,527,Western Ave & Howard St,0.4358974358974359,0.452991452991453,Highly Volatile,56,58,Low Financial Impact
+2019,528,Pulaski Rd & Lake St,0.4666666666666667,0.4666666666666667,Highly Volatile,7,7,Low Financial Impact
+2019,529,Cicero Ave & Lake St,0.3333333333333333,0.6666666666666666,Highly Volatile,1,2,Low Financial Impact
+2019,531,Central Ave & Lake St,0.25,0.625,Chronic Source,2,5,Low Financial Impact
+2019,532,Austin Blvd & Lake St,0.4383561643835616,0.5616438356164384,Highly Volatile,33,41,Low Financial Impact
+2019,533,Central Park Blvd & 5th Ave,0.625,0.25,Chronic Sink,10,4,Low Financial Impact
+2019,534,Karlov Ave & Madison St,0.38461538461538464,0.46153846153846156,Highly Volatile,10,12,Low Financial Impact
+2019,535,Pulaski Rd & Congress Pkwy,0.375,0.375,Highly Volatile,9,9,Low Financial Impact
+2019,536,Kostner Ave & Lake St,1,0,Chronic Sink,1,0,Low Financial Impact
+2019,537,Kenton Ave & Madison St,0.7,0.3,Highly Volatile,7,3,Low Financial Impact
+2019,538,Cicero Ave & Flournoy St,1,0,Chronic Sink,2,0,Low Financial Impact
+2019,539,Cicero Ave & Quincy St,0.6111111111111112,0.3888888888888889,Highly Volatile,11,7,Low Financial Impact
+2019,540,Laramie Ave & Madison St,0.5714285714285714,0.2857142857142857,Chronic Sink,4,2,Low Financial Impact
+2019,542,Central Ave & Madison St,0,0.8,Chronic Source,0,5,Low Financial Impact
+2019,543,Laramie Ave & Gladys Ave,0.6363636363636364,0.2727272727272727,Chronic Sink,7,3,Low Financial Impact
+2019,544,Austin Blvd & Madison St,0.4444444444444444,0.2777777777777778,Chronic Sink,8,5,Low Financial Impact
+2019,545,Kostner Ave & Adams St,0.375,0.375,Highly Volatile,6,6,Low Financial Impact
+2019,546,Damen Ave & Pershing Rd,0.42857142857142855,0.5,Highly Volatile,6,7,Low Financial Impact
+2019,547,Ashland Ave & Pershing Rd,0.29508196721311475,0.6721311475409836,Chronic Source,18,41,Low Financial Impact
+2019,548,Morgan St & Pershing Rd,0.5833333333333334,0.3333333333333333,Highly Volatile,7,4,Low Financial Impact
+2019,549,Marshfield Ave & 44th St,0.7,0.3,Highly Volatile,7,3,Low Financial Impact
+2019,550,Central Ave & Chicago Ave,0.5,0.5,Highly Volatile,1,1,Low Financial Impact
+2019,551,Hoyne Ave & 47th St,0.4268292682926829,0.5487804878048781,Highly Volatile,35,46,Low Financial Impact
+2019,552,Ashland Ave & McDowell Ave,0.5159235668789809,0.4012738853503185,Highly Volatile,81,65,Low Financial Impact
+2019,553,Elizabeth St & 47th St,0.38095238095238093,0.5714285714285714,Highly Volatile,8,12,Low Financial Impact
+2019,554,Damen Ave & 51st St,0.375,0.375,Highly Volatile,3,3,Low Financial Impact
+2019,555,Ashland Ave & 50th St,1,0,Chronic Sink,1,0,Low Financial Impact
+2019,556,Throop St & 52nd St,0.6,0.4,Highly Volatile,4,2,Low Financial Impact
+2019,558,Ashland Ave & Garfield Blvd,0.5,0.5,Highly Volatile,1,1,Low Financial Impact
+2019,559,Racine Ave & Garfield Blvd,0.3333333333333333,0,Chronic Sink,1,0,Low Financial Impact
+2019,560,Marshfield Ave & 59th St,0,1,Chronic Source,0,1,Low Financial Impact
+2019,561,Damen Ave & 59th St,0.1875,0.375,Chronic Source,3,6,Low Financial Impact
+2019,562,Racine Ave & 61st St,0.5,0.5,Highly Volatile,1,1,Low Financial Impact
+2019,563,Ashland Ave & 63rd St,0.34782608695652173,0.30434782608695654,Highly Volatile,8,7,Low Financial Impact
+2019,564,Racine Ave & 65th St,0,1,Chronic Source,0,1,Low Financial Impact
+2019,565,Ashland Ave & 66th St,0.36363636363636365,0.36363636363636365,Highly Volatile,4,4,Low Financial Impact
+2019,566,Ashland Ave & 69th St,0.5714285714285714,0.42857142857142855,Highly Volatile,12,9,Low Financial Impact
+2019,567,May St & 69th St,0.5,0.5,Highly Volatile,9,9,Low Financial Impact
+2019,569,Woodlawn Ave & 75th St,0,1,Chronic Source,0,1,Low Financial Impact
+2019,570,Evans Ave & 75th St,0.3333333333333333,0.6666666666666666,Highly Volatile,1,2,Low Financial Impact
+2019,571,Vernon Ave & 75th St,0.5,0.5,Highly Volatile,3,3,Low Financial Impact
+2019,572,State St & 76th St,0.5,0.5,Highly Volatile,1,1,Low Financial Impact
+2019,573,State St & 79th St,0.4,0.4666666666666667,Highly Volatile,6,7,Low Financial Impact
+2019,574,Vernon Ave & 79th St,0.5,0.5,Highly Volatile,1,1,Low Financial Impact
+2019,575,Cottage Grove Ave & 78th St,0,1,Chronic Source,0,3,Low Financial Impact
+2019,576,Greenwood Ave & 79th St,0.75,0.25,Chronic Sink,3,1,Low Financial Impact
+2019,577,Stony Island Ave & South Chicago Ave,0,0,Balanced,0,0,Low Financial Impact
+2019,578,Bennett Ave & 79th St,0.38461538461538464,0.46153846153846156,Highly Volatile,5,6,Low Financial Impact
+2019,579,Phillips Ave & 79th St,0.875,0.125,Chronic Sink,7,1,Low Financial Impact
+2019,580,Exchange Ave & 79th St,0.4,0.2,Chronic Sink,2,2,Low Financial Impact
+2019,581,Commercial Ave & 83rd St,0,1,Chronic Source,0,2,Low Financial Impact
+2019,582,Phillips Ave & 83rd St,0.4,0.4,Highly Volatile,3,2,Low Financial Impact
+2019,583,Stony Island Ave & 82nd St,0.6666666666666666,0.3333333333333333,Highly Volatile,4,2,Low Financial Impact
+2019,585,Cottage Grove Ave & 83rd St,0.4444444444444444,0.3333333333333333,Highly Volatile,4,4,Low Financial Impact
+2019,586,MLK Jr Dr & 83rd St,0.23076923076923078,0.5384615384615384,Chronic Source,3,7,Low Financial Impact
+2019,587,Wabash Ave & 83rd St,0.3333333333333333,0.6666666666666666,Highly Volatile,1,2,Low Financial Impact
+2019,588,South Chicago Ave & 83rd St,0.2,0.4,Chronic Source,1,2,Low Financial Impact
+2019,589,Milwaukee Ave & Cuyler Ave,0.5625,0.4125,Highly Volatile,47,35,Low Financial Impact
+2019,590,Kilbourn Ave & Irving Park Rd,0.5433070866141733,0.41732283464566927,Highly Volatile,72,62,Low Financial Impact
+2019,591,Kilbourn Ave & Milwaukee Ave,0.5232558139534884,0.45348837209302323,Highly Volatile,47,43,Low Financial Impact
+2019,592,Knox Ave & Montrose Ave,0.5041322314049587,0.4214876033057851,Highly Volatile,62,53,Low Financial Impact
+2019,593,Halsted St & 59th St,0,1,Chronic Source,0,1,Low Financial Impact
+2019,594,Western Blvd & 48th Pl,0.8125,0.125,Chronic Sink,14,2,Low Financial Impact
+2019,595,Wabash Ave & 87th St,0.4166666666666667,0.4166666666666667,Highly Volatile,5,5,Low Financial Impact
+2019,596,Benson Ave & Church St,0.4605873261205564,0.401854714064915,Highly Volatile,396,342,Low Financial Impact
+2019,597,Chicago Ave & Washington St,0.395112016293279,0.4725050916496945,Highly Volatile,255,276,Low Financial Impact
+2019,598,Elmwood Ave & Austin St,0.5,0.4945054945054945,Highly Volatile,100,109,Low Financial Impact
+2019,599,Valli Produce - Evanston Plaza,0.2857142857142857,0.6607142857142857,Chronic Source,16,38,Low Financial Impact
+2019,600,Dodge Ave & Church St,0.5833333333333334,0.3333333333333333,Highly Volatile,75,42,Low Financial Impact
+2019,601,Central St Metra,0.44981412639405205,0.46096654275092935,Highly Volatile,146,134,Low Financial Impact
+2019,602,Central St & Girard Ave,0.5929203539823009,0.37168141592920356,Highly Volatile,70,45,Low Financial Impact
+2019,603,Chicago Ave & Sheridan Rd,0.46794871794871795,0.46153846153846156,Highly Volatile,158,153,Low Financial Impact
+2019,604,Sheridan Rd & Noyes St (NU),0.48057259713701433,0.4171779141104294,Highly Volatile,289,262,Low Financial Impact
+2019,605,University Library (NU),0.48009367681498827,0.46604215456674475,Highly Volatile,260,286,Low Financial Impact
+2019,619,Keystone Ave & Fullerton Ave,0.453125,0.484375,Highly Volatile,32,31,Low Financial Impact
+2019,620,Orleans St & Chestnut St (NEXT Apts),0.4253490870032223,0.38238453276047263,Highly Volatile,536,503,Low Financial Impact
+2019,621,Aberdeen St & Randolph St,0.4261501210653753,0.41404358353510895,Highly Volatile,527,565,High Capital Tie-Up
+2019,622,California Ave & Cortez St,0.43006993006993005,0.4755244755244755,Highly Volatile,297,356,Low Financial Impact
+2019,623,Michigan Ave & 8th St,0.47766323024054985,0.38144329896907214,Highly Volatile,461,337,Low Financial Impact
+2019,624,Dearborn St & Van Buren St (*),0.4196642685851319,0.4304556354916067,Highly Volatile,466,463,Low Financial Impact
+2019,625,Chicago Ave & Dempster St,0.4338461538461538,0.47692307692307695,Highly Volatile,154,178,Low Financial Impact
+2019,626,Delano Ct & Roosevelt Rd,0.4690265486725664,0.4424778761061947,Highly Volatile,474,402,Low Financial Impact
+2019,627,LaSalle Dr & Huron St (*),0.41879350348027844,0.4222737819025522,Highly Volatile,494,478,Low Financial Impact
+2019,628,Walsh Park,0.5,0.412,Highly Volatile,166,116,Low Financial Impact
+2019,630,Kildare Ave & Montrose Ave,0.3333333333333333,0.625,Highly Volatile,8,15,Low Financial Impact
+2019,631,Malcolm X College,0.5909090909090909,0.35858585858585856,Highly Volatile,134,87,Low Financial Impact
+2019,632,Clark St & Newport St,0.42322834645669294,0.48031496062992124,Highly Volatile,252,315,Low Financial Impact
+2019,635,Fairbanks St & Superior St (*),0.4485549132947977,0.4508670520231214,Highly Volatile,666,644,High Lost Revenue
+2019,636,Orleans St & Hubbard St (*),0.38782816229116945,0.45584725536992843,Highly Volatile,523,516,Low Financial Impact
+2019,637,Wood St & Chicago Ave (*),0.4280078895463511,0.47337278106508873,Highly Volatile,305,321,Low Financial Impact
+2019,638,Clinton St & Jackson Blvd (*),0.3832046332046332,0.4922779922779923,Highly Volatile,995,1414,High Lost Revenue
+2019,639,Lakefront Trail & Wilson Ave,0.41414141414141414,0.3939393939393939,Highly Volatile,93,100,Low Financial Impact
+2019,640,Bernard St & Elston Ave,0.49673202614379086,0.4444444444444444,Highly Volatile,77,69,Low Financial Impact
+2019,641,Central Park Ave & Bloomingdale Ave,0.3138075313807531,0.401673640167364,Highly Volatile,91,116,Low Financial Impact
+2019,642,Latrobe Ave & Chicago Ave,0,1,Chronic Source,0,1,Low Financial Impact
+2019,643,Smith Park (*),0.46938775510204084,0.4489795918367347,Highly Volatile,54,48,Low Financial Impact
+2019,644,Western Ave & Fillmore St (*),0.4418604651162791,0.5193798449612403,Highly Volatile,62,76,Low Financial Impact
+2019,645,Archer (Damen) Ave & 37th St (*),0.46153846153846156,0.5,Highly Volatile,36,39,Low Financial Impact
+2019,646,State St & 54th St,0.75,0.25,Chronic Sink,4,1,Low Financial Impact
+2019,647,Elizabeth St & 59th St,0.5,0.5,Highly Volatile,1,1,Low Financial Impact
+2019,648,Carpenter St & 63rd St,0,0,Balanced,0,0,Low Financial Impact
+2019,649,Stewart Ave & 63rd St (*),0.4,0.2,Chronic Sink,2,1,Low Financial Impact
+2019,650,Eggleston Ave & 69th St (*),0.55,0.45,Highly Volatile,11,9,Low Financial Impact
+2019,653,Cornell Dr & Hayes Dr,0.42857142857142855,0.5714285714285714,Highly Volatile,3,4,Low Financial Impact
+2019,654,Racine Ave & Washington Blvd (*),0.436077057793345,0.425569176882662,Highly Volatile,309,295,Low Financial Impact
+2019,655,Hoyne Ave & Balmoral Ave,0.4301675977653631,0.5586592178770949,Highly Volatile,87,121,Low Financial Impact
+2019,656,Damen Ave & Walnut (Lake) St (*),0.35467980295566504,0.5615763546798029,Highly Volatile,85,122,Low Financial Impact
+2019,657,Wood St & Augusta Blvd,0.47874015748031495,0.4377952755905512,Highly Volatile,440,404,Low Financial Impact
+2019,658,Leavitt St & Division St (*),0.36551724137931035,0.5241379310344828,Highly Volatile,119,182,Low Financial Impact
+2019,659,Leavitt St & Chicago Ave,0.5135802469135803,0.4444444444444444,Highly Volatile,253,226,Low Financial Impact
+2019,660,Sheridan Rd & Columbia Ave,0.4890282131661442,0.45454545454545453,Highly Volatile,178,161,Low Financial Impact
+2019,661,Evanston Civic Center,0.5172413793103449,0.39655172413793105,Highly Volatile,35,26,Low Financial Impact
+2019,662,Dodge Ave & Mulford St,0.5084745762711864,0.4322033898305085,Highly Volatile,60,53,Low Financial Impact
+2019,663,Lincolnwood Dr & Central St,0.4691358024691358,0.5061728395061729,Highly Volatile,86,103,Low Financial Impact
+2019,664,Leavitt St & Belmont Ave (*),0.4393063583815029,0.5202312138728323,Highly Volatile,86,94,Low Financial Impact
+2019,665,South Chicago Ave & Elliot Ave,0,0.5,Chronic Source,0,1,Low Financial Impact
+2020,2,Buckingham Fountain,0.4915254237288136,0.3771186440677966,Highly Volatile,229,188,Low Financial Impact
+2020,3,Shedd Aquarium,0.48542274052478135,0.42565597667638483,Highly Volatile,908,696,High Lost Revenue
+2020,4,Burnham Harbor,0.42463235294117646,0.37316176470588236,Highly Volatile,344,326,Low Financial Impact
+2020,5,State St & Harrison St,0.391644908616188,0.4360313315926893,Highly Volatile,399,435,Low Financial Impact
+2020,6,Dusable Harbor,0.44779116465863456,0.42168674698795183,Highly Volatile,452,315,Low Financial Impact
+2020,7,Field Blvd & South Water St,0.4304932735426009,0.45739910313901344,Highly Volatile,607,606,High Lost Revenue
+2020,9,Leavitt St & Archer Ave,0.43010752688172044,0.4946236559139785,Highly Volatile,41,46,Low Financial Impact
+2020,11,Jeffery Blvd & 71st St,0.36923076923076925,0.4307692307692308,Highly Volatile,25,28,Low Financial Impact
+2020,12,South Shore Dr & 71st St,0.31851851851851853,0.35555555555555557,Highly Volatile,48,52,Low Financial Impact
+2020,13,Wilton Ave & Diversey Pkwy,0.43371378402107114,0.4161545215100966,Highly Volatile,820,822,High Lost Revenue
+2020,14,Morgan St & 18th St,0.42479108635097496,0.4860724233983287,Highly Volatile,465,514,Low Financial Impact
+2020,15,Racine Ave & 18th St,0.4697173620457604,0.4347240915208614,Highly Volatile,487,460,Low Financial Impact
+2020,16,Paulina Ave & North Ave,0.4522691705790297,0.4303599374021909,Highly Volatile,407,410,Low Financial Impact
+2020,17,Honore St & Division St,0.4344746162927981,0.4085005903187721,Highly Volatile,563,500,High Lost Revenue
+2020,18,Wacker Dr & Washington St,0.4839080459770115,0.40344827586206894,Highly Volatile,993,886,High Lost Revenue
+2020,19,Throop (Loomis) St & Taylor St,0.4573934837092732,0.41854636591478694,Highly Volatile,496,457,Low Financial Impact
+2020,20,Sheffield Ave & Kingsbury St,0.3768624014022787,0.4539877300613497,Highly Volatile,613,800,High Lost Revenue
+2020,21,Aberdeen St & Jackson Blvd,0.4215962441314554,0.38309859154929576,Highly Volatile,672,641,High Lost Revenue
+2020,22,May St & Taylor St,0.44212962962962965,0.4050925925925926,Highly Volatile,480,469,Low Financial Impact
+2020,23,Orleans St & Elm St,0.48928571428571427,0.44107142857142856,Highly Volatile,418,375,Low Financial Impact
+2020,24,Fairbanks Ct & Grand Ave,0.4176516942474389,0.39401103230890466,Highly Volatile,868,866,High Lost Revenue
+2020,25,Michigan Ave & Pearson St,0.4005037783375315,0.482367758186398,Highly Volatile,492,590,High Capital Tie-Up
+2020,26,McClurg Ct & Illinois St,0.4319478402607987,0.4482477587612062,Highly Volatile,1191,1223,High Lost Revenue
+2020,27,Larrabee St & North Ave,0.44840525328330205,0.4277673545966229,Highly Volatile,289,287,Low Financial Impact
+2020,28,Larrabee St & Menomonee St,0.45714285714285713,0.4406015037593985,Highly Volatile,433,423,Low Financial Impact
+2020,29,Noble St & Milwaukee Ave,0.46293888166449937,0.40312093628088425,Highly Volatile,524,449,Low Financial Impact
+2020,30,Ashland Ave & Augusta Blvd,0.47368421052631576,0.41412742382271467,Highly Volatile,474,400,Low Financial Impact
+2020,31,Franklin St & Chicago Ave,0.44017094017094016,0.3811965811965812,Highly Volatile,836,747,High Lost Revenue
+2020,32,Racine Ave & Congress Pkwy,0.4496732026143791,0.40522875816993464,Highly Volatile,454,426,Low Financial Impact
+2020,33,State St & Van Buren St,0.43600416233090533,0.4255983350676379,Highly Volatile,750,697,High Lost Revenue
+2020,34,Cannon Dr & Fullerton Ave,0.44176706827309237,0.40963855421686746,Highly Volatile,170,163,Low Financial Impact
+2020,35,Streeter Dr & Grand Ave,0.41118421052631576,0.4342105263157895,Highly Volatile,855,1149,High Lost Revenue
+2020,36,Franklin St & Jackson Blvd,0.4602510460251046,0.42343096234309624,Highly Volatile,1755,1508,High Lost Revenue
+2020,37,Dearborn St & Adams St,0.4848837209302326,0.3988372093023256,Highly Volatile,1036,953,High Lost Revenue
+2020,38,Clark St & Lake St,0.44464609800362975,0.42014519056261346,Highly Volatile,1046,961,High Lost Revenue
+2020,39,Wabash Ave & Adams St,0.43125,0.44895833333333335,Highly Volatile,1055,1059,High Lost Revenue
+2020,40,LaSalle St & Adams St,0.48329355608591884,0.4021479713603819,Highly Volatile,801,813,High Lost Revenue
+2020,41,Federal St & Polk St,0.4288272157564906,0.4386750223813787,Highly Volatile,984,934,High Lost Revenue
+2020,42,Wabash Ave & Cermak Rd,0.4496487119437939,0.4519906323185012,Highly Volatile,212,234,Low Financial Impact
+2020,43,Michigan Ave & Washington St,0.41353383458646614,0.4519632414369256,Highly Volatile,1649,2341,High Lost Revenue
+2020,44,State St & Randolph St,0.4220110847189232,0.4093428345209818,Highly Volatile,973,925,High Lost Revenue
+2020,45,Michigan Ave & Ida B Wells Dr,0.4821958456973294,0.3961424332344214,Highly Volatile,449,365,Low Financial Impact
+2020,46,Wells St & Walton St,0.44477172312223856,0.39322533136966126,Highly Volatile,447,382,Low Financial Impact
+2020,47,State St & Kinzie St,0.43972246313963576,0.4440589765828274,Highly Volatile,1292,1742,High Lost Revenue
+2020,48,Larrabee St & Kingsbury St,0.45012366034624895,0.41879637262984337,Highly Volatile,2052,1754,High Lost Revenue
+2020,49,Dearborn St & Monroe St,0.4219015280135823,0.45076400679117146,Highly Volatile,2038,2112,High Lost Revenue
+2020,50,Clark St & Ida B Wells Dr,0.43707093821510296,0.43363844393592677,Highly Volatile,788,853,High Lost Revenue
+2020,51,Clark St & Randolph St,0.4242135367016206,0.4671115347950429,Highly Volatile,1395,1458,High Lost Revenue
+2020,52,Michigan Ave & Lake St,0.43596059113300495,0.4343185550082102,Highly Volatile,1880,1963,High Lost Revenue
+2020,53,Wells St & Huron St,0.44598765432098764,0.3742283950617284,Highly Volatile,1121,818,High Lost Revenue
+2020,54,Ogden Ave & Chicago Ave,0.40311804008908686,0.44320712694877507,Highly Volatile,538,586,High Capital Tie-Up
+2020,55,Halsted St & Roosevelt Rd,0.4200913242009132,0.4714611872146119,Highly Volatile,580,707,High Lost Revenue
+2020,56,Desplaines St & Kinzie St,0.45037037037037037,0.3874074074074074,Highly Volatile,1283,936,High Lost Revenue
+2020,57,Clinton St & Roosevelt Rd,0.3564102564102564,0.4576923076923077,Highly Volatile,347,449,Low Financial Impact
+2020,58,Marshfield Ave & Cortland St,0.4040201005025126,0.4592964824120603,Highly Volatile,867,790,High Lost Revenue
+2020,59,Wabash Ave & Roosevelt Rd,0.3894811656005686,0.4591329068941009,Highly Volatile,1137,1410,High Lost Revenue
+2020,60,Dayton St & North Ave,0.3895705521472393,0.43558282208588955,Highly Volatile,491,601,High Capital Tie-Up
+2020,61,Wood St & Milwaukee Ave,0.43003064351378956,0.4330949948927477,Highly Volatile,671,711,High Lost Revenue
+2020,62,McCormick Place,0.46883468834688347,0.4254742547425474,Highly Volatile,219,202,Low Financial Impact
+2020,66,Clinton St & Lake St,0.4147501982553529,0.4195083267248216,Highly Volatile,1025,1093,High Lost Revenue
+2020,67,Sheffield Ave & Fullerton Ave,0.43934426229508194,0.4122950819672131,Highly Volatile,1212,1192,High Lost Revenue
+2020,68,Clinton St & Tilden St,0.4124668435013263,0.4177718832891247,Highly Volatile,447,500,Low Financial Impact
+2020,69,Damen Ave & Pierce Ave,0.421591804570528,0.421591804570528,Highly Volatile,915,939,High Lost Revenue
+2020,71,Morgan St & Lake St,0.4093655589123867,0.45468277945619334,Highly Volatile,1276,1425,High Lost Revenue
+2020,72,Wabash Ave & 16th St,0.42555438225976766,0.48891235480464623,Highly Volatile,767,822,High Lost Revenue
+2020,73,Jefferson St & Monroe St,0.4129353233830846,0.408955223880597,Highly Volatile,654,589,High Lost Revenue
+2020,74,Kingsbury St & Erie St,0.4464425332290852,0.4143862392494136,Highly Volatile,1312,920,High Lost Revenue
+2020,75,Canal St & Jackson Blvd,0.4234752589182969,0.45109321058688145,Highly Volatile,611,698,High Lost Revenue
+2020,76,Lake Shore Dr & Monroe St,0.5086614173228347,0.3480314960629921,Highly Volatile,811,529,High Lost Revenue
+2020,77,Clinton St & Madison St,0.42228530872959547,0.4315117104329312,Highly Volatile,2352,2329,High Lost Revenue
+2020,80,Aberdeen St & Monroe St,0.45139557266602504,0.42348411934552455,Highly Volatile,867,821,High Lost Revenue
+2020,81,Daley Center Plaza,0.4328832406671962,0.44241461477362987,Highly Volatile,1772,1870,High Lost Revenue
+2020,84,Milwaukee Ave & Grand Ave,0.4406779661016949,0.39322033898305087,Highly Volatile,868,766,High Lost Revenue
+2020,85,Michigan Ave & Oak St,0.39289678135405104,0.48612652608213097,Highly Volatile,674,890,High Lost Revenue
+2020,86,Eckhart Park,0.46554149085794655,0.41350210970464135,Highly Volatile,422,390,Low Financial Impact
+2020,87,Racine Ave & Fullerton Ave,0.4064516129032258,0.4397849462365591,Highly Volatile,553,575,High Lost Revenue
+2020,88,Racine Ave & Randolph St,0.42900763358778626,0.4259541984732824,Highly Volatile,381,435,Low Financial Impact
+2020,89,Financial Pl & Ida B Wells Dr,0.45496535796766746,0.45496535796766746,Highly Volatile,886,785,High Lost Revenue
+2020,90,Millennium Park,0.42349726775956287,0.4854280510018215,Highly Volatile,1116,1620,High Lost Revenue
+2020,91,Clinton St & Washington Blvd,0.3482758620689655,0.5275862068965518,Highly Volatile,1677,2908,High Lost Revenue
+2020,92,Carpenter St & Huron St,0.4582278481012658,0.3848101265822785,Highly Volatile,557,475,High Lost Revenue
+2020,93,Sheffield Ave & Willow St,0.4369834710743802,0.4194214876033058,Highly Volatile,606,619,High Lost Revenue
+2020,94,Clark St & Armitage Ave,0.44746059544658495,0.4133099824868651,Highly Volatile,1021,939,High Lost Revenue
+2020,95,Stony Island Ave & 64th St,0.5555555555555556,0.3888888888888889,Highly Volatile,10,7,Low Financial Impact
+2020,96,Desplaines St & Randolph St,0.4480651731160896,0.3879837067209776,Highly Volatile,699,549,High Lost Revenue
+2020,97,Field Museum,0.4726166328600406,0.44016227180527384,Highly Volatile,419,350,Low Financial Impact
+2020,98,LaSalle St & Washington St,0.44012282497441146,0.44012282497441146,Highly Volatile,1045,1069,High Lost Revenue
+2020,99,Lake Shore Dr & Ohio St,0.42424242424242425,0.42657342657342656,Highly Volatile,588,600,High Lost Revenue
+2020,100,Orleans St & Merchandise Mart Plaza,0.47236704900938475,0.4254431699687174,Highly Volatile,1792,1501,High Lost Revenue
+2020,101,63rd St Beach,0.3225806451612903,0.3655913978494624,Highly Volatile,33,42,Low Financial Impact
+2020,102,Stony Island Ave & 67th St,0.3125,0.34375,Highly Volatile,13,14,Low Financial Impact
+2020,103,Clinton St & Polk St,0.4090909090909091,0.486013986013986,Highly Volatile,129,147,Low Financial Impact
+2020,106,State St & Pearson St,0.3912611717974181,0.4160873882820258,Highly Volatile,604,581,High Lost Revenue
+2020,107,Desplaines St & Jackson Blvd,0.41959798994974873,0.4036850921273032,Highly Volatile,931,805,High Lost Revenue
+2020,108,Halsted St & Polk St,0.4134520276953511,0.45103857566765576,Highly Volatile,655,697,High Lost Revenue
+2020,109,900 W Harrison St,0.4605809128630705,0.39107883817427386,Highly Volatile,698,636,High Lost Revenue
+2020,110,Dearborn St & Erie St,0.3863789615643965,0.43762643290627107,Highly Volatile,1103,1266,High Lost Revenue
+2020,111,Sedgwick St & Huron St,0.41853932584269665,0.4241573033707865,Highly Volatile,830,929,High Lost Revenue
+2020,112,Green St & Randolph St,0.3987566607460036,0.42984014209591476,Highly Volatile,666,817,High Lost Revenue
+2020,113,Bissell St & Armitage Ave,0.4015544041450777,0.43436960276338515,Highly Volatile,699,770,High Lost Revenue
+2020,114,Sheffield Ave & Waveland Ave,0.4410844629822732,0.42231491136600624,Highly Volatile,578,580,High Lost Revenue
+2020,115,Sheffield Ave & Wellington Ave,0.4783861671469741,0.3967339097022094,Highly Volatile,786,864,High Lost Revenue
+2020,116,Western Ave & Winnebago Ave,0.417910447761194,0.41691542288557215,Highly Volatile,595,601,High Lost Revenue
+2020,117,Wilton Ave & Belmont Ave,0.4186959937156324,0.4351924587588374,Highly Volatile,955,911,High Lost Revenue
+2020,118,Sedgwick St & North Ave,0.44362969752520626,0.39688359303391385,Highly Volatile,797,652,High Lost Revenue
+2020,119,Ashland Ave & Lake St,0.5364431486880467,0.3294460641399417,Highly Volatile,509,304,Low Financial Impact
+2020,120,Wentworth Ave & Cermak Rd (Temp),0.44664031620553357,0.4723320158102767,Highly Volatile,264,325,Low Financial Impact
+2020,121,Blackstone Ave & Hyde Park Blvd,0.4563279857397504,0.40819964349376114,Highly Volatile,302,264,Low Financial Impact
+2020,122,Ogden Ave & Congress Pkwy,0.45787545787545786,0.43223443223443225,Highly Volatile,131,123,Low Financial Impact
+2020,123,California Ave & Milwaukee Ave,0.44583808437856326,0.4070695553021665,Highly Volatile,565,478,High Lost Revenue
+2020,124,Damen Ave & Cullerton St,0.42857142857142855,0.47720364741641336,Highly Volatile,174,190,Low Financial Impact
+2020,125,Rush St & Hubbard St,0.4335195530726257,0.4547486033519553,Highly Volatile,982,995,High Lost Revenue
+2020,126,Clark St & North Ave,0.43375394321766564,0.4479495268138801,Highly Volatile,370,412,Low Financial Impact
+2020,127,Lincoln Ave & Fullerton Ave,0.40346320346320347,0.44155844155844154,Highly Volatile,733,813,High Lost Revenue
+2020,128,Damen Ave & Chicago Ave,0.3878787878787879,0.4505050505050505,Highly Volatile,631,735,High Lost Revenue
+2020,129,Blue Island Ave & 18th St,0.43935926773455375,0.43935926773455375,Highly Volatile,530,543,Low Financial Impact
+2020,130,Damen Ave & Division St,0.4365904365904366,0.42515592515592515,Highly Volatile,742,663,High Lost Revenue
+2020,131,Lincoln Ave & Belmont Ave,0.40595238095238095,0.444047619047619,Highly Volatile,459,508,Low Financial Impact
+2020,132,Wentworth Ave & 24th St (Temp),0.40086206896551724,0.5387931034482759,Highly Volatile,106,135,Low Financial Impact
+2020,133,Kingsbury St & Kinzie St,0.43538355217691777,0.42709053213545267,Highly Volatile,1460,1452,High Lost Revenue
+2020,134,Peoria St & Jackson Blvd,0.412180052956752,0.4095322153574581,Highly Volatile,758,753,High Lost Revenue
+2020,135,Halsted St & 21st St,0.41350210970464135,0.4177215189873418,Highly Volatile,106,112,Low Financial Impact
+2020,136,Racine Ave & 13th St,0.45182724252491696,0.4584717607973422,Highly Volatile,148,158,Low Financial Impact
+2020,137,Morgan Ave & 14th Pl,0.45366795366795365,0.4749034749034749,Highly Volatile,374,380,Low Financial Impact
+2020,138,Clybourn Ave & Division St,0.44063647490820074,0.4186046511627907,Highly Volatile,561,520,High Lost Revenue
+2020,140,Dearborn Pkwy & Delaware Pl,0.4083129584352078,0.41483292583537085,Highly Volatile,770,888,High Lost Revenue
+2020,141,Clark St & Lincoln Ave,0.3977485928705441,0.46153846153846156,Highly Volatile,731,769,High Lost Revenue
+2020,142,McClurg Ct & Erie St,0.4278305963699222,0.4546240276577355,Highly Volatile,1140,1097,High Lost Revenue
+2020,143,Sedgwick St & Webster Ave,0.45409674234945707,0.40473840078973344,Highly Volatile,707,661,High Lost Revenue
+2020,144,Larrabee St & Webster Ave,0.4627151051625239,0.40152963671128106,Highly Volatile,734,723,High Lost Revenue
+2020,145,Mies van der Rohe Way & Chestnut St,0.44455747711088506,0.392675483214649,Highly Volatile,670,573,High Lost Revenue
+2020,146,Loomis St & Jackson Blvd,0.4265402843601896,0.44075829383886256,Highly Volatile,356,402,Low Financial Impact
+2020,147,Indiana Ave & 26th St,0.45951417004048584,0.4392712550607287,Highly Volatile,247,235,Low Financial Impact
+2020,148,State St & 33rd St,0.41262135922330095,0.4854368932038835,Highly Volatile,359,412,Low Financial Impact
+2020,149,Calumet Ave & 33rd St,0.4532710280373832,0.43224299065420563,Highly Volatile,238,222,Low Financial Impact
+2020,150,Fort Dearborn Dr & 31st St,0.41596638655462187,0.3739495798319328,Highly Volatile,159,134,Low Financial Impact
+2020,152,Lincoln Ave & Diversey Pkwy,0.4346793349168646,0.4323040380047506,Highly Volatile,506,493,Low Financial Impact
+2020,153,Southport Ave & Wellington Ave,0.41446028513238287,0.45621181262729127,Highly Volatile,662,695,High Lost Revenue
+2020,154,Southport Ave & Belmont Ave,0.4211994421199442,0.4504881450488145,Highly Volatile,382,443,Low Financial Impact
+2020,156,Clark St & Wellington Ave,0.42049808429118773,0.4224137931034483,Highly Volatile,640,681,High Lost Revenue
+2020,157,Lake Shore Dr & Wellington Ave,0.45554202192448234,0.4299634591961023,Highly Volatile,557,578,High Lost Revenue
+2020,158,Milwaukee Ave & Wabansia Ave,0.4212962962962963,0.4340277777777778,Highly Volatile,562,608,High Lost Revenue
+2020,159,Claremont Ave & Hirsch St,0.44991212653778556,0.45694200351493847,Highly Volatile,391,362,Low Financial Impact
+2020,160,Campbell Ave & North Ave,0.44122383252818037,0.4557165861513688,Highly Volatile,369,403,Low Financial Impact
+2020,161,Rush St & Superior St,0.434010152284264,0.4137055837563452,Highly Volatile,848,808,High Lost Revenue
+2020,162,Damen Ave & Wellington Ave,0.4882075471698113,0.37028301886792453,Highly Volatile,241,180,Low Financial Impact
+2020,163,Damen Ave & Clybourn Ave,0.42829076620825146,0.4656188605108055,Highly Volatile,274,323,Low Financial Impact
+2020,164,Franklin St & Lake St,0.4630681818181818,0.42329545454545453,Highly Volatile,1372,1351,High Lost Revenue
+2020,165,Clark St & Grace St,0.4398663697104677,0.3997772828507795,Highly Volatile,526,479,Low Financial Impact
+2020,166,Ashland Ave & Wrightwood Ave,0.44854881266490765,0.4472295514511873,Highly Volatile,453,465,Low Financial Impact
+2020,167,Damen Ave & Coulter St,0.4605263157894737,0.4473684210526316,Highly Volatile,35,35,Low Financial Impact
+2020,168,Michigan Ave & 14th St,0.4127708095781072,0.4925883694412771,Highly Volatile,831,890,High Lost Revenue
+2020,169,Canal St & Harrison St,0.4444444444444444,0.44074074074074077,Highly Volatile,355,345,Low Financial Impact
+2020,170,Clinton St & 18th St,0.40451745379876797,0.4702258726899384,Highly Volatile,232,259,Low Financial Impact
+2020,171,May St & Cullerton St,0.45054945054945056,0.4432234432234432,Highly Volatile,142,141,Low Financial Impact
+2020,172,Rush St & Cedar St,0.42926356589147285,0.4050387596899225,Highly Volatile,637,628,High Lost Revenue
+2020,173,Mies van der Rohe Way & Chicago Ave,0.42568807339449544,0.44311926605504587,Highly Volatile,857,861,High Lost Revenue
+2020,174,Canal St & Madison St,0.4307832422586521,0.46357012750455373,Highly Volatile,1619,1763,High Lost Revenue
+2020,175,Wells St & Polk St,0.47394296951819076,0.408062930186824,Highly Volatile,967,727,High Lost Revenue
+2020,176,Clark St & Elm St,0.40939597315436244,0.44026845637583895,Highly Volatile,1348,1581,High Lost Revenue
+2020,177,Theater on the Lake,0.4181184668989547,0.4024390243902439,Highly Volatile,428,524,Low Financial Impact
+2020,178,State St & 19th St,0.4972067039106145,0.4329608938547486,Highly Volatile,207,207,Low Financial Impact
+2020,179,MLK Jr Dr & Pershing Rd,0.44545454545454544,0.45,Highly Volatile,102,106,Low Financial Impact
+2020,180,Ritchie Ct & Banks St,0.47619047619047616,0.4367015098722416,Highly Volatile,691,609,High Lost Revenue
+2020,181,LaSalle St & Illinois St,0.44376634699215345,0.4245858761987794,Highly Volatile,1100,1140,High Lost Revenue
+2020,182,Wells St & Elm St,0.45454545454545453,0.416958041958042,Highly Volatile,1138,1016,High Lost Revenue
+2020,183,Damen Ave & Thomas St (Augusta Blvd),0.46,0.4328571428571429,Highly Volatile,497,421,Low Financial Impact
+2020,184,State St & 35th St,0.43155452436194897,0.43387470997679817,Highly Volatile,221,219,Low Financial Impact
+2020,185,Stave St & Armitage Ave,0.4625322997416021,0.4470284237726098,Highly Volatile,202,211,Low Financial Impact
+2020,186,Ogden Ave & Race Ave,0.4330254041570439,0.4330254041570439,Highly Volatile,555,559,High Lost Revenue
+2020,188,Greenview Ave & Fullerton Ave,0.4296875,0.4244791666666667,Highly Volatile,436,448,Low Financial Impact
+2020,190,Southport Ave & Wrightwood Ave,0.42912371134020616,0.4587628865979381,Highly Volatile,557,533,High Lost Revenue
+2020,191,Canal St & Monroe St,0.5369198312236287,0.3618143459915612,Highly Volatile,1098,814,High Lost Revenue
+2020,192,Canal St & Adams St,0.46099290780141844,0.41922773837667454,Highly Volatile,2947,3456,High Lost Revenue
+2020,193,State St & 29th St,0.5167785234899329,0.44966442953020136,Highly Volatile,77,70,Low Financial Impact
+2020,194,Wabash Ave & Wacker Pl,0.4265159301130524,0.4460431654676259,Highly Volatile,832,905,High Lost Revenue
+2020,195,Columbus Dr & Randolph St,0.5537509667440061,0.32018561484918795,Highly Volatile,2513,956,High Lost Revenue
+2020,196,Cityfront Plaza Dr & Pioneer Ct,0.4658385093167702,0.4152617568766637,Highly Volatile,1013,956,High Lost Revenue
+2020,197,Michigan Ave & Madison St,0.4105367793240557,0.4284294234592445,Highly Volatile,719,750,High Lost Revenue
+2020,198,Green St & Madison St,0.3832781456953642,0.45612582781456956,Highly Volatile,666,952,High Lost Revenue
+2020,199,Wabash Ave & Grand Ave,0.40404040404040403,0.39826839826839827,Highly Volatile,1148,1075,High Lost Revenue
+2020,200,MLK Jr Dr & 47th St,0.43243243243243246,0.4594594594594595,Highly Volatile,17,19,Low Financial Impact
+2020,201,Indiana Ave & 40th St,0.47368421052631576,0.45614035087719296,Highly Volatile,28,26,Low Financial Impact
+2020,202,Halsted St & 18th St,0.47058823529411764,0.4457013574660634,Highly Volatile,238,229,Low Financial Impact
+2020,203,Western Ave & 21st St,0.44166666666666665,0.48333333333333334,Highly Volatile,120,130,Low Financial Impact
+2020,204,Prairie Ave & Garfield Blvd,0.49377593360995853,0.44398340248962653,Highly Volatile,130,118,Low Financial Impact
+2020,205,Paulina St & 18th St,0.43167701863354035,0.4363354037267081,Highly Volatile,322,353,Low Financial Impact
+2020,206,Halsted St & Archer Ave,0.4908616187989556,0.39425587467362927,Highly Volatile,226,176,Low Financial Impact
+2020,207,Emerald Ave & 28th St,0.4622222222222222,0.4444444444444444,Highly Volatile,247,239,Low Financial Impact
+2020,208,Laflin St & Cullerton St,0.4095238095238095,0.49523809523809526,Highly Volatile,211,250,Low Financial Impact
+2020,209,Normal Ave & Archer Ave,0.3973509933774834,0.48013245033112584,Highly Volatile,129,152,Low Financial Impact
+2020,210,Ashland Ave & Division St,0.4195583596214511,0.4219242902208202,Highly Volatile,949,892,High Lost Revenue
+2020,211,St. Clair St & Erie St,0.44050258684405025,0.4530672579453067,Highly Volatile,1854,2615,High Lost Revenue
+2020,212,Wells St & Hubbard St,0.4354215003866976,0.39675174013921116,Highly Volatile,1266,1376,High Lost Revenue
+2020,213,Leavitt St & North Ave,0.4645669291338583,0.4204724409448819,Highly Volatile,378,364,Low Financial Impact
+2020,214,Damen Ave & Grand Ave,0.4207492795389049,0.4452449567723343,Highly Volatile,408,404,Low Financial Impact
+2020,215,Damen Ave & Madison St,0.48314606741573035,0.46441947565543074,Highly Volatile,213,191,Low Financial Impact
+2020,216,California Ave & Division St,0.4295774647887324,0.39436619718309857,Highly Volatile,129,126,Low Financial Impact
+2020,217,Elizabeth (May) St & Fulton St,0.465592972181552,0.42313323572474376,Highly Volatile,533,508,Low Financial Impact
+2020,218,Wells St & 19th St,0.431438127090301,0.48494983277591974,Highly Volatile,151,165,Low Financial Impact
+2020,219,Damen Ave & Cortland St,0.45912653975363943,0.40313549832026874,Highly Volatile,595,519,High Lost Revenue
+2020,220,Clark St & Drummond Pl,0.4152153987167736,0.4307974335472044,Highly Volatile,694,726,High Lost Revenue
+2020,222,Milwaukee Ave & Rockwell St,0.40878378378378377,0.49155405405405406,Highly Volatile,296,345,Low Financial Impact
+2020,223,Clifton Ave & Armitage Ave,0.45434047350620066,0.4137542277339346,Highly Volatile,575,483,High Lost Revenue
+2020,224,Halsted St & Willow St,0.4366754617414248,0.44591029023746703,Highly Volatile,473,505,Low Financial Impact
+2020,225,Halsted St & Dickens Ave,0.43343343343343343,0.4164164164164164,Highly Volatile,673,723,High Lost Revenue
+2020,226,Racine Ave & Belmont Ave,0.4198895027624309,0.43646408839779005,Highly Volatile,388,421,Low Financial Impact
+2020,227,Southport Ave & Waveland Ave,0.4474671669793621,0.40431519699812385,Highly Volatile,744,706,High Lost Revenue
+2020,228,Damen Ave & Melrose Ave,0.5168195718654435,0.43425076452599387,Highly Volatile,199,167,Low Financial Impact
+2020,229,Southport Ave & Roscoe St,0.41522491349480967,0.43166089965397925,Highly Volatile,675,721,High Lost Revenue
+2020,230,Lincoln Ave & Roscoe St,0.3909191583610188,0.4496124031007752,Highly Volatile,486,593,High Capital Tie-Up
+2020,231,Sheridan Rd & Montrose Ave,0.4094488188976378,0.4454443194600675,Highly Volatile,487,530,Low Financial Impact
+2020,232,Pine Grove Ave & Waveland Ave,0.40821917808219177,0.4301369863013699,Highly Volatile,666,643,High Lost Revenue
+2020,233,Sangamon St & Washington Blvd,0.40484848484848485,0.42787878787878786,Highly Volatile,510,499,Low Financial Impact
+2020,234,Clark St & Montrose Ave,0.5039619651347068,0.38510301109350237,Highly Volatile,392,297,Low Financial Impact
+2020,236,Sedgwick St & Schiller St,0.45188284518828453,0.47489539748953974,Highly Volatile,317,278,Low Financial Impact
+2020,237,MLK Jr Dr & 29th St,0.5181518151815182,0.41254125412541254,Highly Volatile,402,322,Low Financial Impact
+2020,238,Wolcott (Ravenswood) Ave & Montrose Ave,0.4223826714801444,0.4729241877256318,Highly Volatile,297,316,Low Financial Impact
+2020,239,Western Ave & Leland Ave,0.43320363164721143,0.4150453955901427,Highly Volatile,417,416,Low Financial Impact
+2020,240,Sheridan Rd & Irving Park Rd,0.431496062992126,0.40078740157480314,Highly Volatile,976,905,High Lost Revenue
+2020,241,Morgan St & Polk St,0.445290199809705,0.42150333016175073,Highly Volatile,867,827,High Lost Revenue
+2020,242,Damen Ave & Leland Ave,0.48175182481751827,0.3929440389294404,Highly Volatile,537,512,Low Financial Impact
+2020,243,Lincoln Ave & Sunnyside Ave,0.44838212634822805,0.4221879815100154,Highly Volatile,359,371,Low Financial Impact
+2020,244,Ravenswood Ave & Irving Park Rd,0.39663865546218485,0.47058823529411764,Highly Volatile,277,355,Low Financial Impact
+2020,245,Clarendon Ave & Junior Ter,0.44749596122778673,0.44749596122778673,Highly Volatile,380,367,Low Financial Impact
+2020,246,Ashland Ave & Belle Plaine Ave,0.4830917874396135,0.45652173913043476,Highly Volatile,221,225,Low Financial Impact
+2020,247,Shore Dr & 55th St,0.4043478260869565,0.38115942028985506,Highly Volatile,344,349,Low Financial Impact
+2020,248,Woodlawn Ave & 55th St,0.43202764976958524,0.41705069124423966,Highly Volatile,468,467,Low Financial Impact
+2020,249,Montrose Harbor,0.4461538461538462,0.3423076923076923,Highly Volatile,189,173,Low Financial Impact
+2020,250,Ashland Ave & Wellington Ave,0.4294117647058823,0.4372549019607843,Highly Volatile,253,267,Low Financial Impact
+2020,251,Clarendon Ave & Leland Ave,0.41825095057034223,0.45627376425855515,Highly Volatile,248,260,Low Financial Impact
+2020,252,Greenwood Ave & 47th St,0.4983388704318937,0.4186046511627907,Highly Volatile,162,136,Low Financial Impact
+2020,253,Winthrop Ave & Lawrence Ave,0.4301675977653631,0.45623836126629425,Highly Volatile,273,280,Low Financial Impact
+2020,254,Pine Grove Ave & Irving Park Rd,0.44561774023231254,0.40021119324181625,Highly Volatile,630,524,High Lost Revenue
+2020,255,Indiana Ave & Roosevelt Rd,0.44214876033057854,0.44545454545454544,Highly Volatile,1596,1418,High Lost Revenue
+2020,256,Broadway & Sheridan Rd,0.44114636642784033,0.390992835209826,Highly Volatile,578,520,High Lost Revenue
+2020,257,Lincoln Ave & Waveland Ave,0.4262295081967213,0.43815201192250375,Highly Volatile,337,381,Low Financial Impact
+2020,258,Logan Blvd & Elston Ave,0.37924865831842575,0.4847942754919499,Highly Volatile,245,348,Low Financial Impact
+2020,259,California Ave & Francis Pl (Temp),0.4637002341920375,0.4332552693208431,Highly Volatile,220,229,Low Financial Impact
+2020,260,Kedzie Ave & Milwaukee Ave,0.4489130434782609,0.4369565217391304,Highly Volatile,573,648,High Lost Revenue
+2020,261,Hermitage Ave & Polk St,0.446064139941691,0.446064139941691,Highly Volatile,438,456,Low Financial Impact
+2020,262,Halsted St & 37th St,0.4166666666666667,0.4880952380952381,Highly Volatile,37,44,Low Financial Impact
+2020,263,Rhodes Ave & 32nd St,0.5363128491620112,0.39664804469273746,Highly Volatile,106,83,Low Financial Impact
+2020,264,Stetson Ave & South Water St,0.525974025974026,0.3354978354978355,Highly Volatile,966,485,High Lost Revenue
+2020,265,Cottage Grove Ave & Oakwood Blvd,0.40707964601769914,0.48672566371681414,Highly Volatile,54,62,Low Financial Impact
+2020,267,Lake Park Ave & 47th St,0.3377049180327869,0.5639344262295082,Highly Volatile,124,189,Low Financial Impact
+2020,268,Lake Shore Dr & North Blvd,0.46070878274268107,0.38366718027734975,Highly Volatile,492,476,Low Financial Impact
+2020,270,Stony Island Ave & 75th St,0.4358974358974359,0.41025641025641024,Highly Volatile,18,17,Low Financial Impact
+2020,271,Cottage Grove Ave & 43rd St,0.425531914893617,0.45390070921985815,Highly Volatile,61,65,Low Financial Impact
+2020,272,Indiana Ave & 31st St,0.4644808743169399,0.4562841530054645,Highly Volatile,196,190,Low Financial Impact
+2020,273,Michigan Ave & 18th St,0.4492146596858639,0.42303664921465967,Highly Volatile,794,762,High Lost Revenue
+2020,274,Racine Ave & 15th St,0.46153846153846156,0.45726495726495725,Highly Volatile,120,118,Low Financial Impact
+2020,275,Ashland Ave & 13th St,0.40239043824701193,0.4641434262948207,Highly Volatile,224,263,Low Financial Impact
+2020,276,California Ave & North Ave,0.43790849673202614,0.45098039215686275,Highly Volatile,227,253,Low Financial Impact
+2020,277,Ashland Ave & Grand Ave,0.4555052790346908,0.44042232277526394,Highly Volatile,424,400,Low Financial Impact
+2020,278,Wallace St & 35th St,0.41338582677165353,0.4763779527559055,Highly Volatile,115,128,Low Financial Impact
+2020,279,Halsted St & 35th St,0.41509433962264153,0.5047169811320755,Highly Volatile,95,117,Low Financial Impact
+2020,280,Morgan St & 31st St,0.4444444444444444,0.49523809523809526,Highly Volatile,154,180,Low Financial Impact
+2020,281,Western Ave & 24th St,0.5045871559633027,0.47706422018348627,Highly Volatile,58,53,Low Financial Impact
+2020,282,Halsted St & Maxwell St,0.37967914438502676,0.42513368983957217,Highly Volatile,379,418,Low Financial Impact
+2020,283,LaSalle St & Jackson Blvd,0.47010119595216193,0.43514259429622815,Highly Volatile,1487,1426,High Lost Revenue
+2020,284,Michigan Ave & Jackson Blvd,0.42146017699115046,0.4303097345132743,Highly Volatile,654,760,High Lost Revenue
+2020,285,Wood St & Hubbard St,0.4169381107491857,0.4527687296416938,Highly Volatile,304,350,Low Financial Impact
+2020,286,Franklin St & Adams St (Temp),0.44907407407407407,0.41087962962962965,Highly Volatile,909,862,High Lost Revenue
+2020,287,Franklin St & Monroe St,0.4667913938260056,0.4639850327408793,Highly Volatile,3050,3086,High Lost Revenue
+2020,288,Larrabee St & Armitage Ave,0.4653333333333333,0.4146666666666667,Highly Volatile,510,480,Low Financial Impact
+2020,289,Wells St & Concord Ln,0.43781818181818183,0.42254545454545456,Highly Volatile,1253,1192,High Lost Revenue
+2020,290,Kedzie Ave & Palmer Ct,0.48465266558966075,0.42164781906300486,Highly Volatile,381,321,Low Financial Impact
+2020,291,Wells St & Evergreen Ave,0.46461824953445063,0.3947858472998138,Highly Volatile,956,720,High Lost Revenue
+2020,292,Southport Ave & Clark St,0.4578313253012048,0.44176706827309237,Highly Volatile,322,315,Low Financial Impact
+2020,293,Broadway & Wilson Ave,0.3747044917257683,0.48226950354609927,Highly Volatile,494,650,High Capital Tie-Up
+2020,294,Broadway & Berwyn Ave,0.4053333333333333,0.4533333333333333,Highly Volatile,416,433,Low Financial Impact
+2020,295,Broadway & Argyle St,0.4373219373219373,0.42450142450142453,Highly Volatile,371,393,Low Financial Impact
+2020,296,Broadway & Belmont Ave,0.44069529652351735,0.4222903885480573,Highly Volatile,580,609,High Lost Revenue
+2020,297,Paulina St & Montrose Ave,0.3961218836565097,0.45429362880886426,Highly Volatile,176,175,Low Financial Impact
+2020,298,Lincoln Ave & Belle Plaine Ave,0.425531914893617,0.45567375886524825,Highly Volatile,270,334,Low Financial Impact
+2020,299,Halsted St & Roscoe St,0.45300113250283125,0.4031710079275198,Highly Volatile,585,594,High Lost Revenue
+2020,300,Broadway & Barry Ave,0.38974358974358975,0.45054945054945056,Highly Volatile,896,1130,High Lost Revenue
+2020,301,Clark St & Schiller St,0.47232472324723246,0.41051660516605165,Highly Volatile,974,781,High Lost Revenue
+2020,302,Sheffield Ave & Wrightwood Ave,0.4932349323493235,0.3591635916359164,Highly Volatile,522,387,Low Financial Impact
+2020,303,Broadway & Cornelia Ave,0.45279560036663613,0.40513290559120074,Highly Volatile,752,675,High Lost Revenue
+2020,304,Broadway & Waveland Ave,0.4015544041450777,0.42918825561312607,Highly Volatile,687,721,High Lost Revenue
+2020,305,Western Ave & Division St,0.444121915820029,0.4528301886792453,Highly Volatile,416,428,Low Financial Impact
+2020,306,Sheridan Rd & Buena Ave,0.44523470839260315,0.4238975817923186,Highly Volatile,389,356,Low Financial Impact
+2020,307,Southport Ave & Clybourn Ave,0.407158836689038,0.4463087248322148,Highly Volatile,488,565,High Capital Tie-Up
+2020,308,Seeley Ave & Roscoe St,0.4324817518248175,0.5,Highly Volatile,340,337,Low Financial Impact
+2020,309,Leavitt St & Armitage Ave,0.5065176908752328,0.4134078212290503,Highly Volatile,363,339,Low Financial Impact
+2020,310,Damen Ave & Charleston St,0.46950092421441775,0.4029574861367837,Highly Volatile,315,277,Low Financial Impact
+2020,311,Leavitt St & Lawrence Ave,0.4790697674418605,0.4441860465116279,Highly Volatile,248,221,Low Financial Impact
+2020,312,Clarendon Ave & Gordon Ter,0.4531590413943355,0.4095860566448802,Highly Volatile,597,554,High Lost Revenue
+2020,313,Lakeview Ave & Fullerton Pkwy,0.45348837209302323,0.4154334038054968,Highly Volatile,655,615,High Lost Revenue
+2020,314,Ravenswood Ave & Berteau Ave,0.44327176781002636,0.42216358839050133,Highly Volatile,189,190,Low Financial Impact
+2020,315,Elston Ave & Wabansia Ave,0.4336283185840708,0.4446902654867257,Highly Volatile,215,225,Low Financial Impact
+2020,316,Damen Ave & Sunnyside Ave,0.46475195822454307,0.4464751958224543,Highly Volatile,197,197,Low Financial Impact
+2020,317,Wood St & Taylor St,0.4544303797468354,0.4708860759493671,Highly Volatile,684,675,High Lost Revenue
+2020,318,Southport Ave & Irving Park Rd,0.4811320754716981,0.3719676549865229,Highly Volatile,465,394,Low Financial Impact
+2020,319,Greenview Ave & Diversey Pkwy,0.49072512647554806,0.42327150084317033,Highly Volatile,353,317,Low Financial Impact
+2020,320,Loomis St & Lexington St,0.4422583404619333,0.43028229255774164,Highly Volatile,1076,871,High Lost Revenue
+2020,321,Wabash Ave & 9th St,0.42978003384094754,0.39678510998307953,Highly Volatile,868,783,High Lost Revenue
+2020,322,Kimbark Ave & 53rd St,0.39622641509433965,0.4195867026055705,Highly Volatile,628,741,High Lost Revenue
+2020,323,Sheridan Rd & Lawrence Ave,0.4785553047404063,0.43340857787810383,Highly Volatile,250,232,Low Financial Impact
+2020,324,Stockton Dr & Wrightwood Ave,0.43595769682726204,0.4206815511163337,Highly Volatile,542,552,High Capital Tie-Up
+2020,325,Clark St & Winnemac Ave,0.42916666666666664,0.4322916666666667,Highly Volatile,700,665,High Lost Revenue
+2020,326,Clark St & Leland Ave,0.39446870451237265,0.4861717612809316,Highly Volatile,363,431,Low Financial Impact
+2020,327,Sheffield Ave & Webster Ave,0.4020501138952164,0.4134396355353075,Highly Volatile,499,512,Low Financial Impact
+2020,328,Ellis Ave & 58th St,0.42144638403990026,0.4513715710723192,Highly Volatile,596,624,High Lost Revenue
+2020,329,Lake Shore Dr & Diversey Pkwy,0.4310077519379845,0.4356589147286822,Highly Volatile,433,396,Low Financial Impact
+2020,330,Lincoln Ave & Addison St,0.4251968503937008,0.46194225721784776,Highly Volatile,185,202,Low Financial Impact
+2020,331,Halsted St & Clybourn Ave,0.4284475281873374,0.396357328707719,Highly Volatile,872,897,High Lost Revenue
+2020,332,Burling St (Halsted) & Diversey Pkwy (Temp),0.41818181818181815,0.4303030303030303,Highly Volatile,679,728,High Lost Revenue
+2020,333,Ashland Ave & Blackhawk St,0.4351145038167939,0.455470737913486,Highly Volatile,520,542,Low Financial Impact
+2020,334,Lake Shore Dr & Belmont Ave,0.4531645569620253,0.41645569620253164,Highly Volatile,517,547,Low Financial Impact
+2020,335,Calumet Ave & 35th St,0.372972972972973,0.5135135135135135,Highly Volatile,71,101,Low Financial Impact
+2020,336,Cottage Grove Ave & 47th St,0.4539877300613497,0.4294478527607362,Highly Volatile,79,72,Low Financial Impact
+2020,337,Clark St & Chicago Ave,0.42297650130548303,0.4116623150565709,Highly Volatile,780,728,High Lost Revenue
+2020,338,Calumet Ave & 18th St,0.42836879432624114,0.4808510638297872,Highly Volatile,512,598,High Capital Tie-Up
+2020,339,Emerald Ave & 31st St,0.40535714285714286,0.46785714285714286,Highly Volatile,268,313,Low Financial Impact
+2020,340,Clark St & Wrightwood Ave,0.43932683790965454,0.4366696191319752,Highly Volatile,848,811,High Lost Revenue
+2020,341,Adler Planetarium,0.45765765765765765,0.43963963963963965,Highly Volatile,555,458,High Lost Revenue
+2020,342,Wolcott Ave & Polk St,0.4674502712477396,0.43309222423146476,Highly Volatile,1126,1114,High Lost Revenue
+2020,343,Racine Ave & Wrightwood Ave,0.45534407027818447,0.43923865300146414,Highly Volatile,449,416,Low Financial Impact
+2020,344,Ravenswood Ave & Lawrence Ave,0.4263157894736842,0.45526315789473687,Highly Volatile,1455,1545,High Lost Revenue
+2020,345,Lake Park Ave & 56th St,0.4568764568764569,0.4347319347319347,Highly Volatile,577,562,High Lost Revenue
+2020,346,Ada St & Washington Blvd,0.39867109634551495,0.44518272425249167,Highly Volatile,541,598,High Capital Tie-Up
+2020,347,Ashland Ave & Grace St,0.4966887417218543,0.41721854304635764,Highly Volatile,364,357,Low Financial Impact
+2020,348,California Ave & 21st St,0.39903846153846156,0.5336538461538461,Highly Volatile,88,120,Low Financial Impact
+2020,349,Halsted St & Wrightwood Ave,0.43167701863354035,0.41200828157349895,Highly Volatile,611,606,High Lost Revenue
+2020,350,Ashland Ave & Chicago Ave,0.41807044410413474,0.48238897396630936,Highly Volatile,398,442,Low Financial Impact
+2020,351,Cottage Grove Ave & 51st St,0.4675925925925926,0.4166666666666667,Highly Volatile,105,93,Low Financial Impact
+2020,352,Jeffery Blvd & 67th St,0.5185185185185185,0.4074074074074074,Highly Volatile,14,13,Low Financial Impact
+2020,353,Clark St & Touhy Ave,0.5051546391752577,0.4536082474226804,Highly Volatile,50,56,Low Financial Impact
+2020,354,Sheridan Rd & Greenleaf Ave,0.515748031496063,0.41338582677165353,Highly Volatile,154,126,Low Financial Impact
+2020,355,South Shore Dr & 67th St,0.49473684210526314,0.42105263157894735,Highly Volatile,48,41,Low Financial Impact
+2020,356,Stony Island Ave & 71st St,0.49166666666666664,0.45,Highly Volatile,59,54,Low Financial Impact
+2020,359,Larrabee St & Division St,0.41492537313432837,0.41592039800995023,Highly Volatile,728,703,High Lost Revenue
+2020,364,Larrabee St & Oak St,0.3972746331236897,0.4171907756813417,Highly Volatile,543,579,High Capital Tie-Up
+2020,365,Halsted St & North Branch St,0.4745308310991957,0.4450402144772118,Highly Volatile,202,193,Low Financial Impact
+2020,366,Loomis St & Archer Ave,0.4752475247524752,0.44224422442244227,Highly Volatile,168,154,Low Financial Impact
+2020,367,Racine Ave & 35th St,0.452991452991453,0.4700854700854701,Highly Volatile,56,61,Low Financial Impact
+2020,368,Ashland Ave & Archer Ave,0.5867768595041323,0.36363636363636365,Highly Volatile,76,48,Low Financial Impact
+2020,369,Wood St & 35th St,0.4155844155844156,0.4805194805194805,Highly Volatile,33,39,Low Financial Impact
+2020,370,Calumet Ave & 21st St,0.43354430379746833,0.45569620253164556,Highly Volatile,163,176,Low Financial Impact
+2020,373,Kedzie Ave & Chicago Ave,0.4625,0.475,Highly Volatile,76,82,Low Financial Impact
+2020,374,Western Ave & Walton St,0.47300469483568075,0.41784037558685444,Highly Volatile,569,492,High Lost Revenue
+2020,375,Sacramento Blvd & Franklin Blvd,0.42201834862385323,0.5321100917431193,Highly Volatile,47,62,Low Financial Impact
+2020,376,Artesian Ave & Hubbard St,0.5119705340699816,0.36464088397790057,Highly Volatile,571,307,High Lost Revenue
+2020,377,Kedzie Ave & Lake St,0.4973544973544973,0.4603174603174603,Highly Volatile,102,92,Low Financial Impact
+2020,378,California Ave & Lake St,0.41916167664670656,0.49700598802395207,Highly Volatile,74,83,Low Financial Impact
+2020,381,Western Ave & Monroe St,0.3691275167785235,0.5268456375838926,Highly Volatile,127,186,Low Financial Impact
+2020,382,Western Ave & Congress Pkwy,0.4785992217898833,0.4474708171206226,Highly Volatile,145,124,Low Financial Impact
+2020,383,Paulina St & Flournoy St,0.4967845659163987,0.4340836012861736,Highly Volatile,445,412,Low Financial Impact
+2020,384,Halsted St & 51st St,0.8,0,Chronic Sink,4,0,Low Financial Impact
+2020,385,Princeton Ave & Garfield Blvd,0.4930555555555556,0.4722222222222222,Highly Volatile,81,73,Low Financial Impact
+2020,386,Halsted St & 56th St,0.375,0.5,Highly Volatile,3,4,Low Financial Impact
+2020,388,Halsted St & 63rd St,0.2857142857142857,0.42857142857142855,Chronic Source,8,12,Low Financial Impact
+2020,390,Wentworth Ave & 63rd St,0.5789473684210527,0.39473684210526316,Highly Volatile,22,15,Low Financial Impact
+2020,391,Halsted St & 69th St,0,0.75,Chronic Source,0,6,Low Financial Impact
+2020,392,Perry Ave & 69th St,0.4444444444444444,0.5555555555555556,Highly Volatile,4,5,Low Financial Impact
+2020,393,Calumet Ave & 71st St,1,0,Chronic Sink,5,0,Low Financial Impact
+2020,394,Clark St & 9th St (AMLI),0.4819277108433735,0.43373493975903615,Highly Volatile,512,442,Low Financial Impact
+2020,395,Jeffery Blvd & 76th St,0.25,0.5,Chronic Source,1,2,Low Financial Impact
+2020,396,Yates Blvd & 75th St,0.375,0.375,Highly Volatile,4,4,Low Financial Impact
+2020,398,Rainbow Beach,0.3,0.2,Chronic Sink,3,2,Low Financial Impact
+2020,399,South Shore Dr & 74th St,0.5333333333333333,0.4,Highly Volatile,18,12,Low Financial Impact
+2020,400,Cottage Grove Ave & 71st St,0.375,0.625,Highly Volatile,3,5,Low Financial Impact
+2020,401,Shields Ave & 28th Pl,0.536144578313253,0.3855421686746988,Highly Volatile,92,72,Low Financial Impact
+2020,402,Shields Ave & 31st St,0.47653429602888087,0.4404332129963899,Highly Volatile,141,140,Low Financial Impact
+2020,403,Wentworth Ave & 33rd St,0.41621621621621624,0.5405405405405406,Highly Volatile,83,110,Low Financial Impact
+2020,405,Wentworth Ave & 35th St,0.5104602510460251,0.4309623430962343,Highly Volatile,139,120,Low Financial Impact
+2020,406,Lake Park Ave & 35th St,0.4412532637075718,0.45430809399477806,Highly Volatile,205,199,Low Financial Impact
+2020,407,State St & Pershing Rd,0.5128205128205128,0.41025641025641024,Highly Volatile,20,16,Low Financial Impact
+2020,408,Union Ave & Root St,0.3157894736842105,0.3684210526315789,Highly Volatile,6,7,Low Financial Impact
+2020,409,Shields Ave & 43rd St,0.42857142857142855,0.42857142857142855,Highly Volatile,3,3,Low Financial Impact
+2020,410,Prairie Ave & 43rd St,0.46153846153846156,0.4153846153846154,Highly Volatile,63,54,Low Financial Impact
+2020,411,Halsted St & 47th Pl,0.4727272727272727,0.509090909090909,Highly Volatile,27,28,Low Financial Impact
+2020,412,Princeton Ave & 47th St,0.74,0.26,Chronic Sink,40,13,Low Financial Impact
+2020,413,Woodlawn Ave & Lake Park Ave,0.498371335504886,0.43322475570032576,Highly Volatile,168,156,Low Financial Impact
+2020,414,Canal St & Taylor St,0.3934040047114252,0.4416961130742049,Highly Volatile,472,549,Low Financial Impact
+2020,415,Calumet Ave & 51st St,0.4631578947368421,0.4421052631578947,Highly Volatile,45,42,Low Financial Impact
+2020,416,Dorchester Ave & 49th St,0.4430379746835443,0.44936708860759494,Highly Volatile,72,74,Low Financial Impact
+2020,417,Cornell Ave & Hyde Park Blvd,0.44208037825059104,0.425531914893617,Highly Volatile,521,472,Low Financial Impact
+2020,418,Ellis Ave & 53rd St,0.4127906976744186,0.42674418604651165,Highly Volatile,459,469,Low Financial Impact
+2020,419,Lake Park Ave & 53rd St,0.4565972222222222,0.4409722222222222,Highly Volatile,328,333,Low Financial Impact
+2020,420,Ellis Ave & 55th St,0.4146981627296588,0.40857392825896766,Highly Volatile,713,728,High Lost Revenue
+2020,421,MLK Jr Dr & 56th St,0.6363636363636364,0.3181818181818182,Highly Volatile,15,7,Low Financial Impact
+2020,422,DuSable Museum,0.42168674698795183,0.5060240963855421,Highly Volatile,41,49,Low Financial Impact
+2020,423,University Ave & 57th St,0.44753086419753085,0.44058641975308643,Highly Volatile,1262,1322,High Lost Revenue
+2020,424,Museum of Science and Industry,0.3842364532019704,0.49261083743842365,Highly Volatile,121,135,Low Financial Impact
+2020,425,Harper Ave & 59th St,0.4431818181818182,0.45454545454545453,Highly Volatile,386,359,Low Financial Impact
+2020,426,Ellis Ave & 60th St,0.42402826855123676,0.4196113074204947,Highly Volatile,822,758,High Lost Revenue
+2020,427,Cottage Grove Ave & 63rd St,0.4567901234567901,0.4691358024691358,Highly Volatile,38,38,Low Financial Impact
+2020,428,Dorchester Ave & 63rd St,0.4423076923076923,0.4230769230769231,Highly Volatile,23,22,Low Financial Impact
+2020,429,Cottage Grove Ave & 67th St,0.3793103448275862,0.4482758620689655,Highly Volatile,11,13,Low Financial Impact
+2020,430,MLK Jr Dr & 63rd St,0.375,0.5625,Highly Volatile,12,18,Low Financial Impact
+2020,431,Eberhart Ave & 61st St,0.4444444444444444,0.4444444444444444,Highly Volatile,10,10,Low Financial Impact
+2020,432,Clark St & Lunt Ave,0.43427230046948356,0.45539906103286387,Highly Volatile,252,311,Low Financial Impact
+2020,433,Kedzie Ave & Harrison St,0.5555555555555556,0.2222222222222222,Chronic Sink,10,4,Low Financial Impact
+2020,434,Ogden Ave & Roosevelt Rd,0.4722222222222222,0.43333333333333335,Highly Volatile,89,83,Low Financial Impact
+2020,435,Kedzie Ave & Roosevelt Rd,0.36363636363636365,0.4090909090909091,Highly Volatile,8,10,Low Financial Impact
+2020,436,Fairfield Ave & Roosevelt Rd,0.5,0.4444444444444444,Highly Volatile,18,16,Low Financial Impact
+2020,437,Washtenaw Ave & Ogden Ave,0.46530612244897956,0.5020408163265306,Highly Volatile,124,129,Low Financial Impact
+2020,438,Central Park Ave & Ogden Ave,0.48,0.44,Highly Volatile,13,11,Low Financial Impact
+2020,439,Kedzie Ave & 21st St,0.5205479452054794,0.410958904109589,Highly Volatile,41,33,Low Financial Impact
+2020,440,Central Park Ave & 24th St,0.5454545454545454,0.2727272727272727,Chronic Sink,6,4,Low Financial Impact
+2020,441,Kedzie Ave & 24th St,0.46153846153846156,0.46153846153846156,Highly Volatile,6,6,Low Financial Impact
+2020,442,California Ave & 23rd Pl,0.5113636363636364,0.4147727272727273,Highly Volatile,94,82,Low Financial Impact
+2020,443,Millard Ave & 26th St,0.47619047619047616,0.5238095238095238,Highly Volatile,10,12,Low Financial Impact
+2020,444,Albany Ave & 26th St,0.3888888888888889,0.3888888888888889,Highly Volatile,7,8,Low Financial Impact
+2020,445,California Ave & 26th St,0.5,0.4,Highly Volatile,17,12,Low Financial Impact
+2020,446,Western Ave & 28th St,0.46875,0.53125,Highly Volatile,16,18,Low Financial Impact
+2020,447,Glenwood Ave & Morse Ave,0.41586538461538464,0.4543269230769231,Highly Volatile,202,214,Low Financial Impact
+2020,448,Warren Park East,0.5,0.4307692307692308,Highly Volatile,71,62,Low Financial Impact
+2020,449,Clark St & Columbia Ave,0.449438202247191,0.46441947565543074,Highly Volatile,140,141,Low Financial Impact
+2020,450,Warren Park West,0.3790322580645161,0.47580645161290325,Highly Volatile,48,62,Low Financial Impact
+2020,451,Sheridan Rd & Loyola Ave,0.43023255813953487,0.4813953488372093,Highly Volatile,234,251,Low Financial Impact
+2020,452,Western Ave & Granville Ave,0.3862433862433862,0.43386243386243384,Highly Volatile,81,96,Low Financial Impact
+2020,453,Clark St & Schreiber Ave,0.4269340974212034,0.4785100286532951,Highly Volatile,167,183,Low Financial Impact
+2020,454,Broadway & Granville Ave,0.4119718309859155,0.43838028169014087,Highly Volatile,305,308,Low Financial Impact
+2020,455,Maplewood Ave & Peterson Ave,0.38461538461538464,0.5,Highly Volatile,11,15,Low Financial Impact
+2020,456,2112 W Peterson Ave,0.3402061855670103,0.5979381443298969,Highly Volatile,33,64,Low Financial Impact
+2020,457,Clark St & Elmdale Ave,0.4575342465753425,0.4602739726027397,Highly Volatile,188,194,Low Financial Impact
+2020,458,Broadway & Thorndale Ave,0.392,0.476,Highly Volatile,234,289,Low Financial Impact
+2020,459,Lakefront Trail & Bryn Mawr Ave,0.3491271820448878,0.456359102244389,Highly Volatile,199,284,Low Financial Impact
+2020,460,Clark St & Bryn Mawr Ave,0.4363905325443787,0.4452662721893491,Highly Volatile,338,385,Low Financial Impact
+2020,461,Broadway & Ridge Ave,0.48792270531400966,0.394524959742351,Highly Volatile,380,311,Low Financial Impact
+2020,462,Winchester (Ravenswood) Ave & Balmoral Ave,0.40582959641255606,0.5022421524663677,Highly Volatile,233,266,Low Financial Impact
+2020,463,Clark St & Berwyn Ave,0.4194373401534527,0.46547314578005117,Highly Volatile,463,546,Low Financial Impact
+2020,464,Damen Ave & Foster Ave,0.43399638336347196,0.4810126582278481,Highly Volatile,383,381,Low Financial Impact
+2020,465,Marine Dr & Ainslie St,0.4595238095238095,0.4166666666666667,Highly Volatile,231,211,Low Financial Impact
+2020,466,Ridge Blvd & Touhy Ave,0.49411764705882355,0.4235294117647059,Highly Volatile,43,39,Low Financial Impact
+2020,467,Western Ave & Lunt Ave,0.48134328358208955,0.40671641791044777,Highly Volatile,149,121,Low Financial Impact
+2020,468,Budlong Woods Library,0.3508771929824561,0.43859649122807015,Highly Volatile,22,28,Low Financial Impact
+2020,469,St. Louis Ave & Balmoral Ave,0.562962962962963,0.37037037037037035,Highly Volatile,83,53,Low Financial Impact
+2020,470,Kedzie Ave & Foster Ave,0.5113636363636364,0.42613636363636365,Highly Volatile,93,81,Low Financial Impact
+2020,471,Francisco Ave & Foster Ave,0.3961352657004831,0.4975845410628019,Highly Volatile,93,115,Low Financial Impact
+2020,472,Lincoln Ave & Winona St,0.4444444444444444,0.5047619047619047,Highly Volatile,156,176,Low Financial Impact
+2020,474,Christiana Ave & Lawrence Ave,0.4626865671641791,0.43283582089552236,Highly Volatile,99,91,Low Financial Impact
+2020,475,Washtenaw Ave & Lawrence Ave,0.46218487394957986,0.42016806722689076,Highly Volatile,175,183,Low Financial Impact
+2020,476,Kedzie Ave & Leland Ave,0.4611872146118721,0.4474885844748858,Highly Volatile,107,103,Low Financial Impact
+2020,477,Manor Ave & Leland Ave,0.4090909090909091,0.4797979797979798,Highly Volatile,91,106,Low Financial Impact
+2020,478,Rockwell St & Eastwood Ave,0.430952380952381,0.46190476190476193,Highly Volatile,204,214,Low Financial Impact
+2020,479,Drake Ave & Montrose Ave,0.4457831325301205,0.46987951807228917,Highly Volatile,83,84,Low Financial Impact
+2020,480,Albany Ave & Montrose Ave,0.35714285714285715,0.5952380952380952,Highly Volatile,68,108,Low Financial Impact
+2020,481,California Ave & Montrose Ave,0.3,0.3709677419354839,Highly Volatile,110,123,Low Financial Impact
+2020,482,Campbell Ave & Montrose Ave,0.45594713656387664,0.45374449339207046,Highly Volatile,228,238,Low Financial Impact
+2020,483,Avondale Ave & Irving Park Rd,0.4084507042253521,0.545774647887324,Highly Volatile,167,173,Low Financial Impact
+2020,484,Monticello Ave & Irving Park Rd,0.5067264573991032,0.4170403587443946,Highly Volatile,123,118,Low Financial Impact
+2020,485,Sawyer Ave & Irving Park Rd,0.39655172413793105,0.5603448275862069,Highly Volatile,48,68,Low Financial Impact
+2020,486,Oakley Ave & Irving Park Rd,0.3857566765578635,0.5281899109792285,Highly Volatile,141,200,Low Financial Impact
+2020,487,California Ave & Byron St,0.358974358974359,0.47435897435897434,Highly Volatile,64,85,Low Financial Impact
+2020,488,Pulaski Rd & Eddy St (Temp),0.46774193548387094,0.521505376344086,Highly Volatile,98,112,Low Financial Impact
+2020,489,Drake Ave & Addison St,0.48286604361370716,0.48598130841121495,Highly Volatile,226,198,Low Financial Impact
+2020,490,Troy St & Elston Ave,0.48520710059171596,0.4260355029585799,Highly Volatile,173,159,Low Financial Impact
+2020,491,Talman Ave & Addison St,0.4117647058823529,0.4950980392156863,Highly Volatile,197,246,Low Financial Impact
+2020,492,Leavitt St & Addison St,0.45180722891566266,0.463855421686747,Highly Volatile,83,91,Low Financial Impact
+2020,493,Western Ave & Roscoe St,0.4665314401622718,0.4421906693711968,Highly Volatile,259,246,Low Financial Impact
+2020,494,Kedzie Ave & Bryn Mawr Ave,0.2748091603053435,0.6717557251908397,Chronic Source,37,91,Low Financial Impact
+2020,495,Keystone Ave & Montrose Ave,0.5113636363636364,0.29545454545454547,Chronic Sink,45,29,Low Financial Impact
+2020,496,Avers Ave & Belmont Ave,0.5159574468085106,0.43617021276595747,Highly Volatile,104,89,Low Financial Impact
+2020,497,Kimball Ave & Belmont Ave,0.4724770642201835,0.41743119266055045,Highly Volatile,111,100,Low Financial Impact
+2020,498,California Ave & Fletcher St,0.4105691056910569,0.516260162601626,Highly Volatile,112,156,Low Financial Impact
+2020,499,Kosciuszko Park,0.43555555555555553,0.4822222222222222,Highly Volatile,239,249,Low Financial Impact
+2020,500,Central Park Ave & Elbridge Ave,0.45267489711934156,0.4609053497942387,Highly Volatile,124,120,Low Financial Impact
+2020,501,Richmond St & Diversey Ave,0.449685534591195,0.44654088050314467,Highly Volatile,184,164,Low Financial Impact
+2020,502,California Ave & Altgeld St,0.48292682926829267,0.45121951219512196,Highly Volatile,218,223,Low Financial Impact
+2020,503,Drake Ave & Fullerton Ave,0.46534653465346537,0.40594059405940597,Highly Volatile,210,187,Low Financial Impact
+2020,504,Campbell Ave & Fullerton Ave,0.4368421052631579,0.4473684210526316,Highly Volatile,184,200,Low Financial Impact
+2020,505,Winchester Ave & Elston Ave,0.4292682926829268,0.48048780487804876,Highly Volatile,205,245,Low Financial Impact
+2020,506,Spaulding Ave & Armitage Ave,0.4849624060150376,0.42105263157894735,Highly Volatile,309,293,Low Financial Impact
+2020,507,Humboldt Blvd & Armitage Ave,0.47950819672131145,0.41598360655737704,Highly Volatile,311,270,Low Financial Impact
+2020,508,Central Park Ave & North Ave,0.5303030303030303,0.398989898989899,Highly Volatile,113,84,Low Financial Impact
+2020,509,Troy St & North Ave,0.4479495268138801,0.45741324921135645,Highly Volatile,158,153,Low Financial Impact
+2020,510,Spaulding Ave & Division St,0.4583333333333333,0.4479166666666667,Highly Volatile,91,89,Low Financial Impact
+2020,511,Albany Ave & Bloomingdale Ave,0.46586345381526106,0.42971887550200805,Highly Volatile,334,306,Low Financial Impact
+2020,514,Ridge Blvd & Howard St,0.5217391304347826,0.4673913043478261,Highly Volatile,53,43,Low Financial Impact
+2020,515,Paulina St & Howard St,0.43670886075949367,0.49156118143459915,Highly Volatile,255,285,Low Financial Impact
+2020,517,Clark St & Jarvis Ave,0.4722222222222222,0.40555555555555556,Highly Volatile,90,79,Low Financial Impact
+2020,518,Conservatory Dr & Lake St,0.43617021276595747,0.48936170212765956,Highly Volatile,53,59,Low Financial Impact
+2020,519,Wolcott Ave & Fargo Ave,0.47435897435897434,0.48717948717948717,Highly Volatile,40,40,Low Financial Impact
+2020,520,Greenview Ave & Jarvis Ave,0.4582392776523702,0.40857787810383744,Highly Volatile,226,213,Low Financial Impact
+2020,522,Bosworth Ave & Howard St,0.4897959183673469,0.45918367346938777,Highly Volatile,50,46,Low Financial Impact
+2020,523,Eastlake Ter & Rogers Ave,0.43724696356275305,0.44129554655870445,Highly Volatile,247,253,Low Financial Impact
+2020,524,Austin Blvd & Chicago Ave,0.4090909090909091,0.5,Highly Volatile,9,11,Low Financial Impact
+2020,525,Glenwood Ave & Touhy Ave,0.5238095238095238,0.3544973544973545,Highly Volatile,107,76,Low Financial Impact
+2020,526,Oakley Ave & Touhy Ave,0.4387755102040816,0.4489795918367347,Highly Volatile,44,47,Low Financial Impact
+2020,527,Western Ave & Howard St,0.49029126213592233,0.46601941747572817,Highly Volatile,110,106,Low Financial Impact
+2020,528,Pulaski Rd & Lake St,0.3333333333333333,0.5333333333333333,Highly Volatile,5,8,Low Financial Impact
+2020,529,Cicero Ave & Lake St,0.2,0.2,Balanced,1,1,Low Financial Impact
+2020,530,Laramie Ave & Kinzie St,0.5,0.25,Chronic Sink,2,1,Low Financial Impact
+2020,531,Central Ave & Lake St,0.4,0.4,Highly Volatile,4,4,Low Financial Impact
+2020,532,Austin Blvd & Lake St,0.2916666666666667,0.5208333333333334,Chronic Source,15,27,Low Financial Impact
+2020,533,Central Park Blvd & 5th Ave,0.2857142857142857,0.7142857142857143,Chronic Source,2,6,Low Financial Impact
+2020,534,Karlov Ave & Madison St,0.2857142857142857,0.42857142857142855,Chronic Source,2,3,Low Financial Impact
+2020,535,Pulaski Rd & Congress Pkwy,0.2222222222222222,0.3333333333333333,Chronic Source,6,9,Low Financial Impact
+2020,536,Kostner Ave & Lake St,0,0.5,Chronic Source,0,1,Low Financial Impact
+2020,537,Kenton Ave & Madison St,0,1,Chronic Source,0,1,Low Financial Impact
+2020,538,Cicero Ave & Flournoy St,0.6,0.4,Highly Volatile,3,2,Low Financial Impact
+2020,539,Cicero Ave & Quincy St,0.5,0.5,Highly Volatile,5,5,Low Financial Impact
+2020,540,Laramie Ave & Madison St,0.6666666666666666,0.2222222222222222,Chronic Sink,6,2,Low Financial Impact
+2020,541,Central Ave & Harrison St,0.25,0.5,Chronic Source,1,2,Low Financial Impact
+2020,542,Central Ave & Madison St,0.5555555555555556,0.4444444444444444,Highly Volatile,10,8,Low Financial Impact
+2020,543,Laramie Ave & Gladys Ave,0.5,0.5,Highly Volatile,2,2,Low Financial Impact
+2020,544,Austin Blvd & Madison St,0.45,0.4,Highly Volatile,10,8,Low Financial Impact
+2020,545,Kostner Ave & Adams St,0.75,0.25,Chronic Sink,3,1,Low Financial Impact
+2020,546,Damen Ave & Pershing Rd,0.14285714285714285,0.6428571428571429,Chronic Source,2,11,Low Financial Impact
+2020,547,Ashland Ave & Pershing Rd,0.36363636363636365,0.4909090909090909,Highly Volatile,23,27,Low Financial Impact
+2020,548,Morgan St & Pershing Rd,0.4782608695652174,0.4782608695652174,Highly Volatile,11,11,Low Financial Impact
+2020,549,Marshfield Ave & 44th St,0.3333333333333333,0.5833333333333334,Highly Volatile,6,9,Low Financial Impact
+2020,550,Central Ave & Chicago Ave,0.14705882352941177,0.029411764705882353,Balanced,5,1,Low Financial Impact
+2020,551,Hoyne Ave & 47th St,0.30434782608695654,0.5652173913043478,Highly Volatile,7,14,Low Financial Impact
+2020,552,Ashland Ave & McDowell Ave,0.48175182481751827,0.4744525547445255,Highly Volatile,70,65,Low Financial Impact
+2020,553,Elizabeth St & 47th St,0.4117647058823529,0.5882352941176471,Highly Volatile,7,11,Low Financial Impact
+2020,554,Damen Ave & 51st St,0.625,0.375,Highly Volatile,5,3,Low Financial Impact
+2020,555,Ashland Ave & 50th St,0.125,0.6875,Chronic Source,2,11,Low Financial Impact
+2020,556,Throop St & 52nd St,0.75,0.25,Chronic Sink,6,2,Low Financial Impact
+2020,557,Seeley Ave & Garfield Blvd,0.5714285714285714,0.42857142857142855,Highly Volatile,4,3,Low Financial Impact
+2020,558,Ashland Ave & Garfield Blvd,0.5254237288135594,0.3559322033898305,Highly Volatile,31,22,Low Financial Impact
+2020,559,Racine Ave & Garfield Blvd,0.25806451612903225,0.5,Chronic Source,16,31,Low Financial Impact
+2020,560,Marshfield Ave & 59th St,0.4,0,Chronic Sink,3,0,Low Financial Impact
+2020,562,Racine Ave & 61st St,1,0,Chronic Sink,2,0,Low Financial Impact
+2020,563,Ashland Ave & 63rd St,0.4444444444444444,0.4444444444444444,Highly Volatile,4,5,Low Financial Impact
+2020,566,Ashland Ave & 69th St,0,1,Chronic Source,0,3,Low Financial Impact
+2020,567,May St & 69th St,0.3333333333333333,0.3333333333333333,Highly Volatile,1,1,Low Financial Impact
+2020,569,Woodlawn Ave & 75th St,0.5555555555555556,0.4444444444444444,Highly Volatile,5,4,Low Financial Impact
+2020,570,Evans Ave & 75th St,0.3939393939393939,0.6060606060606061,Highly Volatile,13,20,Low Financial Impact
+2020,571,Vernon Ave & 75th St,0.4444444444444444,0.3333333333333333,Highly Volatile,16,12,Low Financial Impact
+2020,572,State St & 76th St,0.2916666666666667,0.375,Chronic Source,7,9,Low Financial Impact
+2020,573,State St & 79th St,0.6078431372549019,0.3137254901960784,Highly Volatile,33,16,Low Financial Impact
+2020,574,Vernon Ave & 79th St,0.5,0.4444444444444444,Highly Volatile,9,8,Low Financial Impact
+2020,575,Cottage Grove Ave & 78th St,0.41379310344827586,0.5862068965517241,Highly Volatile,12,17,Low Financial Impact
+2020,576,Greenwood Ave & 79th St,0.2631578947368421,0.6842105263157895,Chronic Source,5,13,Low Financial Impact
+2020,577,Stony Island Ave & South Chicago Ave,0.3333333333333333,0.6666666666666666,Highly Volatile,2,5,Low Financial Impact
+2020,578,Bennett Ave & 79th St,0.5,0.5,Highly Volatile,1,1,Low Financial Impact
+2020,579,Phillips Ave & 79th St,0.5,0,Chronic Sink,2,0,Low Financial Impact
+2020,580,Exchange Ave & 79th St,0.375,0.25,Chronic Sink,3,2,Low Financial Impact
+2020,581,Commercial Ave & 83rd St,0.3333333333333333,0.38095238095238093,Highly Volatile,7,8,Low Financial Impact
+2020,582,Phillips Ave & 83rd St,0,1,Chronic Source,0,3,Low Financial Impact
+2020,583,Stony Island Ave & 82nd St,0.375,0.5,Highly Volatile,3,4,Low Financial Impact
+2020,584,Ellis Ave & 83rd St,1,0,Chronic Sink,3,0,Low Financial Impact
+2020,585,Cottage Grove Ave & 83rd St,0.16666666666666666,0.7777777777777778,Chronic Source,4,15,Low Financial Impact
+2020,586,MLK Jr Dr & 83rd St,0.40625,0.53125,Highly Volatile,13,17,Low Financial Impact
+2020,587,Wabash Ave & 83rd St,0.3,0.5,Highly Volatile,4,6,Low Financial Impact
+2020,588,South Chicago Ave & 83rd St,1,0,Chronic Sink,2,0,Low Financial Impact
+2020,589,Milwaukee Ave & Cuyler Ave,0.44086021505376344,0.5053763440860215,Highly Volatile,43,49,Low Financial Impact
+2020,590,Kilbourn Ave & Irving Park Rd,0.5111111111111111,0.4666666666666667,Highly Volatile,49,47,Low Financial Impact
+2020,591,Kilbourn Ave & Milwaukee Ave,0.4015151515151515,0.5151515151515151,Highly Volatile,54,71,Low Financial Impact
+2020,592,Knox Ave & Montrose Ave,0.49230769230769234,0.46923076923076923,Highly Volatile,70,64,Low Financial Impact
+2020,593,Halsted St & 59th St,0.6666666666666666,0.3333333333333333,Highly Volatile,2,1,Low Financial Impact
+2020,594,Western Blvd & 48th Pl,0.3225806451612903,0.6129032258064516,Highly Volatile,20,38,Low Financial Impact
+2020,595,Wabash Ave & 87th St,0.45454545454545453,0.36363636363636365,Highly Volatile,10,8,Low Financial Impact
+2020,596,Benson Ave & Church St,0.42289348171701113,0.4562798092209857,Highly Volatile,362,369,Low Financial Impact
+2020,597,Chicago Ave & Washington St,0.44786729857819907,0.46208530805687204,Highly Volatile,212,241,Low Financial Impact
+2020,598,Elmwood Ave & Austin St,0.4888888888888889,0.48333333333333334,Highly Volatile,113,103,Low Financial Impact
+2020,599,Valli Produce - Evanston Plaza,0.3375,0.55,Highly Volatile,29,48,Low Financial Impact
+2020,600,Dodge Ave & Church St,0.6213592233009708,0.3300970873786408,Highly Volatile,65,34,Low Financial Impact
+2020,601,Central St Metra,0.4061302681992337,0.49808429118773945,Highly Volatile,121,148,Low Financial Impact
+2020,602,Central St & Girard Ave,0.5706521739130435,0.3695652173913043,Highly Volatile,112,74,Low Financial Impact
+2020,603,Chicago Ave & Sheridan Rd,0.4033898305084746,0.5016949152542373,Highly Volatile,145,166,Low Financial Impact
+2020,604,Sheridan Rd & Noyes St (NU),0.4444444444444444,0.4479717813051146,Highly Volatile,312,363,Low Financial Impact
+2020,605,University Library (NU),0.48756218905472637,0.44527363184079605,Highly Volatile,244,277,Low Financial Impact
+2020,619,Keystone Ave & Fullerton Ave,0.43609022556390975,0.5112781954887218,Highly Volatile,60,70,Low Financial Impact
+2020,620,Orleans St & Chestnut St (NEXT Apts),0.4448574969021066,0.40272614622057,Highly Volatile,498,422,Low Financial Impact
+2020,621,Aberdeen St & Randolph St,0.4329054842473746,0.41540256709451573,Highly Volatile,578,624,High Lost Revenue
+2020,622,California Ave & Cortez St,0.463884430176565,0.4478330658105939,Highly Volatile,409,403,Low Financial Impact
+2020,623,Michigan Ave & 8th St,0.4657534246575342,0.3958904109589041,Highly Volatile,568,461,High Lost Revenue
+2020,624,Dearborn St & Van Buren St,0.4205955334987593,0.38337468982630274,Highly Volatile,469,440,Low Financial Impact
+2020,625,Chicago Ave & Dempster St,0.46547314578005117,0.4475703324808184,Highly Volatile,209,187,Low Financial Impact
+2020,626,Delano Ct & Roosevelt Rd,0.4861878453038674,0.3729281767955801,Highly Volatile,507,410,Low Financial Impact
+2020,627,LaSalle Dr & Huron St,0.42533081285444235,0.3856332703213611,Highly Volatile,658,577,High Lost Revenue
+2020,628,Walsh Park,0.40482573726541554,0.46380697050938335,Highly Volatile,198,202,Low Financial Impact
+2020,630,Kildare Ave & Montrose Ave,0.703125,0.21875,Chronic Sink,47,16,Low Financial Impact
+2020,631,Malcolm X College,0.4789473684210526,0.4789473684210526,Highly Volatile,101,98,Low Financial Impact
+2020,632,Clark St & Newport St,0.48106591865357645,0.394109396914446,Highly Volatile,450,364,Low Financial Impact
+2020,635,Fairbanks St & Superior St,0.42904656319290463,0.4401330376940133,Highly Volatile,657,646,High Lost Revenue
+2020,636,Orleans St & Hubbard St,0.43109540636042404,0.4004711425206125,Highly Volatile,568,507,High Lost Revenue
+2020,637,Wood St & Chicago Ave (*),0.4241486068111455,0.4535603715170279,Highly Volatile,413,415,Low Financial Impact
+2020,638,Clinton St & Jackson Blvd,0.4171539961013645,0.43079922027290446,Highly Volatile,929,965,High Lost Revenue
+2020,639,Lakefront Trail & Wilson Ave,0.42105263157894735,0.3824561403508772,Highly Volatile,187,182,Low Financial Impact
+2020,640,Bernard St & Elston Ave,0.4947916666666667,0.4583333333333333,Highly Volatile,98,90,Low Financial Impact
+2020,641,Central Park Ave & Bloomingdale Ave,0.4083333333333333,0.49166666666666664,Highly Volatile,116,144,Low Financial Impact
+2020,642,Latrobe Ave & Chicago Ave,0.18181818181818182,0.7272727272727273,Chronic Source,2,8,Low Financial Impact
+2020,643,Smith Park (*),0.4041095890410959,0.4931506849315068,Highly Volatile,67,77,Low Financial Impact
+2020,644,Western Ave & Fillmore St (*),0.47642679900744417,0.456575682382134,Highly Volatile,227,207,Low Financial Impact
+2020,645,Archer (Damen) Ave & 37th St,0.48554913294797686,0.49710982658959535,Highly Volatile,86,89,Low Financial Impact
+2020,646,State St & 54th St,0.625,0.375,Highly Volatile,10,6,Low Financial Impact
+2020,647,Elizabeth St & 59th St,0.6,0.4,Highly Volatile,3,2,Low Financial Impact
+2020,648,Carpenter St & 63rd St,1,0,Chronic Sink,1,0,Low Financial Impact
+2020,649,Stewart Ave & 63rd St (*),0.3333333333333333,0.5,Highly Volatile,2,3,Low Financial Impact
+2020,650,Eggleston Ave & 69th St (*),1,0,Chronic Sink,2,0,Low Financial Impact
+2020,651,Michigan Ave & 71st St,1,0,Chronic Sink,2,0,Low Financial Impact
+2020,653,Cornell Dr & Hayes Dr,0.47058823529411764,0.5294117647058824,Highly Volatile,8,9,Low Financial Impact
+2020,654,Racine Ave & Washington Blvd (*),0.440536013400335,0.3936348408710218,Highly Volatile,336,315,Low Financial Impact
+2020,655,Hoyne Ave & Balmoral Ave,0.5045592705167173,0.47720364741641336,Highly Volatile,208,191,Low Financial Impact
+2020,656,Damen Ave & Walnut (Lake) St (*),0.3704918032786885,0.5737704918032787,Highly Volatile,134,243,Low Financial Impact
+2020,657,Wood St & Augusta Blvd,0.4616419919246299,0.43741588156123823,Highly Volatile,558,524,High Lost Revenue
+2020,658,Leavitt St & Division St (*),0.42411642411642414,0.4760914760914761,Highly Volatile,242,279,Low Financial Impact
+2020,659,Leavitt St & Chicago Ave,0.4763458401305057,0.43230016313213704,Highly Volatile,359,350,Low Financial Impact
+2020,660,Sheridan Rd & Columbia Ave,0.45614035087719296,0.4415204678362573,Highly Volatile,175,184,Low Financial Impact
+2020,661,Evanston Civic Center,0.4470588235294118,0.5058823529411764,Highly Volatile,47,46,Low Financial Impact
+2020,662,Dodge Ave & Mulford St,0.42857142857142855,0.48214285714285715,Highly Volatile,26,29,Low Financial Impact
+2020,663,Lincolnwood Dr & Central St,0.4301675977653631,0.5195530726256983,Highly Volatile,93,108,Low Financial Impact
+2020,664,Leavitt St & Belmont Ave (*),0.42385786802030456,0.4619289340101523,Highly Volatile,185,198,Low Financial Impact
+2020,666,Cherry Ave & Blackhawk St,0.4767025089605735,0.4946236559139785,Highly Volatile,174,195,Low Financial Impact
+2020,670,MTL-ECO5.1-01,0,0,Balanced,0,0,Low Financial Impact
+2020,671,HUBBARD ST BIKE CHECKING (LBS-WH-TEST),0.2222222222222222,0.7777777777777778,Chronic Source,4,14,Low Financial Impact
+2020,672,Franklin St & Illinois St,0.42047531992687387,0.4296160877513711,Highly Volatile,684,683,High Lost Revenue
+2020,673,Lincoln Park Conservatory,0.4307692307692308,0.46153846153846156,Highly Volatile,385,393,Low Financial Impact
+2020,675,HQ QR,0,0,Balanced,0,0,Low Financial Impact

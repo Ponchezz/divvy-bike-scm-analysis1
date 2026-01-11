@@ -1,0 +1,16 @@
+year,station_id,station_name,total_departures,total_arrivals,net_flow_total
+2020,91,Clinton St & Washington Blvd,5894,7125,1231
+2020,211,St. Clair St & Erie St,2832,3593,761
+2020,43,Michigan Ave & Washington St,3517,4209,692
+2020,192,Canal St & Adams St,7768,8277,509
+2020,90,Millennium Park,2098,2602,504
+2020,47,State St & Kinzie St,2196,2646,450
+2020,35,Streeter Dr & Grand Ave,2437,2731,294
+2020,198,Green St & Madison St,1638,1924,286
+2020,59,Wabash Ave & Roosevelt Rd,2548,2821,273
+2020,300,Broadway & Barry Ave,1903,2137,234
+2020,176,Clark St & Elm St,2926,3159,233
+2020,85,Michigan Ave & Oak St,1643,1859,216
+2020,20,Sheffield Ave & Kingsbury St,1238,1425,187
+2020,110,Dearborn St & Erie St,3109,3272,163
+2020,293,Broadway & Wilson Ave,794,950,156

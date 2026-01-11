@@ -1,0 +1,48 @@
+# ============================================================
+# SECTION H — FINANCIAL IMPACT PROXIES
+# ============================================================
+
+lost_demand <- flow_hourly %>%
+  filter(net_flow < 0) %>%
+  group_by(year, station_id, station_name) %>%
+  summarise(missed_trips = abs(sum(net_flow)), .groups = "drop")
+
+idle_inventory <- flow_hourly %>%
+  filter(net_flow > 0) %>%
+  group_by(year, station_id, station_name) %>%
+  summarise(excess_bike_hours = sum(net_flow), .groups = "drop")
+
+financial_impact <- station_risk %>%
+  left_join(lost_demand, by = c("year", "station_id", "station_name")) %>%
+  left_join(idle_inventory, by = c("year", "station_id", "station_name")) %>%
+  mutate(
+    missed_trips = replace_na(missed_trips, 0),
+    excess_bike_hours = replace_na(excess_bike_hours, 0)
+  ) %>%
+  group_by(year) %>%
+  mutate(
+    missed_trips_q75 = quantile(missed_trips, 0.75, na.rm = TRUE),
+    excess_hours_q75 = quantile(excess_bike_hours, 0.75, na.rm = TRUE),
+    financial_risk = case_when(
+      missed_trips > missed_trips_q75 ~ "High Lost Revenue",
+      excess_bike_hours > excess_hours_q75 ~ "High Capital Tie-Up",
+      TRUE ~ "Low Financial Impact"
+    )
+  ) %>%
+  ungroup() %>%
+  select(-missed_trips_q75, -excess_hours_q75)
+
+readr::write_csv(financial_impact, "outputs/tables/financial_impact.csv")
+
+p_fin_tradeoff <- ggplot(financial_impact,
+                         aes(x = missed_trips, y = excess_bike_hours, color = financial_risk)) +
+  geom_point(alpha = 0.7) +
+  facet_wrap(~year) +
+  labs(title = "Financial Impact Proxy: Lost Revenue vs Idle Capital",
+       x = "Missed Trips (Lost Revenue Proxy)",
+       y = "Excess Bike-Hours (Idle Capital Proxy)",
+       color = "Financial Risk") +
+  theme_minimal()
+
+p_fin_tradeoff
+ggsave("outputs/figures/financial_tradeoff.png", p_fin_tradeoff, width = 11, height = 6, dpi = 300)

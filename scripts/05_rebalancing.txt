@@ -1,0 +1,94 @@
+# ============================================================
+# SECTION E — REBALANCING (Net Flow = Arrivals - Departures)
+# ============================================================
+
+starts <- combined_data %>%
+  mutate(hour_ts = floor_date(started_at, "hour")) %>%
+  count(year, hour_ts,
+        station_id = start_station_id, station_name = start_station_name,
+        name = "departures")
+
+ends <- combined_data %>%
+  mutate(hour_ts = floor_date(started_at, "hour")) %>%
+  count(year, hour_ts,
+        station_id = end_station_id, station_name = end_station_name,
+        name = "arrivals")
+
+flow_hourly <- full_join(starts, ends, by = c("year","hour_ts","station_id","station_name")) %>%
+  mutate(
+    departures = replace_na(departures, 0),
+    arrivals   = replace_na(arrivals, 0),
+    net_flow   = arrivals - departures
+  )
+
+# E1) Top sinks/sources (2020)
+station_balance <- flow_hourly %>%
+  group_by(year, station_id, station_name) %>%
+  summarise(
+    total_departures = sum(departures),
+    total_arrivals   = sum(arrivals),
+    net_flow_total   = sum(net_flow),
+    .groups = "drop"
+  )
+
+top_sinks_2020 <- station_balance %>%
+  filter(year == 2020) %>%
+  arrange(net_flow_total) %>%
+  slice_head(n = 15)
+
+top_sources_2020 <- station_balance %>%
+  filter(year == 2020) %>%
+  arrange(desc(net_flow_total)) %>%
+  slice_head(n = 15)
+
+readr::write_csv(top_sinks_2020, "outputs/tables/top_sinks_2020.csv")
+readr::write_csv(top_sources_2020, "outputs/tables/top_sources_2020.csv")
+
+# E2) System imbalance by hour (rebalancing pressure proxy)
+imbalance_by_hour <- flow_hourly %>%
+  mutate(hour = hour(hour_ts)) %>%
+  group_by(year, hour) %>%
+  summarise(system_imbalance = sum(abs(net_flow)), .groups = "drop")
+
+p_imbalance_hour <- ggplot(imbalance_by_hour, aes(x = hour, y = system_imbalance)) +
+  geom_line() +
+  geom_point() +
+  facet_wrap(~year) +
+  scale_x_continuous(breaks = 0:23) +
+  labs(title = "System-wide Imbalance by Hour of Day", x = "Hour", y = "Sum(|net_flow|)") +
+  theme_minimal()
+
+p_imbalance_hour
+ggsave("outputs/figures/system_imbalance_by_hour.png", p_imbalance_hour, width = 11, height = 6, dpi = 300)
+
+# E3) Stations driving imbalance
+station_imbalance <- flow_hourly %>%
+  group_by(year, station_id, station_name) %>%
+  summarise(total_imbalance = sum(abs(net_flow)), .groups = "drop")
+
+top_imbalance_stations <- station_imbalance %>%
+  group_by(year) %>%
+  arrange(desc(total_imbalance)) %>%
+  slice_head(n = 15) %>%
+  ungroup()
+
+readr::write_csv(top_imbalance_stations, "outputs/tables/top_imbalance_stations.csv")
+
+# E4) Hour × Station heatmap (Top 15)
+hour_station_imbalance <- flow_hourly %>%
+  mutate(hour = hour(hour_ts)) %>%
+  group_by(year, hour, station_name) %>%
+  summarise(imbalance = sum(abs(net_flow)), .groups = "drop")
+
+heat_data <- hour_station_imbalance %>%
+  filter(station_name %in% top_imbalance_stations$station_name)
+
+p_heatmap <- ggplot(heat_data, aes(x = hour, y = station_name, fill = imbalance)) +
+  geom_tile() +
+  facet_wrap(~year) +
+  scale_x_continuous(breaks = c(0, 6, 12, 18, 23)) +
+  labs(title = "Hourly Imbalance by Station (Top 15)", x = "Hour", y = "Station") +
+  theme_minimal()
+
+p_heatmap
+ggsave("outputs/figures/hour_station_imbalance_heatmap.png", p_heatmap, width = 12, height = 7, dpi = 300)

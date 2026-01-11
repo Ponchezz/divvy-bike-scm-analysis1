@@ -1,8 +1,0 @@
-# Ignore R temporary files
-.Rhistory
-.RData
-.Rproj.user
-
-# Ignore dataset CSVs (store in Kaggle instead)
-data/*.csv
-outputs/combined_data.rds  # optional if you want to save intermediate outputs

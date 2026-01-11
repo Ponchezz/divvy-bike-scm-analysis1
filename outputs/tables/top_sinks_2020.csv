@@ -1,0 +1,16 @@
+year,station_id,station_name,total_departures,total_arrivals,net_flow_total
+2020,195,Columbus Dr & Randolph St,4375,2818,-1557
+2020,264,Stetson Ave & South Water St,1570,1089,-481
+2020,74,Kingsbury St & Erie St,2528,2136,-392
+2020,56,Desplaines St & Kinzie St,3012,2665,-347
+2020,53,Wells St & Huron St,2932,2629,-303
+2020,48,Larrabee St & Kingsbury St,3524,3226,-298
+2020,100,Orleans St & Merchandise Mart Plaza,2539,2248,-291
+2020,191,Canal St & Monroe St,2341,2057,-284
+2020,76,Lake Shore Dr & Monroe St,2253,1971,-282
+2020,376,Artesian Ave & Hubbard St,937,673,-264
+2020,36,Franklin St & Jackson Blvd,3040,2793,-247
+2020,175,Wells St & Polk St,1336,1096,-240
+2020,291,Wells St & Evergreen Ave,1491,1255,-236
+2020,3,Shedd Aquarium,1544,1332,-212
+2020,119,Ashland Ave & Lake St,815,610,-205

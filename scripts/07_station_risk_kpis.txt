@@ -1,0 +1,46 @@
+# ============================================================
+# SECTION G — STATION RISK KPIs (Understock + Overstock)
+# ============================================================
+
+understock_risk <- flow_hourly %>%
+  group_by(year, station_id, station_name) %>%
+  summarise(
+    total_hours = n(),
+    understock_hours = sum(net_flow < 0),
+    understock_pct = understock_hours / total_hours,
+    .groups = "drop"
+  )
+
+overstock_risk <- flow_hourly %>%
+  group_by(year, station_id, station_name) %>%
+  summarise(
+    total_hours = n(),
+    overstock_hours = sum(net_flow > 0),
+    overstock_pct = overstock_hours / total_hours,
+    .groups = "drop"
+  )
+
+station_risk <- understock_risk %>%
+  left_join(overstock_risk, by = c("year", "station_id", "station_name")) %>%
+  select(year, station_id, station_name, understock_pct, overstock_pct) %>%
+  mutate(
+    scm_category = case_when(
+      understock_pct >= 0.30 & overstock_pct < 0.30 ~ "Chronic Sink",
+      overstock_pct >= 0.30 & understock_pct < 0.30 ~ "Chronic Source",
+      understock_pct >= 0.30 & overstock_pct >= 0.30 ~ "Highly Volatile",
+      TRUE ~ "Balanced"
+    )
+  )
+
+readr::write_csv(station_risk, "outputs/tables/station_risk.csv")
+
+p_risk_map <- ggplot(station_risk, aes(x = understock_pct, y = overstock_pct, color = scm_category)) +
+  geom_point(alpha = 0.7) +
+  facet_wrap(~year) +
+  labs(title = "Station Inventory Risk Map",
+       x = "Understocking Risk (% time)", y = "Overstocking Risk (% time)",
+       color = "SCM Category") +
+  theme_minimal()
+
+p_risk_map
+ggsave("outputs/figures/station_risk_map.png", p_risk_map, width = 11, height = 6, dpi = 300)
