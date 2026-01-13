@@ -117,6 +117,9 @@ The project follows these key steps:
 This project is licensed under the MIT License - see the \[LICENSE](LICENSE) file for details.
 
 
+## Kaggle Notebook
+
+Check out the [Kaggle Notebook](https://www.kaggle.com/code/paulkamande/multi-node-inventory-rebalancing-demand-forecast) for interactive analysis and visualizations.
 
 
 
